@@ -34,9 +34,9 @@ Adding a node to the Ring:
  - On an average , we'll need to remap only k/n keys , where k is the number of keys and n is the number of servers.
  - This is in sharp contrast to our modulo based placement approach where we needed to remap nearly all the keys.
 
+
 ## Scale Down
 ![Scale Down](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/04%20Scale%20Down.png)
-
 Removing a nodefrom the ring
  - A server might go down in production and our consistent hashing scheme ensures that it has minimal effect on the number of keys and servers affected.
 
@@ -66,5 +66,5 @@ Data replication using Consistent Hashing
 	 - In eventually consistent systems, copies of data don’t always have to be identical as long as they are designed to eventually consistent.
 	 - In distributed systems, eventual consistency is used to achieve high availability.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzQ5MjQwXX0=
+eyJoaXN0b3J5IjpbOTM4NTg0ODgsNDY1MzQ5MjQwXX0=
 -->
