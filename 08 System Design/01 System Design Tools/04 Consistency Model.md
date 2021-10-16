@@ -10,7 +10,7 @@ Strong Consistency (Immediate Consistency, Synchronous Replication)
 -   Synchronous replication means failover from the source to any replica is possible at any time.
 -   The drawback of fully synchronous replication is that there might be a lot of delay to complete a transaction.
 
--   ![]()
+-   ![Strong Consistency](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistency%20model/Strong%20Consistency.png)
 
 Eventual Consistency (Week Consistency, Asynchronous Replication)
 
@@ -26,7 +26,7 @@ Eventual Consistency (Week Consistency, Asynchronous Replication)
 
 -   这种不一致只是一个暂时的状态——如果等待一段时间，从库最终会赶上并与主库保持一致。这称为最终一致性。
 
--   ![]()
+-   ![Weak Consistency](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistency%20model/Weak%20Consistency.png)
 
 Semisynchronous Replication - [https://dev.mysql.com/doc/refman/8.0/en/replication-semisync.html](https://dev.mysql.com/doc/refman/8.0/en/replication-semisync.html)
 
@@ -61,5 +61,5 @@ Causal Consistency
 -   为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
 -   这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MjkyOTY5XX0=
+eyJoaXN0b3J5IjpbLTExMDgwODk2MjMsNDA0MjkyOTY5XX0=
 -->
