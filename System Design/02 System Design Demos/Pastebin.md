@@ -1,4 +1,4 @@
-# Reference
+# Reference111
 [Grokking the System Design Interview - Designing Pastebin](https://www.educative.io/courses/grokking-the-system-design-interview/3jyvQ3pg6KO)
 [system-design-primer - pastebin](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/pastebin)
 
@@ -57,3 +57,6 @@ How to enssure unique keys?
 How to improve performance?
 * Preload part of keys in to service memory.
 * Apply hash based sharding on keys.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTQyOTA4MDJdfQ==
+-->
