@@ -1,5 +1,4 @@
-#Strong Consistency# (Immediate Consistency, Synchronous Replication)
-
+# Strong Consistency
 ![Strong Consistency](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistency%20model/Strong%20Consistency.png)
 
 **Strong Consistency** (Immediate Consistency, Synchronous Replication)
@@ -12,7 +11,7 @@
 
 ---
 
-Eventual Consistency (Week Consistency, Asynchronous Replication)
+# Eventual Consistency (Week Consistency, Asynchronous Replication)
 
 -   容忍节点故障只是需要复制的一个原因。另两个原因是可扩展性和降低延迟。
 -   单领导者的主从复制算法要求所有写入都由单个节点处理，但只读查询可以由任何节点处理。
@@ -61,5 +60,5 @@ Causal Consistency
 -   为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
 -   这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODYxMTU5MCw0MDQyOTI5NjldfQ==
+eyJoaXN0b3J5IjpbODkzODk5ODM1LDQwNDI5Mjk2OV19
 -->
