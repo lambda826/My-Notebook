@@ -35,7 +35,10 @@ Adding a node to the Ring:
  - This is in sharp contrast to our modulo based placement approach where we needed to remap nearly all the keys.
 
 ## Scale Down
+![Scale Down](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/04%20Scale%20Down.png)
 
+Removing a nodefrom the ring
+ - A server might go down in production and our consistent hashing scheme ensures that it has minimal effect on the number of keys and servers affected.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4ODU5MDg5XX0=
+eyJoaXN0b3J5IjpbMTAzMTQ2MDYyOV19
 -->
