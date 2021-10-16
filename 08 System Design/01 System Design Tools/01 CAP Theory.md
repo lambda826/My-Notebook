@@ -1,6 +1,8 @@
 Reference
 - [Grokking the System Design Interview - Key Characteristics of Distributed Systems](https://www.educative.io/courses/grokking-the-system-design-interview/YQWGjlZZVz9)
 
+---
+
 **CAP Theory**
 ![CAP Theory](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/resource/image/CAP%20Theory.png)
 
@@ -27,6 +29,6 @@ Reference
   - But if the network suffers a partition, updates in one partition might not make it to the other partitions before a client reads from the out-of-date partition after having read from the up-to-date one.
   - The only thing that can be done to cope with this possibility is to stop serving requests from the out-of-date partition, but then the service is no longer 100% available.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDQ1OTI5NywtMTU1NTYxNjM0MiwtMj
+eyJoaXN0b3J5IjpbLTc4NTk1ODg3MiwtMTU1NTYxNjM0MiwtMj
 A4ODc0NjYxMl19
 -->
