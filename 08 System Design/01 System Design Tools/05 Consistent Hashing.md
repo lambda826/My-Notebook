@@ -43,14 +43,19 @@ Removing a nodefrom the ring
 
 # Virtual Node
 ![Virtual Node 1](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/05%20Virtual%20Node%201.png)
+ - Instead of assigning a single token to a node, the hash range is divided into multiple smaller ranges, and each physical node is assigned several of these smaller ranges.
+ - Each of these subranges is considered a Vnode.
+ - With Vnodes, instead of a node being responsible for just one token, it is responsible for many tokens (or subranges).
 
--   Instead of assigning a single token to a node, the hash range is divided into multiple smaller ranges, and each physical node is assigned several of these smaller ranges.
--   Each of these subranges is considered a Vnode.
+![Virtual Node 2](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/06%20Virtual%20Node%202.png)
+ - Practically, Vnodes are randomly distributed across the cluster and are generally non-contiguous so that no two neighboring Vnodes are assigned to the same physical node or rack.
+	 - Additionally, nodes do carry replicas of other nodes for fault tolerance.
+	 - Also, since there can be heterogeneous machines in the clusters, some servers might hold more Vnodes than others.
+	 - The figure below shows how physical nodes A, B, C, D, & E use Vnodes of the Consistent Hash ring.
+	 - Each physical node is assigned a set of Vnodes and each Vnode is replicated once.
 
--   With Vnodes, instead of a node being responsible for just one token, it is responsible for many tokens (or subranges).
--
 
 # Data Replication
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyNzk0XX0=
+eyJoaXN0b3J5IjpbLTIxMzk1MDI3ODhdfQ==
 -->
