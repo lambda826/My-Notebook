@@ -39,6 +39,18 @@ Adding a node to the Ring:
 
 Removing a nodefrom the ring
  - A server might go down in production and our consistent hashing scheme ensures that it has minimal effect on the number of keys and servers affected.
+
+
+# Virtual Node
+![Virtual Node 1](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/05%20Virtual%20Node%201.png)
+
+-   Instead of assigning a single token to a node, the hash range is divided into multiple smaller ranges, and each physical node is assigned several of these smaller ranges.
+-   Each of these subranges is considered a Vnode.
+
+-   With Vnodes, instead of a node being responsible for just one token, it is responsible for many tokens (or subranges).
+-
+
+# Data Replication
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTQ2MDYyOV19
+eyJoaXN0b3J5IjpbLTE1NDIyNzk0XX0=
 -->
