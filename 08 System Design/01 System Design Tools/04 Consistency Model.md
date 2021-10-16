@@ -24,12 +24,10 @@
 
 
 # Semisynchronous Replication
-Semisynchronous Replication - [https://dev.mysql.com/doc/refman/8.0/en/replication-semisync.html](https://dev.mysql.com/doc/refman/8.0/en/replication-semisync.html)
-
--   The source waits until at least one replica has received and logged the events (the required number of replicas is configurable), and then commits the transaction.
-
--   The source does not wait for all replicas to acknowledge receipt, and it requires only an acknowledgement from the replicas, not that the events have been fully executed and committed on the replica side.
--   Semisynchronous replication therefore guarantees that if the source crashes, all the transactions that it has committed have been transmitted to at least one replica.
+**Semisynchronous Replication** - [MySQL Docs](https://dev.mysql.com/doc/refman/8.0/en/replication-semisync.html)
+- The source waits until at least one replica has received and logged the events (the required number of replicas is configurable), and then commits the transaction.
+	- The source does not wait for all replicas to acknowledge receipt, and it requires only an acknowledgement from the replicas, not that the events have been fully executed and committed on the replica side.
+	- -   Semisynchronous replication therefore guarantees that if the source crashes, all the transactions that it has committed have been transmitted to at least one replica.
 
 -   Compared to asynchronous replication, semisynchronous replication provides improved data integrity, because when a commit returns successfully, it is known that the data exists in at least two places. Until a semisynchronous source receives acknowledgment from the required number of replicas, the transaction is on hold and not committed.
 -   Compared to fully synchronous replication, semisynchronous replication is faster, because it can be configured to balance your requirements for data integrity (the number of replicas acknowledging receipt of the transaction) with the speed of commits, which are slower due to the need to wait for replicas.
@@ -57,5 +55,5 @@ Causal Consistency
 -   为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
 -   这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDgzMjUsNDA0MjkyOTY5XX0=
+eyJoaXN0b3J5IjpbNTI5ODM1MDQ0LDQwNDI5Mjk2OV19
 -->
