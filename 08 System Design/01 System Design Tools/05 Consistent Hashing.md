@@ -25,9 +25,17 @@
 				- In this case, we travel clockwise on the ring from the point where the key mapped to untill we find the first node.
 
 
-# Scale up
+# Scaling
+## Scale Up
+![Scale up](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/03%20Scale%20Up.png)
+Adding a node to the Ring:
+ - If we add another node to the hash Ring, server 4, we'll need to remap the keys.
+ - However, ONLY the keys that reside between server 3 and server 0 needs to be remapped to server 4.
+ - On an average , we'll need to remap only k/n keys , where k is the number of keys and n is the number of servers.
+ - This is in sharp contrast to our modulo based placement approach where we needed to remap nearly all the keys.
 
-#
+## Scale Down
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzUyNDQwNF19
+eyJoaXN0b3J5IjpbNDQ4ODU5MDg5XX0=
 -->
