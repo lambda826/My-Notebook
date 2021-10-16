@@ -22,7 +22,7 @@ An AMI includes the following:
    store](https://img-blog.csdnimg.cn/2f8c9e9d7f454dc8b6f57ff731fc7092.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAWXVueGlhbmdfSGU=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 # AMI Lifecycle
-![AMI Lifecycle](https://img-blog.csdnimg.cn/7e52669650fd424ab51c6ec4e56cdea7.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAWXVueGlhbmdfSGU=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)You can search for an AMI that meets the criteria for your instance.
+![AMI Lifecycle](https://img-blog.csdnimg.cn/7e52669650fd424ab51c6ec4e56cdea7.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAWXVueGlhbmdfSGU=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center) You can search for an AMI that meets the criteria for your instance.
 
 ## Create your own AMI
 You can launch an instance from an existing AMI, customize the instance (for example, install software on the instance), and then save this updated configuration as a custom AMI
