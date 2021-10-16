@@ -1,3 +1,7 @@
+Reference
+- [Grokking the System Design Interview - Key Characteristics of Distributed Systems](https://www.educative.io/courses/grokking-the-system-design-interview/YQWGjlZZVz9)
+
+**CAP Theory**
 ![CAP Theory](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/resource/image/CAP%20Theory.png)
 
 **Availability**
@@ -14,6 +18,7 @@
 - It is made possible by sufficiently replicating records across combinations of nodes and networks.
 - When dealing with modern distributed systems, Partition Tolerance is not an option. It’s a necessity.
 
+---
 
 **Note**
 - We cannot build a general data store that is continually available, sequentially consistent, and tolerant to any partition failures.
@@ -22,6 +27,6 @@
   - But if the network suffers a partition, updates in one partition might not make it to the other partitions before a client reads from the out-of-date partition after having read from the up-to-date one.
   - The only thing that can be done to cope with this possibility is to stop serving requests from the out-of-date partition, but then the service is no longer 100% available.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTA1Nzg0OCwtMTU1NTYxNjM0MiwtMj
+eyJoaXN0b3J5IjpbMTAwMDQ1OTI5NywtMTU1NTYxNjM0MiwtMj
 A4ODc0NjYxMl19
 -->
