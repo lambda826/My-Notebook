@@ -56,6 +56,15 @@ Removing a nodefrom the ring
 
 
 # Data Replication
+![Data Replication](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistent%20hashing/07%20Data%20Replication.png)
+
+Data replication using Consistent Hashing
+ - To ensure highly available and durability, Consistent Hashing replicates each data item on multiple N nodes in the system where the value N is equivalent to the replication factor.
+ - Each key is assigned to a coordinator node (generally the first node that falls in the hash range), which first stores the data locally and then replicates it to N-1N−1 clockwise successor nodes on the ring.
+	 - This results in each node owning the region on the ring between it and its NthNth predecessor.
+	 - In an eventually consistent system, this replication is done asynchronously (in the background).
+	 - In eventually consistent systems, copies of data don’t always have to be identical as long as they are designed to eventually consistent.
+	 - In distributed systems, eventual consistency is used to achieve high availability.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk1MDI3ODhdfQ==
+eyJoaXN0b3J5IjpbNDY1MzQ5MjQwXX0=
 -->
