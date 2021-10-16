@@ -34,27 +34,31 @@
 Read-after-Write Consistency - [https://avikdas.com/2020/04/13/scalability-concepts-read-after-write-consistency.html](https://avikdas.com/2020/04/13/scalability-concepts-read-after-write-consistency.html)
 
 
-# []Read-after-write consistency (https://avikdas.com/2020/04/13/scalability-concepts-read-after-write-consistency.html)
+# Read-after-Write Consistency
+[Reference](https://avikdas.com/2020/04/13/scalability-concepts-read-after-write-consistency.html)
+
 Read-after-write consistency is the ability to view changes (read data) right after making those changes (write data).
+ - For example, if you have a user profile and you change your bio on the profile, you should see the updated bio if you refresh the page. There should be no delay during which the old bio shows up.
 
--   For example, if you have a user profile and you change your bio on the profile, you should see the updated bio if you refresh the page. There should be no delay during which the old bio shows up.
 
+# 单调读
 单调读
-
 -   用户从某从库查询到了一条记录，再次刷新后发现此记录不见了，就像遇到时光倒流。如果用户从不同从库进行多次读取，就可能发生这种情况。
 -   单调读可以保证这种异常不会发生。
 -   单调读意味着如果一个用户进行多次读取时，绝对不会遇到时光倒流，即如果先前读取到较新的数据，后续读取不会得到更旧的数据。
 -   单调读比强一致性更弱，比最终一致性更强。
 -   实现单调读取的一种方式是确保每个用户总是从同一个节点进行读取（不同的用户可以从不同的节点读取），比如可以基于用户ID的哈希值来选择节点，而不是随机选择节点。
 
-Sequential Consistency
 
+# Sequential Consistency
+
+
+# Causal Consistency
 Causal Consistency
-
--   在本文中阐述因果一致性可能并不是一个很好的时机，因为它往往发生在分区（也称为分片）的分布式数据库中。
--   分区后，每个节点并不包含全部数据。不同的节点独立运行，因此不存在全局写入顺序。如果用户A提交一个问题，用户B提交了回答。问题写入了节点A，回答写入了节点B。因为同步延迟，发起查询的用户可能会先看到回答，再看到问题。
--   为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
--   这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
+ - 在本文中阐述因果一致性可能并不是一个很好的时机，因为它往往发生在分区（也称为分片）的分布式数据库中。
+ - 分区后，每个节点并不包含全部数据。不同的节点独立运行，因此不存在全局写入顺序。如果用户A提交一个问题，用户B提交了回答。问题写入了节点A，回答写入了节点B。因为同步延迟，发起查询的用户可能会先看到回答，再看到问题。
+ - 为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
+ - 这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4NjQ5NDksNDA0MjkyOTY5XX0=
+eyJoaXN0b3J5IjpbLTEzNTk5NjY5ODUsNDA0MjkyOTY5XX0=
 -->
