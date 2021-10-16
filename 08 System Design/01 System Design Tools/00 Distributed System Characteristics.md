@@ -1,3 +1,8 @@
+Reference
+- [Grokking the System Design Interview - Key Characteristics of Distributed Systems](https://www.educative.io/courses/grokking-the-system-design-interview/YQWGjlZZVz9)
+
+---
+
 Scalability
 -   Scalability is the capability of a system, process, or a network to grow and manage increased demand.
 
@@ -16,5 +21,5 @@ Efficiency
 
 Serviceability or Manageability
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NjE4NjEzXX0=
+eyJoaXN0b3J5IjpbNjYxNDMyNjc5XX0=
 -->
