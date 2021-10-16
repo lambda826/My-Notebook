@@ -1,12 +1,16 @@
+#Strong Consistency# (Immediate Consistency, Synchronous Replication)
+
+![Strong Consistency](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistency%20model/Strong%20Consistency.png)
+
 **Strong Consistency** (Immediate Consistency, Synchronous Replication)
  - This means that data viewed immediately after an update will be consistent for all observers of the entity.
  - To have strong consistency, system must compromise on the scalability and performance of their application.
-   <ul> Simply, data has to be **locked** during the period of update or replication process to ensure that no other processes are updating the same data.
+   - Simply, data has to be **locked** during the period of update or replication process to ensure that no other processes are updating the same data.
  - With synchronous replication, when a source commits a transaction, all replicas have also committed the transaction before the source returns to the session that performed the transaction.
    - Synchronous replication means failover from the source to any replica is possible at any time.
    - The drawback of fully synchronous replication is that there might be a lot of delay to complete a transaction.
 
--   ![Strong Consistency](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/01%20System%20Design%20Tools/resource/consistency%20model/Strong%20Consistency.png)
+---
 
 Eventual Consistency (Week Consistency, Asynchronous Replication)
 
@@ -57,5 +61,5 @@ Causal Consistency
 -   为了防止这种异常，需要另一种类型的保证：因果一致性。 即如果一系列写入按某个逻辑顺序发生，那么任何人读取这些写入时，会看见它们以正确的逻辑顺序出现。
 -   这是一个听起来简单，实际却很难解决的问题。一种方案是应用保证将问题和对应的回答写入相同的分区。但并不是所有的数据都能如此轻易地判断因果依赖关系。如果有兴趣可以搜索向量时钟深入此问题。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNjM4NDIsNDA0MjkyOTY5XX0=
+eyJoaXN0b3J5IjpbLTY1ODYxMTU5MCw0MDQyOTI5NjldfQ==
 -->
