@@ -14,7 +14,6 @@ BFS vs. DFS
 Path-Ascending Crawling
 Robots.txt
 
-
 # Requirements
 ## **Functional**
 Given a set of URL seed, crawl and process the documents
@@ -37,6 +36,6 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NT
-E5NzI2Myw5NzMzMTQwNDVdfQ==
+eyJoaXN0b3J5IjpbMTc1ODYwNDc2LDcyMjc2MTg3MCwtNzUxOD
+I2NTI5LC00NTUxOTcyNjMsOTczMzE0MDQ1XX0=
 -->
