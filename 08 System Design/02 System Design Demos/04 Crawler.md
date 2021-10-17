@@ -18,6 +18,8 @@ Robots.txt
 
 # Requirements
 ## **Functional**
+Given a set of URL seed, crawl and process the documents
+
 ## **Non-Functional**
 Highly scale
 
@@ -37,5 +39,5 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxMTIyMTIsOTczMzE0MDQ1XX0=
+eyJoaXN0b3J5IjpbLTQ1NTE5NzI2Myw5NzMzMTQwNDVdfQ==
 -->
