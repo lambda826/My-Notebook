@@ -1,11 +1,15 @@
 # Reference
+[Designing a Web Crawler - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/NE5LpPrWrKv)
+
 
 
 # Introduction
+
+
 ## Key Words
 Inverted Index
 Hotspot - Popular Search
-duplicatesHandling 
+Duplicates Handling 
 
 ---
 
@@ -28,5 +32,5 @@ duplicatesHandling
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk4MTUxNTYsMTYyMDkzNzg3N119
+eyJoaXN0b3J5IjpbNDYzMDYyOTM4LDE2MjA5Mzc4NzddfQ==
 -->
