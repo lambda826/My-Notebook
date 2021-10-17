@@ -29,7 +29,6 @@ Highly scale
 ## **Storage**
 
 
-
 # High Level Design
 ![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/crawler.png)
 
@@ -39,5 +38,6 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTE5NzI2Myw5NzMzMTQwNDVdfQ==
+eyJoaXN0b3J5IjpbLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3Mz
+MxNDA0NV19
 -->
