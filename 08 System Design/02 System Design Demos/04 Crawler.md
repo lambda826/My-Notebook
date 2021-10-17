@@ -38,9 +38,10 @@ Highly scale
 
 
 # Follow-up
-
+How do we distribute URLs from *URL Frontier Message Queue* to *Crawler Serivers*
+ - Use *Consistent Hash
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MTgzMTI4LDE3NTg2MDQ3Niw3MjI3Nj
-E4NzAsLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
-
+eyJoaXN0b3J5IjpbNzA2NTYxODI2LDcyNDE4MzEyOCwxNzU4Nj
+A0NzYsNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NTE5NzI2Myw5
+NzMzMTQwNDVdfQ==
 -->
