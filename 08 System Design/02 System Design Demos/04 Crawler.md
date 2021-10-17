@@ -29,7 +29,7 @@ Highly scale
 
  **Storage**
 * Assume 1MB each page
-* Total storage 15B * 1MB = 15PB
+* Total storage 15B * 1MB = 15PB without replication
 
 # High Level Design
 ![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/crawler.png)
@@ -40,7 +40,7 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM5MDIyMDQsMTc1ODYwNDc2LDcyMj
-c2MTg3MCwtNzUxODI2NTI5LC00NTUxOTcyNjMsOTczMzE0MDQ1
-XX0=
+eyJoaXN0b3J5IjpbNzI0MTgzMTI4LDE3NTg2MDQ3Niw3MjI3Nj
+E4NzAsLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
+
 -->
