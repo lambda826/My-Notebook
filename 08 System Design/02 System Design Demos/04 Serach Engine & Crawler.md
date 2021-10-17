@@ -11,6 +11,8 @@ A web crawler is a software program which browses the World Wide Web in a method
 Inverted Index
 Hotspot - Popular Search
 Duplicates Handling 
+BFS vs. DFS
+Path-Ascending Crawling
 
 ---
 
@@ -33,6 +35,6 @@ Duplicates Handling
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzIwNjU4MCwtNDY2ODQ5Njc5LDE2Mj
-A5Mzc4NzddfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ2MDg3NDIsMjA2MzIwNjU4MCwtND
+Y2ODQ5Njc5LDE2MjA5Mzc4NzddfQ==
 -->
