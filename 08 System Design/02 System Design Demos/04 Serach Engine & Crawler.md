@@ -4,8 +4,8 @@
 # Introduction
 ## Key Words
 Inverted Index
-Hotspot PoSearch
-
+Hotspot - Popular Search
+Deduplicate
 
 ---
 
@@ -28,5 +28,5 @@ Hotspot PoSearch
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIxMjcyNF19
+eyJoaXN0b3J5IjpbMTYyMDkzNzg3N119
 -->
