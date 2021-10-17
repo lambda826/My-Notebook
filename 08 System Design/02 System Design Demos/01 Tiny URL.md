@@ -18,7 +18,7 @@ Shard on TinyURL
 # Requirements
 
 ## **Functional**
-* (**Write**) Given a URL, our service should generate a shorter and unique alias of it.
+(**Write**) Given a URL, our service should generate a shorter and unique alias of it.
 * (**Read**) When users access a short link, our service should redirect them to the original link.
 * (**Clean up**) Links will expire after a default/specific timespan.
 
@@ -58,5 +58,5 @@ How to improve performance?
 * Apply hash based sharding on Tiny URL.
 * Add cache for retrieving original URL given Tiny URL.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODIxMDU2NV19
+eyJoaXN0b3J5IjpbLTIwMzIzOTkxMDksMTc2ODIxMDU2NV19
 -->
