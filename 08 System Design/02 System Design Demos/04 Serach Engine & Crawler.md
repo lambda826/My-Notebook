@@ -1,7 +1,7 @@
 # Reference
 [Designing a Web Crawler - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/NE5LpPrWrKv)
 
-
+[web_crawler - system-design-primer](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/web_crawler)
 
 # Introduction
 
@@ -32,5 +32,5 @@ Duplicates Handling
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMDYyOTM4LDE2MjA5Mzc4NzddfQ==
+eyJoaXN0b3J5IjpbLTQ2Njg0OTY3OSwxNjIwOTM3ODc3XX0=
 -->
