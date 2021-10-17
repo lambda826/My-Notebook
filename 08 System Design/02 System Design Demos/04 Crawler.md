@@ -23,8 +23,11 @@ Highly scale
 
 
 # Estimation
-## **Traffic**
-## **Storage**
+**Traffic**
+* Assume 15B pages to fetch per month
+* 15B / (30 * 24 * 60 * 60) = 
+
+ **Storage**
 
 
 # High Level Design
@@ -36,6 +39,7 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODYwNDc2LDcyMjc2MTg3MCwtNzUxOD
-I2NTI5LC00NTUxOTcyNjMsOTczMzE0MDQ1XX0=
+eyJoaXN0b3J5IjpbMTQwOTk4NTYyNCwxNzU4NjA0NzYsNzIyNz
+YxODcwLC03NTE4MjY1MjksLTQ1NTE5NzI2Myw5NzMzMTQwNDVd
+fQ==
 -->
