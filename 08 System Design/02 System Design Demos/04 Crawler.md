@@ -25,7 +25,7 @@ Highly scale
 # Estimation
 **Traffic**
 * Assume 15B pages to fetch per month
-* 15B / (30 * 24 * 60 * 60) = 
+* 15B / (30 * 24 * 60 * 60) = 15B / 2.5M = 6K page/s
 
  **Storage**
 
@@ -39,7 +39,7 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTk4NTYyNCwxNzU4NjA0NzYsNzIyNz
-YxODcwLC03NTE4MjY1MjksLTQ1NTE5NzI2Myw5NzMzMTQwNDVd
-fQ==
+eyJoaXN0b3J5IjpbODg0NDY1MjEwLDE3NTg2MDQ3Niw3MjI3Nj
+E4NzAsLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
+
 -->
