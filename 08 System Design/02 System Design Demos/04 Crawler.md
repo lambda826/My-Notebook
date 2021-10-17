@@ -8,9 +8,8 @@ A web crawler is a software program which browses the World Wide Web in a method
  - It collects documents by recursively fetching links from a set of starting pages.
 
 ## Key Words
-Inverted Index
-Hotspot - Popular Search
-Duplicates Handling 
+URL Duplicates Handling
+Document Duplicates Handling
 BFS vs. DFS
 Path-Ascending Crawling
 Robots.txt
@@ -38,6 +37,6 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3Mz
-MxNDA0NV19
+eyJoaXN0b3J5IjpbNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NT
+E5NzI2Myw5NzMzMTQwNDVdfQ==
 -->
