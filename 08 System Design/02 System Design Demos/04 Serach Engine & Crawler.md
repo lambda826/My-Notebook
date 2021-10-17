@@ -5,7 +5,7 @@
 ## Key Words
 Inverted Index
 Hotspot - Popular Search
-Deduplicate
+duplicatesHandling 
 
 ---
 
@@ -28,5 +28,5 @@ Deduplicate
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDkzNzg3N119
+eyJoaXN0b3J5IjpbLTE1Mzk4MTUxNTYsMTYyMDkzNzg3N119
 -->
