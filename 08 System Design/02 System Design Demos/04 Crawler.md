@@ -15,19 +15,17 @@ BFS vs. DFS
 Path-Ascending Crawling
 Robots.txt
 
----
 
 # Requirements
 ## **Functional**
 ## **Non-Functional**
 
----
 
 # Estimation
 ## **Traffic**
 ## **Storage**
 
----
+
 
 # High Level Design
 ![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/crawler.png)
@@ -38,5 +36,5 @@ Robots.txt
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzE3NDg2Myw5NzMzMTQwNDVdfQ==
+eyJoaXN0b3J5IjpbLTk2MTg3MDkyLDk3MzMxNDA0NV19
 -->
