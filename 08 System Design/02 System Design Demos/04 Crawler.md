@@ -39,9 +39,10 @@ Highly scale
 
 # Follow-up
 How do we distribute URLs from *URL Frontier Message Queue* to *Crawler Serivers*
- - Use *Consistent Hash
+ - Use *Consistent Hashing* algorithm
+	 - Process URLs through Hash function and get the key, then map the key to the server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NTYxODI2LDcyNDE4MzEyOCwxNzU4Nj
-A0NzYsNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NTE5NzI2Myw5
-NzMzMTQwNDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzY5Njc0NDUsNzI0MTgzMTI4LDE3NT
+g2MDQ3Niw3MjI3NjE4NzAsLTc1MTgyNjUyOSwtNDU1MTk3MjYz
+LDk3MzMxNDA0NV19
 -->
