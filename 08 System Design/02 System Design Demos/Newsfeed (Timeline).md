@@ -1,6 +1,6 @@
 # Reference
 
-https://acecodeinterview.com/instagram/
+[Instagram 系统设计题解 - acecodeinterview](]https://acecodeinterview.com/instagram/)
 
 --- 
 # Introduction
@@ -22,5 +22,5 @@ https://acecodeinterview.com/instagram/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTExNDk2OV19
+eyJoaXN0b3J5IjpbLTE2NjQ4NTcxNzddfQ==
 -->
