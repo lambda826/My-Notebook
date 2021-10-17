@@ -42,9 +42,13 @@ How do we distribute URLs from *URL Frontier Message Queue* to *Crawler Serivers
  - Use *Consistent Hashing* algorithm
 	 - Process URLs with Hash function to get the key, and then map the keys to the servers.
 
+How do we avoid downloading duplicate documents
+ - Caclulate checksum for each processed document and store it in the database.
+ - Before processing a document, check whether it exists in the database.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODczMTkxMywtMTQzNjk2NzQ0NSw3Mj
-QxODMxMjgsMTc1ODYwNDc2LDcyMjc2MTg3MCwtNzUxODI2NTI5
-LC00NTUxOTcyNjMsOTczMzE0MDQ1XX0=
+eyJoaXN0b3J5IjpbMTc0MjA2ODA5LC0xNzg3MzE5MTMsLTE0Mz
+Y5Njc0NDUsNzI0MTgzMTI4LDE3NTg2MDQ3Niw3MjI3NjE4NzAs
+LTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
 -->
