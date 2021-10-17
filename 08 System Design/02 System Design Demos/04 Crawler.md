@@ -19,7 +19,7 @@ Robots.txt
 Given a set of URL seed, crawl and process the documents
 
 ## **Non-Functional**
-Highly scale
+Highly scalable
 
 
 # Estimation
@@ -48,7 +48,8 @@ How do we avoid downloading duplicate documents
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjA2ODA5LC0xNzg3MzE5MTMsLTE0Mz
-Y5Njc0NDUsNzI0MTgzMTI4LDE3NTg2MDQ3Niw3MjI3NjE4NzAs
-LTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
+eyJoaXN0b3J5IjpbMTc5NTI2MTkwNCwxNzQyMDY4MDksLTE3OD
+czMTkxMywtMTQzNjk2NzQ0NSw3MjQxODMxMjgsMTc1ODYwNDc2
+LDcyMjc2MTg3MCwtNzUxODI2NTI5LC00NTUxOTcyNjMsOTczMz
+E0MDQ1XX0=
 -->
