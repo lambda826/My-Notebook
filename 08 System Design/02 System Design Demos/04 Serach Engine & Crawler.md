@@ -3,7 +3,8 @@
 
 # Introduction
 ## Key Words
-
+Inverted Index
+Hotspot PoSearch
 
 
 ---
@@ -27,5 +28,5 @@
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTc0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDIxMjcyNF19
 -->
