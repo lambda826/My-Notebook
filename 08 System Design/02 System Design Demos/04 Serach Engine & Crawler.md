@@ -13,6 +13,7 @@ Hotspot - Popular Search
 Duplicates Handling 
 BFS vs. DFS
 Path-Ascending Crawling
+Robots.txt
 
 ---
 
@@ -35,6 +36,6 @@ Path-Ascending Crawling
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ2MDg3NDIsMjA2MzIwNjU4MCwtND
-Y2ODQ5Njc5LDE2MjA5Mzc4NzddfQ==
+eyJoaXN0b3J5IjpbOTczMzE0MDQ1LC0yMTI0NjA4NzQyLDIwNj
+MyMDY1ODAsLTQ2Njg0OTY3OSwxNjIwOTM3ODc3XX0=
 -->
