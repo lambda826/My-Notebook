@@ -28,7 +28,8 @@ Highly scale
 * 15B / (30 * 24 * 60 * 60) = 15B / 2.5M = 6K page/s
 
  **Storage**
-
+* Assume 1MB each page
+* Total storage
 
 # High Level Design
 ![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/crawler.png)
@@ -39,7 +40,7 @@ Highly scale
 # Follow-up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NDY1MjEwLDE3NTg2MDQ3Niw3MjI3Nj
-E4NzAsLTc1MTgyNjUyOSwtNDU1MTk3MjYzLDk3MzMxNDA0NV19
-
+eyJoaXN0b3J5IjpbMTQ0Mzg2OTY0OSwxNzU4NjA0NzYsNzIyNz
+YxODcwLC03NTE4MjY1MjksLTQ1NTE5NzI2Myw5NzMzMTQwNDVd
+fQ==
 -->
