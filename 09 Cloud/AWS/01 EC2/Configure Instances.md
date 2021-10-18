@@ -18,8 +18,11 @@ MDSv2 uses session-oriented requests.
 Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadata items:
  - Creates a session token
 	 - Stores the session token header in a variable named  `TOKEN`
-	 - Requests the top-level metadata items using the token
+ - Requests the top-level metadata items using the token
+
+The request must include the followings when Use IMDSv2 to request instance metadata:
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Njk1NjEwMyw0Mjk3OTgwMzEsLTYyNj
-Q2ODczM119
+eyJoaXN0b3J5IjpbLTEzOTA5MTQyNzQsNDI5Nzk4MDMxLC02Mj
+Y0Njg3MzNdfQ==
 -->
