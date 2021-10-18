@@ -53,8 +53,10 @@ What do we partition the database?
  - shard on *word* for *Inverted Index* table and *documentID* for *Document* table.
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTE1MzMyLC0xMDk5MDIxNTA2LC05Nz
-A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
-OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTcwOTEwNDMyLDE1NjUxNTMzMiwtMTA5OT
+AyMTUwNiwtOTcwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjky
+LC00NzQzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
