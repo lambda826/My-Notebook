@@ -34,9 +34,13 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
  - CloudWatch
  - Updates to EC2 APIs and CLIs
  - IAM policies and SCPs
- - 
+
+**Recommended path to requiring IMDSv2 access**
+ - Step 1: At the start
+	 - Update the SDKs, CLIs, and your software that use Role credentials on their EC2 instances to IMDSv2-compatible versions.
+	 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjM2NDI2MSwxNjg0MDI2MjYzLDQyOT
-c5ODAzMSwtNjI2NDY4NzMzXX0=
+eyJoaXN0b3J5IjpbLTQ3MDE4ODE5MCwxMjM2MzY0MjYxLDE2OD
+QwMjYyNjMsNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
 -->
