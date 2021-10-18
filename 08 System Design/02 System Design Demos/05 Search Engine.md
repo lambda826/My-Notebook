@@ -4,6 +4,9 @@
 
 
 # Introduction
+A search engine is a software system that is designed to carry out web searches for desired documents.
+
+
 ## Key Words
 Inverted Index
  - https://blog.csdn.net/CrankZ/article/details/80615789
@@ -57,8 +60,7 @@ How do we rank results?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0Mzg2MDYsMTU2NTE1MzMyLC0xMD
-k5MDIxNTA2LC05NzA2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2
-OTIsLTQ3NDM4MTA3OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbMjQ1ODE4OTM5LDE1NjUxNTMzMiwtMTA5OT
+AyMTUwNiwtOTcwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjky
+LC00NzQzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
