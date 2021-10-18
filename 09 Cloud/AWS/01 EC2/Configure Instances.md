@@ -30,10 +30,11 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 ### Transition to using Instance Metadata Service Version 2
 **Tools for helping with the transition to IMDSv2**
- - AWS software
- - CloudWatch
- - Updates to EC2 APIs and CLIs
- - IAM policies and SCPs
+ - If your software uses IMDSv1, use the following tools to help reconfigure your software to use IMDSv2.
+	 - AWS software
+	 - CloudWatch
+	 - Updates to EC2 APIs and CLIs
+	 - IAM policies and SCPs
 
 **Recommended path to requiring IMDSv2 access**
  - Step 1: At the start
@@ -54,7 +55,7 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNj
-M2NDI2MSwxNjg0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMz
-XX0=
+eyJoaXN0b3J5IjpbMTU1ODgyNDg5NSw5NTIzMzk3NTEsMjAyNT
+kxODI5OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsNDI5Nzk4MDMx
+LC02MjY0Njg3MzNdfQ==
 -->
