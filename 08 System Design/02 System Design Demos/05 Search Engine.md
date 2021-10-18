@@ -9,7 +9,9 @@
 ## Key Words
 Inverted Index
 Stemming
-
+Stop words removal
+Spelling correction
+Normalization
 
 # Requirements
 ## **Functional**
@@ -36,6 +38,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDM4MTA3OCwtMTM5Njg3ODExOCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTYwNDI1OTcxOCwtNDc0MzgxMDc4LC0xMz
+k2ODc4MTE4LDczMDk5ODExNl19
 -->
