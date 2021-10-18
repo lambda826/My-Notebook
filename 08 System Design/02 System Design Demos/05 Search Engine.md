@@ -1,6 +1,5 @@
 # Reference
 [Designing Twitter Search - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/xV9mMjj74gE)
-
 [System Design Interview: Search Engine - medium](https://medium.com/double-pointer/system-design-interview-search-engine-edb66b64fd5e)
 
 # Introduction
@@ -42,6 +41,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjc0Mjk2MSwxMjQ0MjIzNjkyLC00Nz
-QzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3ND
+M4MTA3OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
