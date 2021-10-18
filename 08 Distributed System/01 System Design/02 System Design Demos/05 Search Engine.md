@@ -42,7 +42,7 @@ Highly available
 
 # High Level Design
 
-![search engine](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/search%20engine.png)
+![search engine](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/search%20engine.png)
 [Draw IO source](https://app.diagrams.net/#G1nZpAJ1gY0EXcrLiRGmfU5tJI6XbDJo0V)
 
 
