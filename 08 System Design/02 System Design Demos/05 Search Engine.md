@@ -17,7 +17,7 @@ Disjunctive Search (or)
 
 # Requirements
 ## **Functional**
-
+Given search terms, return documents which contain the terms.
 
 ## **Non-Functional**
 Highly available
@@ -43,7 +43,7 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTE5OTc2NiwtMTA5OTAyMTUwNiwtOT
+eyJoaXN0b3J5IjpbMTg0MjYyNTE5NywtMTA5OTAyMTUwNiwtOT
 cwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjkyLC00NzQzODEw
 NzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
