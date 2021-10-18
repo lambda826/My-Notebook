@@ -22,7 +22,6 @@ Disjunctive Search (or)
 ## **Non-Functional**
 Highly available
 
-
 # Estimation
 **Traffic**
 
@@ -40,6 +39,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ0OTQ2MjYsLTQ3NDM4MTA3OCwtMT
-M5Njg3ODExOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI0NDIyMzY5MiwtNDc0MzgxMDc4LC0xMz
+k2ODc4MTE4LDczMDk5ODExNl19
 -->
