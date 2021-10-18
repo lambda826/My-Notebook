@@ -33,7 +33,7 @@ Highly available
 
 # High Level Design
 
-[Draw IO source](https://drive.google.com/file/d/1nZpAJ1gY0EXcrLiRGmfU5tJI6XbDJo0V/view?usp=sharing)
+![Draw IO source](https://drive.google.com/file/d/1nZpAJ1gY0EXcrLiRGmfU5tJI6XbDJo0V/view?usp=sharing)
 
 
 # Follow-up
@@ -41,7 +41,7 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUwMjA4MzYsNDYzNjc4MDgzLDEyND
-QyMjM2OTIsLTQ3NDM4MTA3OCwtMTM5Njg3ODExOCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTk3MDY0MjA3MSw0NjM2NzgwODMsMTI0ND
+IyMzY5MiwtNDc0MzgxMDc4LC0xMzk2ODc4MTE4LDczMDk5ODEx
+Nl19
 -->
