@@ -1,4 +1,4 @@
-# Instance Metadata and User Data
+# [Instance Metadata and User Data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 **Instance metadata** is data about your instance that you can use to configure or manage the running instance.
 You can also use instance metadata to access **user data** that you specified when launching your instance.
 
@@ -49,7 +49,12 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
  - Step 4: When all of your instances are transitioned to IMDSv2
 	 - The `ec2:MetadataHttpTokens`, `ec2:MetadataHttpPutResponseHopLimit`, and `ec2:MetadataHttpEndpoint` IAM condition keys can be used to control the use of the [RunInstances](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RunInstances.html) and the [ModifyInstanceMetadataOptions](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ModifyInstanceMetadataOptions.html) API and corresponding CLI.
 
+
+## [Configure the instance metadata options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-options.html)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2OD
-QwMjYyNjMsNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNj
+M2NDI2MSwxNjg0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMz
+XX0=
 -->
