@@ -33,7 +33,6 @@ Highly scalable
 
 # High Level Design
 ![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/crawler.png)
-
 [Draw IO source](https://app.diagrams.net/#G1OHJKoBAQphtncRhJpp6ddwQFIVCf93BZ)
 
 
@@ -48,8 +47,8 @@ How do we avoid downloading duplicate documents
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTI2MTkwNCwxNzQyMDY4MDksLTE3OD
-czMTkxMywtMTQzNjk2NzQ0NSw3MjQxODMxMjgsMTc1ODYwNDc2
-LDcyMjc2MTg3MCwtNzUxODI2NTI5LC00NTUxOTcyNjMsOTczMz
-E0MDQ1XX0=
+eyJoaXN0b3J5IjpbLTQyMTk0MjM2NiwxNzk1MjYxOTA0LDE3ND
+IwNjgwOSwtMTc4NzMxOTEzLC0xNDM2OTY3NDQ1LDcyNDE4MzEy
+OCwxNzU4NjA0NzYsNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NT
+E5NzI2Myw5NzMzMTQwNDVdfQ==
 -->
