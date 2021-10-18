@@ -33,7 +33,7 @@ Highly available
 
 # High Level Design
 
-![Draw IO source](https://drive.google.com/file/d/1nZpAJ1gY0EXcrLiRGmfU5tJI6XbDJo0V/view?usp=sharing)
+![Draw IO source](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20System%20Design/02%20System%20Design%20Demos/resource/search%20engine.png)
 
 
 # Follow-up
@@ -41,7 +41,7 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDY0MjA3MSw0NjM2NzgwODMsMTI0ND
-IyMzY5MiwtNDc0MzgxMDc4LC0xMzk2ODc4MTE4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE0NTkxODM3ODUsLTk3MDY0MjA3MSw0Nj
+M2NzgwODMsMTI0NDIyMzY5MiwtNDc0MzgxMDc4LC0xMzk2ODc4
+MTE4LDczMDk5ODExNl19
 -->
