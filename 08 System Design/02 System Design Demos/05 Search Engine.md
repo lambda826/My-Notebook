@@ -8,6 +8,8 @@
 
 ## Key Words
 Inverted Index
+ - https://blog.csdn.net/CrankZ/article/details/80615789
+
 Stemming
 Stop words removal
 Spelling correction
@@ -39,6 +41,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDIyMzY5MiwtNDc0MzgxMDc4LC0xMz
-k2ODc4MTE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNTA1MjIyMCwxMjQ0MjIzNjkyLC00Nz
+QzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
