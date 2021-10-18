@@ -43,11 +43,12 @@ Highly available
 
 
 # Follow-up
-
+How do we generated unique documentID?
+ - UUID
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzU2NDAzNSwtMTA5OTAyMTUwNiwtOT
+eyJoaXN0b3J5IjpbLTczNzI2ODMwOSwtMTA5OTAyMTUwNiwtOT
 cwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjkyLC00NzQzODEw
 NzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
