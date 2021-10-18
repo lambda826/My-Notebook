@@ -43,12 +43,13 @@ Highly available
 
 
 # Follow-up
-How do we generated unique documentID?
+How do we generated unique *documentID*?
  - [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
 
-
+What do we store for *inverted index*?
+ - word as the key, <documentID, frequency, position> as the value
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NzE3MDkzLC0xMDk5MDIxNTA2LC05Nz
+eyJoaXN0b3J5IjpbNjA4NzU1NTM0LC0xMDk5MDIxNTA2LC05Nz
 A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
 OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
