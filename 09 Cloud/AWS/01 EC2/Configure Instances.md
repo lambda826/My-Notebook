@@ -4,7 +4,7 @@ You can also use instance metadata to access **user data** that you specified wh
 
 
 
-## Use IMDSv2
+## [Use IMDSv2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html)
 Two methods to access instance metadata:
  - Instance Metadata Service Version 1 (IMDSv1) – a **request/response** method
  - Instance Metadata Service Version 2 (IMDSv2) – a **session-oriented** method
@@ -37,6 +37,6 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUxNTc1MTMsMTY4NDAyNjI2Myw0Mj
-k3OTgwMzEsLTYyNjQ2ODczM119
+eyJoaXN0b3J5IjpbMTIzNjM2NDI2MSwxNjg0MDI2MjYzLDQyOT
+c5ODAzMSwtNjI2NDY4NzMzXX0=
 -->
