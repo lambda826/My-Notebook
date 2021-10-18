@@ -25,8 +25,9 @@ The request must include the followings when Use IMDSv2 to request instance meta
 	 - The  `PUT`  request returns a token that must be included in subsequent  `GET`  requests to the instance metadata service.
 	 - The token is required to access metadata using IMDSv2.
  - Include the token in all `GET` requests to the instance metadata service.
-		 - The token is an instance-specific key. 
+	 - The token is an instance-specific key.
+	 - The `PUT` request must include a header that specifies the time to live (TTL) for the token in seconds.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MTQ2MjAxLDQyOTc5ODAzMSwtNjI2ND
-Y4NzMzXX0=
+eyJoaXN0b3J5IjpbMTY4NDAyNjI2Myw0Mjk3OTgwMzEsLTYyNj
+Q2ODczM119
 -->
