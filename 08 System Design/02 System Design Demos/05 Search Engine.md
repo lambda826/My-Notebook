@@ -47,9 +47,14 @@ How do we generated unique *documentID*?
  - [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
 
 What do we store for *inverted index*?
- - word as the key, <documentID, frequency, list of position> as the value
+ - word as the key, <documentID, frequency, list of position> as the value.
+
+What do we partition the database?
+ - shard on *word* for *Inverted Index* table and *documentID* for *Document* table.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzMzOTE5MywtMTA5OTAyMTUwNiwtOT
-cwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjkyLC00NzQzODEw
-NzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU2NTE1MzMyLC0xMDk5MDIxNTA2LC05Nz
+A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
+OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
