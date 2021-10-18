@@ -28,7 +28,9 @@ Highly available
 * QPS: 500M / (24 * 60 * 60) = ~60K search/s
 
  **Storage**
-* Assume 500M 
+* Assume 500M new documents per day
+* Assume 1KB per document
+* Total storage increament per day: 500M * 1KB = 0.5 PB
 
 
 # High Level Design
@@ -45,7 +47,7 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMjY1OTUwLC0xMDk5MDIxNTA2LC05Nz
+eyJoaXN0b3J5IjpbMjg5NDUxMjc3LC0xMDk5MDIxNTA2LC05Nz
 A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
 OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
