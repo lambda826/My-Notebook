@@ -10,6 +10,10 @@ Two methods to access instance metadata:
  - Instance Metadata Service Version 2 (IMDSv2) – a **session-oriented** method
 
 The instance metadata service distinguishes between IMDSv1 and IMDSv2 requests based on whether, for any given request, either the `PUT` or `GET` headers, which are unique to IMDSv2, are present in that request.
+
+### How Instance Metadata Service Version 2 Works
+MDSv2 uses session-oriented requests.
+ - With session-oriented requests, you create a session token that defines the session duration,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk2NzYwNzksLTYyNjQ2ODczM119
+eyJoaXN0b3J5IjpbNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
 -->
