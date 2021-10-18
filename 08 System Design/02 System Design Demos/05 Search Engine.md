@@ -1,6 +1,7 @@
 # Reference
 [Designing Twitter Search - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/xV9mMjj74gE)
 [System Design Interview: Search Engine - medium](https://medium.com/double-pointer/system-design-interview-search-engine-edb66b64fd5e)
+[Design a key-value store for a search engine - system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/query_cache/README.md)
 
 
 # Introduction
@@ -60,7 +61,7 @@ How do we rank results?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1ODE4OTM5LDE1NjUxNTMzMiwtMTA5OT
-AyMTUwNiwtOTcwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjky
-LC00NzQzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ5NTg0MzU1NywxNTY1MTUzMzIsLTEwOT
+kwMjE1MDYsLTk3MDY0MjA3MSw0NjM2NzgwODMsMTI0NDIyMzY5
+MiwtNDc0MzgxMDc4LC0xMzk2ODc4MTE4LDczMDk5ODExNl19
 -->
