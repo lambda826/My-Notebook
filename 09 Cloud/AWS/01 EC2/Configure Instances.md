@@ -34,8 +34,10 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 	 - AWS software
 		 - AWS SDKs and CLIs
 	 - CloudWatch
-		 - MetadataNoToken
+		 - `MetadataNoToken`
 	 - Updates to EC2 APIs and CLIs
+		 - For existing instances, you can use the [modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html) CLI command (or the [ModifyInstanceMetadataOptions](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ModifyInstanceMetadataOptions.html) API) to require the use of IMDSv2.
+	 - 
 	 - IAM policies and SCPs
 
 **Recommended path to requiring IMDSv2 access**
@@ -57,7 +59,7 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzQwNjk5OCwxNTU4ODI0ODk1LDk1Mj
-MzOTc1MSwyMDI1OTE4Mjk4LDEyMzYzNjQyNjEsMTY4NDAyNjI2
-Myw0Mjk3OTgwMzEsLTYyNjQ2ODczM119
+eyJoaXN0b3J5IjpbLTc5ODQwNTMyOCwxMjAzNDA2OTk4LDE1NT
+g4MjQ4OTUsOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNjM2NDI2
+MSwxNjg0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMzXX0=
 -->
