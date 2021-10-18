@@ -24,10 +24,11 @@ Highly available
 
 # Estimation
 **Traffic**
-Assume 500M searches per day
-QPS: 500M / (24 * 60 * 60) = 
+* Assume 500M searches per day
+* QPS: 500M / (24 * 60 * 60) = ~60K search/s
 
  **Storage**
+* Assume 500M 
 
 
 # High Level Design
@@ -44,7 +45,7 @@ QPS: 500M / (24 * 60 * 60) =
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjExODg0NywtMTA5OTAyMTUwNiwtOT
-cwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjkyLC00NzQzODEw
-NzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDczMjY1OTUwLC0xMDk5MDIxNTA2LC05Nz
+A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
+OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
