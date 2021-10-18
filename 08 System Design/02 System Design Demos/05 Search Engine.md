@@ -30,7 +30,7 @@ Highly available
  **Storage**
 * Assume 500M new documents per day
 * Assume 1KB per document
-* Total storage increament per day: 500M * 1KB = 0.5 TB
+* Total storage increament per day: 500M * 1KB = 500 GB/day
 
 
 # High Level Design
@@ -47,7 +47,7 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1NDQxODMsLTEwOTkwMjE1MDYsLT
-k3MDY0MjA3MSw0NjM2NzgwODMsMTI0NDIyMzY5MiwtNDc0Mzgx
-MDc4LC0xMzk2ODc4MTE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTQ5NzEwNTMzLC0xMDk5MDIxNTA2LC05Nz
+A2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2OTIsLTQ3NDM4MTA3
+OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
