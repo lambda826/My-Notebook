@@ -9,6 +9,7 @@
 ## Key Words
 Inverted Index
  - https://blog.csdn.net/CrankZ/article/details/80615789
+ - https://blog.csdn.net/LJJZJ/article/details/99955858
 
 Stemming
 Stop words removal
@@ -41,6 +42,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA1MjIyMCwxMjQ0MjIzNjkyLC00Nz
+eyJoaXN0b3J5IjpbMjEwMjc0Mjk2MSwxMjQ0MjIzNjkyLC00Nz
 QzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
 -->
