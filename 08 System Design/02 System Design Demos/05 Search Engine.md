@@ -8,6 +8,7 @@
 
 ## Key Words
 Inverted Index
+Stemming
 
 
 # Requirements
@@ -35,5 +36,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ3NDM4MTA3OCwtMTM5Njg3ODExOCw3Mz
+A5OTgxMTZdfQ==
 -->
