@@ -52,11 +52,13 @@ What do we store for *inverted index*?
 What do we partition the database?
  - shard on *word* for *Inverted Index* table and *documentID* for *Document* table.
 
-
+How do we rank results?
+ - Base on frequency, popularity, timestamp, etc.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTEwNDMyLDE1NjUxNTMzMiwtMTA5OT
-AyMTUwNiwtOTcwNjQyMDcxLDQ2MzY3ODA4MywxMjQ0MjIzNjky
-LC00NzQzODEwNzgsLTEzOTY4NzgxMTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3OTk0Mzg2MDYsMTU2NTE1MzMyLC0xMD
+k5MDIxNTA2LC05NzA2NDIwNzEsNDYzNjc4MDgzLDEyNDQyMjM2
+OTIsLTQ3NDM4MTA3OCwtMTM5Njg3ODExOCw3MzA5OTgxMTZdfQ
+==
 -->
