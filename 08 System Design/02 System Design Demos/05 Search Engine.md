@@ -1,7 +1,7 @@
 # Reference
 [Designing a Web Crawler - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/NE5LpPrWrKv)
 
-[web_crawler - system-design-primer](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/web_crawler)
+[web_crawler - system-design-primer](https://medium.com/double-pointer/system-design-interview-search-engine-edb66b64fd5e)
 
 # Introduction
 
@@ -40,6 +40,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4NjQyMjAsLTQ3NDM4MTA3OCwtMT
-M5Njg3ODExOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTYzMDA3MjcwOCwtNDc0MzgxMDc4LC0xMz
+k2ODc4MTE4LDczMDk5ODExNl19
 -->
