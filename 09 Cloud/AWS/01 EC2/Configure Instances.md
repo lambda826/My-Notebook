@@ -41,15 +41,15 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
  - Step 2: During the transition
 	 - Track your transition progress by using the CloudWatch metric `MetadataNoToken`.
  - Step 3: When everything is ready on all instances
- - -   For existing instances: You can require IMDSv2 use through the  [modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)  command. You can make these changes on running instances; you do not need to restart your instances.
+   - For existing instances: You can require IMDSv2 use through the  [modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)  command. You can make these changes on running instances; you do not need to restart your instances.
     
--   For new instances: When launching a new instance, you can do one of the following:
-    
-    -   In the Amazon EC2 console launch instance wizard, set  **Metadata accessible**  to  **Enabled**  and  **Metadata version**  to  **V2**. For more information, see  [Step 3: Configure Instance Details](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html#configure_instance_details_step).
-        
-    -   Use the  [run-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html)  command to specify that only IMDSv2 is to be used.
+	- For new instances: When launching a new instance, you can do one of the following:
+	    - In the Amazon EC2 console launch instance wizard, set  **Metadata accessible**  to  **Enabled**  and  **Metadata version**  to  **V2**. For more information, see  [Step 3: Configure Instance Details](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html#configure_instance_details_step).
+	    - Use the  [run-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html)  command to specify that only IMDSv2 is to be used.
+ - Step 4: When all of your instances are transitioned to IMDSv2
+	 - The `ec2:MetadataHttpTokens`, `ec2:MetadataHttpPutResponseHopLimit`, and `ec2:MetadataHttpEndpoint` IAM condition keys can be used to control the use of the [RunInstances](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RunInstances.html) and the [ModifyInstanceMetadataOptions](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ModifyInstanceMetadataOptions.html) API and corresponding CLI.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODk5MzIxOCwxMjM2MzY0MjYxLDE2OD
+eyJoaXN0b3J5IjpbMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2OD
 QwMjYyNjMsNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
 -->
