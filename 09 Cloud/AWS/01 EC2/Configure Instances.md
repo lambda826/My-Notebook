@@ -14,6 +14,12 @@ The instance metadata service distinguishes between IMDSv1 and IMDSv2 requests b
 ### How Instance Metadata Service Version 2 Works
 MDSv2 uses session-oriented requests.
  - With session-oriented requests, you create a session token that defines the session duration,
+
+Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadata items:
+ - Creates a session token
+	 - Stores the session token header in a variable named  `TOKEN`
+	 - Requests the top-level metadata items using the token
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbMTA5Njk1NjEwMyw0Mjk3OTgwMzEsLTYyNj
+Q2ODczM119
 -->
