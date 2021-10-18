@@ -32,7 +32,9 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 **Tools for helping with the transition to IMDSv2**
  - If your software uses IMDSv1, use the following tools to help reconfigure your software to use IMDSv2.
 	 - AWS software
+		 - AWS SDKs and CLIs
 	 - CloudWatch
+		 - MetadataNoToken
 	 - Updates to EC2 APIs and CLIs
 	 - IAM policies and SCPs
 
@@ -55,7 +57,7 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODgyNDg5NSw5NTIzMzk3NTEsMjAyNT
-kxODI5OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsNDI5Nzk4MDMx
-LC02MjY0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbMTIwMzQwNjk5OCwxNTU4ODI0ODk1LDk1Mj
+MzOTc1MSwyMDI1OTE4Mjk4LDEyMzYzNjQyNjEsMTY4NDAyNjI2
+Myw0Mjk3OTgwMzEsLTYyNjQ2ODczM119
 -->
