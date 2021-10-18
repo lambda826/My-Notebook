@@ -21,8 +21,12 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
  - Requests the top-level metadata items using the token
 
 The request must include the followings when Use IMDSv2 to request instance metadata:
- - 
+ - Use a  `PUT`  request to initiate a session to the instance metadata service.
+	 - The  `PUT`  request returns a token that must be included in subsequent  `GET`  requests to the instance metadata service.
+	 - The token is required to access metadata using IMDSv2.
+ - Include the token in all `GET` requests to the instance metadata service.
+		 - The token is an instance-specific key. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA5MTQyNzQsNDI5Nzk4MDMxLC02Mj
-Y0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbNjY3MTQ2MjAxLDQyOTc5ODAzMSwtNjI2ND
+Y4NzMzXX0=
 -->
