@@ -12,6 +12,8 @@ Stemming
 Stop words removal
 Spelling correction
 Normalization
+Conjunctive Search (and)
+Disjunctive Search (or)
 
 # Requirements
 ## **Functional**
@@ -38,6 +40,6 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDI1OTcxOCwtNDc0MzgxMDc4LC0xMz
-k2ODc4MTE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExNzA4NjQyMjAsLTQ3NDM4MTA3OCwtMT
+M5Njg3ODExOCw3MzA5OTgxMTZdfQ==
 -->
