@@ -1,6 +1,5 @@
 # Reference
 [Designing a Web Crawler - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/NE5LpPrWrKv)
-
 [web_crawler - system-design-primer](https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/web_crawler)
 
 # Introduction
@@ -47,8 +46,8 @@ How do we avoid downloading duplicate documents
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTk0MjM2NiwxNzk1MjYxOTA0LDE3ND
-IwNjgwOSwtMTc4NzMxOTEzLC0xNDM2OTY3NDQ1LDcyNDE4MzEy
-OCwxNzU4NjA0NzYsNzIyNzYxODcwLC03NTE4MjY1MjksLTQ1NT
-E5NzI2Myw5NzMzMTQwNDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDc0MDc0NzIsLTQyMTk0MjM2NiwxNz
+k1MjYxOTA0LDE3NDIwNjgwOSwtMTc4NzMxOTEzLC0xNDM2OTY3
+NDQ1LDcyNDE4MzEyOCwxNzU4NjA0NzYsNzIyNzYxODcwLC03NT
+E4MjY1MjksLTQ1NTE5NzI2Myw5NzMzMTQwNDVdfQ==
 -->
