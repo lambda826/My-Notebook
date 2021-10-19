@@ -1,5 +1,6 @@
 # Array
 # String
+# Two Pointer
 # LinkedList
 # Binary Search
 # Sorting
@@ -24,5 +25,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MjEyMzQ0XX0=
+eyJoaXN0b3J5IjpbMzgzODE2Nzk0LDIxODIxMjM0NF19
 -->
