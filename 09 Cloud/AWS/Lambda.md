@@ -16,7 +16,9 @@ Lambda is a **compute service** that lets you run code **without provisioning or
  - **File systems access**
 
 ## Accessing Lambda
-
+ - **AWS Management Console**
+ - **AWS Command Line Interface (AWS CLI)**
+ - **AWS SDKs**
 
 # Foundations
 ## Concepts
@@ -82,5 +84,5 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MzI5NDY3LC0xNjQ5NTUyNjcyXX0=
+eyJoaXN0b3J5IjpbNTkzODYyMzI0LC0xNjQ5NTUyNjcyXX0=
 -->
