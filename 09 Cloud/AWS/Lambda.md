@@ -53,7 +53,6 @@ The runtime relays invocation events, context information, and responses between
 A Lambda layer is a .zip file archive that can contain additional code or other content. A layer can contain libraries, a custom runtime, data, or configuration files.
 Layers provide a convenient way to package libraries and other dependencies that you can use with your Lambda functions.
 
-
 **Extension**
 Lambda extensions enable you to augment your functions.
 
@@ -87,6 +86,6 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUwNjU3MDgsLTE2NDk1NTI2NzJdfQ
-==
+eyJoaXN0b3J5IjpbLTE0MzA5MDIwMTQsLTEwNzUwNjU3MDgsLT
+E2NDk1NTI2NzJdfQ==
 -->
