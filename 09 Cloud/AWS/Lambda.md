@@ -22,6 +22,7 @@ Lambda is a **compute service** that lets you run code **without provisioning or
  - AWS CloudFormation
  - AWS Serverless Application Model (AWS SAM)
 
+
 # Foundations
 ## Concepts
 **Function**
@@ -86,5 +87,6 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MjQxMDI2LC0xNjQ5NTUyNjcyXX0=
+eyJoaXN0b3J5IjpbLTEwNzUwNjU3MDgsLTE2NDk1NTI2NzJdfQ
+==
 -->
