@@ -9,6 +9,11 @@ Lambda is a **compute service** that lets you run code **without provisioning or
 ## Features
  - **Concurrency and scaling controls**
  - **Functions defined as container images**
+ - **Code signing**
+ - **Lambda extensions**
+ - **Function blueprints**
+ - **Database access**
+ - **File systems access**
 
 ## Accessing Lambda
 
@@ -77,5 +82,5 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM5MTgwNiwtMTY0OTU1MjY3Ml19
+eyJoaXN0b3J5IjpbNzc0MzI5NDY3LC0xNjQ5NTUyNjcyXX0=
 -->
