@@ -21,7 +21,7 @@ Read heavy
 ## **Functional**
  - Post feed with or without images/videos
  - Following/follower
- - Show users' news feed
+ - Timeline
 
 ## **Non-Functional**
  - High availability
@@ -46,6 +46,6 @@ Read heavy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTQ3NzAwOSwtMzY5MjMwMjI2LDE0MD
-U0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
+eyJoaXN0b3J5IjpbLTE3ODQ0OTY0MjcsMTU4NTQ3NzAwOSwtMz
+Y5MjMwMjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
 -->
