@@ -24,7 +24,8 @@ Application
 
 # Estimation
 ## **Traffic**
-- Assume new Posts per day
+- Assume 500M users
+- Assume
 - 
 
 ## **Storage**
@@ -38,6 +39,6 @@ Application
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMDk2ODY4LDE0MDU0NDM5ODQsLTE2Nj
-Q4NTcxNzddfQ==
+eyJoaXN0b3J5IjpbLTE5NzE3MjA0NjcsMTQwNTQ0Mzk4NCwtMT
+Y2NDg1NzE3N119
 -->
