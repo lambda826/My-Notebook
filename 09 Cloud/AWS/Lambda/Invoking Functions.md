@@ -9,10 +9,11 @@ Styles
  - Synchronous
  - Asynchronous
 
+
 # [Synchronous Invocation](https://docs.aws.amazon.com/lambda/latest/dg/invocation-sync.html)
 ![Clients invoke a function synchronously and wait for a response.](https://docs.aws.amazon.com/lambda/latest/dg/images/invocation-sync.png)
  - The `payload` is a string that contains an event in JSON format.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyOTU4NTE1LDE2Nzc2NjI4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MzczMzU0MTksMTY3NzY2MjgzNF19
 -->
