@@ -22,11 +22,14 @@ Application
  - Acceptable latency
  - Eventual consistency
 
-
 # Estimation
 ## **Traffic**
+- Assume new Posts per day
+- 
+
 ## **Storage**
----
+
+
 # High Level Design
 [Draw IO source]()
 
@@ -35,6 +38,6 @@ Application
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2MDMzMjQ5LDE0MDU0NDM5ODQsLTE2Nj
+eyJoaXN0b3J5IjpbNjUzMDk2ODY4LDE0MDU0NDM5ODQsLTE2Nj
 Q4NTcxNzddfQ==
 -->
