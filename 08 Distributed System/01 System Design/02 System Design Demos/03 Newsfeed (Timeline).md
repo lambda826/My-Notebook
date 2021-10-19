@@ -13,8 +13,12 @@ Application
 
 # Requirements
 ## **Functional**
+ - Post feed with or without images/videos
+ - Following/follower
+ - 
+
 ## **Non-Functional**
----
+
 # Estimation
 ## **Traffic**
 ## **Storage**
@@ -27,5 +31,5 @@ Application
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NzEyMzc2LC0xNjY0ODU3MTc3XX0=
+eyJoaXN0b3J5IjpbMTQwNTQ0Mzk4NCwtMTY2NDg1NzE3N119
 -->
