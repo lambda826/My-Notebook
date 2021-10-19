@@ -15,9 +15,13 @@ Application
 ## **Functional**
  - Post feed with or without images/videos
  - Following/follower
- - 
+ - Show users' news feed
 
 ## **Non-Functional**
+ - High availability
+ - Acceptable latency
+ - Eventual consistency
+
 
 # Estimation
 ## **Traffic**
@@ -31,5 +35,6 @@ Application
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTQ0Mzk4NCwtMTY2NDg1NzE3N119
+eyJoaXN0b3J5IjpbODA2MDMzMjQ5LDE0MDU0NDM5ODQsLTE2Nj
+Q4NTcxNzddfQ==
 -->
