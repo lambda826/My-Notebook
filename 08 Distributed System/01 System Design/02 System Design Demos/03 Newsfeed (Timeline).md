@@ -10,6 +10,7 @@ Application
  - Twitter
 
 ## Key Words
+Read heavy
 
 # Requirements
 ## **Functional**
@@ -24,8 +25,8 @@ Application
 
 # Estimation
 ## **Traffic**
-- Assume 500M users
-- Assume
+- Assume 1M DAU
+- Assume 2 Post
 - 
 
 ## **Storage**
@@ -39,6 +40,6 @@ Application
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE3MjA0NjcsMTQwNTQ0Mzk4NCwtMT
+eyJoaXN0b3J5IjpbLTEwMTQwMTc0NTQsMTQwNTQ0Mzk4NCwtMT
 Y2NDg1NzE3N119
 -->
