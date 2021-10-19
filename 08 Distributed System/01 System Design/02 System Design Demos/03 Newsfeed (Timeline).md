@@ -32,13 +32,13 @@ Hotspot
 
 # Estimation
 ## **Traffic**
-- Assume 1M DAU
+- Assume 100M DAU
 - Assume 2 Post per user per day
 - 
 - 
 
 ## **Storage**
-
+- Assume 1MB per Post
 
 # High Level Design
 [Draw IO source]()
@@ -48,7 +48,7 @@ Hotspot
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjY2NDc5NiwtMTc4NDQ5NjQyNywxNT
-g1NDc3MDA5LC0zNjkyMzAyMjYsMTQwNTQ0Mzk4NCwtMTY2NDg1
-NzE3N119
+eyJoaXN0b3J5IjpbLTYyNzg3MzQzMCwxNTA2NjY0Nzk2LC0xNz
+g0NDk2NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNiwxNDA1NDQz
+OTg0LC0xNjY0ODU3MTc3XX0=
 -->
