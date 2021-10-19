@@ -1,6 +1,7 @@
 # Array
-* <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
----
+<a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
+
+
 # String
 * <a id="Leetcode0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0415_Add_Strings.java">**Solution**</a>
 * <a id="Leetcode0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
@@ -20,19 +21,53 @@
 * <a id="Leetcode1249" href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">[Leetcode 1249. Minimum Remove to Make Valid Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/parentheses/_1249_Minimum_Remove_to_Make_Valid_Parentheses.java">**Solution**</a>
 * <a id="Leetcode0032" href="https://leetcode.com/problems/longest-valid-parentheses/">[Leetcode 0032. Longest Valid Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/parentheses/_0032_Longest_Valid_Parentheses.java">**Solution**</a>
 * <a id="Leetcode0301" href="https://leetcode.com/problems/remove-invalid-parentheses/">[Leetcode 0301. Remove Invalid Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/parentheses/_0301_Remove_Invalid_Parentheses.java">**Solution**</a>
----
 
+# Two Pointer
 # LinkedList
----
+# Binary Search
 
-# Hashing
----
 # Sorting
 ## Quick Sort
 ## Merge Sort
 * <a id="Leetcode0021" href="https://leetcode.com/problems/merge-two-sorted-lists/">[Leetcode 0021. Merge Two Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0021_Merge_Two_Sorted_Lists.java">**Solution**</a>
 * <a id="Leetcode0023" href="https://leetcode.com/problems/merge-k-sorted-lists/">[Leetcode 0023. Merge k Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0023_Merge_k_Sorted_Lists.java">**Solution**</a>
 * <a id="Leetcode0088" href="https://leetcode.com/problems/merge-sorted-array/">[Leetcode 0088. Merge Sorted Array]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0088_Merge_Sorted_Array.java">**Solution**</a>
+
+
+# BFS
+# BFS & DFS
+# DFS & Backtracking
+## Combination
+### 1D
+* <a id="Leetcode0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
+* <a id="Leetcode0518" href="https://leetcode.com/problems/coin-change-2/">[Leetcode 0518. Coin Change 2]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0518_Coin_Change_2.java">**Solution**</a>
+* <a id="Leetcode0039" href="https://leetcode.com/problems/combination-sum/">[Leetcode 0039. Combination Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0039_Combination_Sum.java">**Solution**</a>
+* <a id="Leetcode0040" href="https://leetcode.com/problems/combination-sum-ii/">[Leetcode 0040. Combination Sum II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0040_Combination_Sum_II.java">**Solution**</a>
+* <a id="Leetcode0377" href="https://leetcode.com/problems/combination-sum-iv/">[Leetcode 0377. Combination Sum IV]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0377_Combination_Sum_IV.java">**Solution**</a>
+* <a id="Leetcode0216" href="https://leetcode.com/problems/combination-sum-iii//">[Leetcode 0216. Combination Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0216_Combination_Sum_III.java">**Solution**</a>
+* <a id="Leetcode0241" href="https://leetcode.com/problems/different-ways-to-add-parentheses/">[Leetcode 0241. Different Ways to Add Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0241_Different_Ways_to_Add_Parentheses.java">**Solution**</a>
+
+### 2D
+## Permutation
+
+<a id="Leetcode1947" href="https://leetcode.com/problems/maximum-compatibility-score-sum/">[Leetcode 1947].</a>  Maximum Compatibility Score Sum
+
+# Tree
+# Graph
+# Dynamic Programming
+# Stack
+# Monotonic Stack
+# Heap
+# Greedy
+# Slide Window
+# Hash
+# Trie
+# Union Find
+
+
+
+
+
 
 ---
 # Binary Search
@@ -85,20 +120,8 @@
 ---
 # DFS or Backtracking
 ---
-## Combination
-### 1D
-* <a id="Leetcode0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
-* <a id="Leetcode0518" href="https://leetcode.com/problems/coin-change-2/">[Leetcode 0518. Coin Change 2]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0518_Coin_Change_2.java">**Solution**</a>
-* <a id="Leetcode0039" href="https://leetcode.com/problems/combination-sum/">[Leetcode 0039. Combination Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0039_Combination_Sum.java">**Solution**</a>
-* <a id="Leetcode0040" href="https://leetcode.com/problems/combination-sum-ii/">[Leetcode 0040. Combination Sum II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0040_Combination_Sum_II.java">**Solution**</a>
-* <a id="Leetcode0377" href="https://leetcode.com/problems/combination-sum-iv/">[Leetcode 0377. Combination Sum IV]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0377_Combination_Sum_IV.java">**Solution**</a>
-* <a id="Leetcode0216" href="https://leetcode.com/problems/combination-sum-iii//">[Leetcode 0216. Combination Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0216_Combination_Sum_III.java">**Solution**</a>
-* <a id="Leetcode0241" href="https://leetcode.com/problems/different-ways-to-add-parentheses/">[Leetcode 0241. Different Ways to Add Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_dfs_backtracking/combination/_1d/_0241_Different_Ways_to_Add_Parentheses.java">**Solution**</a>
 
-### 2D
-## Permutation
 
-<a id="Leetcode1947" href="https://leetcode.com/problems/maximum-compatibility-score-sum/">[Leetcode 1947].</a>  Maximum Compatibility Score Sum
 ```java
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -641,5 +664,5 @@
 
 ​
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjE3Mzc2MV19
+eyJoaXN0b3J5IjpbMTM4MjM1ODA0N119
 -->
