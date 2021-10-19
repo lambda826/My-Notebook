@@ -1,6 +1,12 @@
 
-## FaceBook
-**Array**
+# FaceBook
+## Array
+## String
+## LinkedList
+
+
+
+
 * <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[LeetCode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">Solution</a>
 
 **String**
@@ -60,5 +66,5 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MzUzMTU2XX0=
+eyJoaXN0b3J5IjpbLTE2NTc2MjcxNTksODg4MzUzMTU2XX0=
 -->
