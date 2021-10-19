@@ -16,6 +16,8 @@ Application
 
 ## Key Words
 Read heavy
+Ranking
+Hotspot
 
 # Requirements
 ## **Functional**
@@ -46,6 +48,7 @@ Read heavy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ0OTY0MjcsMTU4NTQ3NzAwOSwtMz
-Y5MjMwMjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
+eyJoaXN0b3J5IjpbMTUwNjY2NDc5NiwtMTc4NDQ5NjQyNywxNT
+g1NDc3MDA5LC0zNjkyMzAyMjYsMTQwNTQ0Mzk4NCwtMTY2NDg1
+NzE3N119
 -->
