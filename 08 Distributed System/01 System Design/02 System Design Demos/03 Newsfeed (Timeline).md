@@ -45,10 +45,13 @@ Hotspot
 
 ---
 # Follow-up
+How to avoid querying full dataset from the database?
+ - When making the `timeline` request, set a timestamp as a condition that only retrieve the createOn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODIwNTUyNywtNjI3ODczNDMwLDE1MD
-Y2NjQ3OTYsLTE3ODQ0OTY0MjcsMTU4NTQ3NzAwOSwtMzY5MjMw
-MjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
+eyJoaXN0b3J5IjpbLTE2NDk3Nzk1MDYsMTM5ODIwNTUyNywtNj
+I3ODczNDMwLDE1MDY2NjQ3OTYsLTE3ODQ0OTY0MjcsMTU4NTQ3
+NzAwOSwtMzY5MjMwMjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNz
+ddfQ==
 -->
