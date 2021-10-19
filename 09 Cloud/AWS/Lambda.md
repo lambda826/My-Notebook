@@ -7,18 +7,20 @@
 Lambda is a **compute service** that lets you run code **without provisioning or managing servers.**
 
 ## Features
- - **Concurrency and scaling controls**
- - **Functions defined as container images**
- - **Code signing**
- - **Lambda extensions**
- - **Function blueprints**
- - **Database access**
- - **File systems access**
+ - Concurrency and scaling controls
+ - Functions defined as container images
+ - Code signing
+ - Lambda extensions
+ - Function blueprints
+ - Database access
+ - File systems access
 
 ## Accessing Lambda
- - **AWS Management Console**
- - **AWS Command Line Interface (AWS CLI)**
- - **AWS SDKs**
+ - AWS Management Console
+ - AWS Command Line Interface (AWS CLI)
+ - AWS SDKs
+ - AWS CloudFormation
+ - AWS Serverless Application Model (AWS SAM)
 
 # Foundations
 ## Concepts
@@ -84,5 +86,5 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzODYyMzI0LC0xNjQ5NTUyNjcyXX0=
+eyJoaXN0b3J5IjpbODE2MjQxMDI2LC0xNjQ5NTUyNjcyXX0=
 -->
