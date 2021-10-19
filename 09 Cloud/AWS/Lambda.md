@@ -6,10 +6,9 @@
 ## [What is AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 Lambda is a **compute service** that lets you run code **without provisioning or managing servers.**
 
-## When should I use Lambda?
-
-
 ## Features
+ - **Concurrency and scaling controls**
+ - **Functions defined as container images**
 
 ## Accessing Lambda
 
@@ -78,5 +77,5 @@ A destination is an AWS resource where Lambda can send events from an asynchrono
 # Orchestrating functions
 # Best practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzE4NjE5NywtMTY0OTU1MjY3Ml19
+eyJoaXN0b3J5IjpbMTkzNzM5MTgwNiwtMTY0OTU1MjY3Ml19
 -->
