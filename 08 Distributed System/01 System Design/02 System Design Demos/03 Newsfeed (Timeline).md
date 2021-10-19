@@ -26,7 +26,8 @@ Read heavy
 # Estimation
 ## **Traffic**
 - Assume 1M DAU
-- Assume 2 Post
+- Assume 2 Post per user per day
+- 
 - 
 
 ## **Storage**
@@ -40,6 +41,6 @@ Read heavy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQwMTc0NTQsMTQwNTQ0Mzk4NCwtMT
-Y2NDg1NzE3N119
+eyJoaXN0b3J5IjpbLTM2OTIzMDIyNiwxNDA1NDQzOTg0LC0xNj
+Y0ODU3MTc3XX0=
 -->
