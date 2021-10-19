@@ -1,6 +1,6 @@
 # Reference
 
-[Instagram 系统设计题解 - acecodeinterview](]https://acecodeinterview.com/instagram/)
+[Instagram 系统设计题解 - acecodeinterview](https://acecodeinterview.com/instagram/)
 [Designing Instagram - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 [Designing Twitter - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
 [Designing Facebook’s Newsfeed - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl)
@@ -48,7 +48,7 @@ Hotspot
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzg3MzQzMCwxNTA2NjY0Nzk2LC0xNz
-g0NDk2NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNiwxNDA1NDQz
-OTg0LC0xNjY0ODU3MTc3XX0=
+eyJoaXN0b3J5IjpbMTM5ODIwNTUyNywtNjI3ODczNDMwLDE1MD
+Y2NjQ3OTYsLTE3ODQ0OTY0MjcsMTU4NTQ3NzAwOSwtMzY5MjMw
+MjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
 -->
