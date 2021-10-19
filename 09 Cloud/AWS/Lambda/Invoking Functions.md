@@ -10,7 +10,8 @@ Styles
  - Asynchronous
 
 # [Synchronous Invocation](https://docs.aws.amazon.com/lambda/latest/dg/invocation-sync.html)
-
+![Clients invoke a function synchronously and wait for a response.
+    ](https://docs.aws.amazon.com/lambda/latest/dg/images/invocation-sync.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODMzMjg1MiwxNjc3NjYyODM0XX0=
+eyJoaXN0b3J5IjpbMjAwOTcxMTg3MywxNjc3NjYyODM0XX0=
 -->
