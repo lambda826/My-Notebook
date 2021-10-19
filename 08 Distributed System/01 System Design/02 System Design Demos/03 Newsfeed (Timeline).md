@@ -1,10 +1,10 @@
 # Reference
 
 [Instagram 系统设计题解 - acecodeinterview](https://acecodeinterview.com/instagram/)
+[Design the Twitter timeline and search - system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md)
 [Designing Instagram - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 [Designing Twitter - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
 [Designing Facebook’s Newsfeed - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl)
-
 
 
 --- 
@@ -50,8 +50,8 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUxODY0MywxMzk4MjA1NTI3LC02Mj
-c4NzM0MzAsMTUwNjY2NDc5NiwtMTc4NDQ5NjQyNywxNTg1NDc3
-MDA5LC0zNjkyMzAyMjYsMTQwNTQ0Mzk4NCwtMTY2NDg1NzE3N1
-19
+eyJoaXN0b3J5IjpbMTIyNzg4OTQ4NiwtMTUwNTE4NjQzLDEzOT
+gyMDU1MjcsLTYyNzg3MzQzMCwxNTA2NjY0Nzk2LC0xNzg0NDk2
+NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNiwxNDA1NDQzOTg0LC
+0xNjY0ODU3MTc3XX0=
 -->
