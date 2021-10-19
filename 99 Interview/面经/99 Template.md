@@ -3,12 +3,24 @@
 # Hash
 # Sorting
 # BFS
-# BFS_DFS
+# BFS & DFS
+# DFS & Backtracking
+# Dynamic Programming
+# Tree
+# Graph
+# Stack
+# Monotonic Stack
+# Binary Search
 
-# LinkedList
+
+
+# Trie
+# Union Find
+# Slide Window
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxMjk0NF19
+eyJoaXN0b3J5IjpbLTY4ODYyMzAxMF19
 -->
