@@ -1,6 +1,11 @@
 # Reference
 
 [Instagram 系统设计题解 - acecodeinterview](]https://acecodeinterview.com/instagram/)
+[Designing Instagram - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+[Designing Twitter - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
+[Designing Facebook’s Newsfeed - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl)
+
+
 
 --- 
 # Introduction
@@ -41,6 +46,6 @@ Read heavy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTIzMDIyNiwxNDA1NDQzOTg0LC0xNj
-Y0ODU3MTc3XX0=
+eyJoaXN0b3J5IjpbMTU4NTQ3NzAwOSwtMzY5MjMwMjI2LDE0MD
+U0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
 -->
