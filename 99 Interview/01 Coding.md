@@ -68,9 +68,14 @@
 <a id="Leetcode1650" href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/">[Leetcode 1650. Lowest Common Ancestor of a Binary Tree III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/lowest_common_ancesstor/_1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.java">**Solution**</a>
 
 ## Serialization & Deserialization
-* <a id="Leetcode0297" href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">[Leetcode 0297. Serialize and Deserialize Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0297_Serialize_and_Deserialize_Binary_Tree.java">**Solution**</a>
-* <a id="Leetcode0449" href="https://leetcode.com/problems/serialize-and-deserialize-bst/">[Leetcode 0449. Serialize and Deserialize BST]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0449_Serialize_and_Deserialize_BST.java">**Solution**</a>
-* <a id="Leetcode0428" href="master → origin/master">[Leetcode 0428. Serialize and Deserialize N-ary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0428_Serialize_and_Deserialize_N_ary_Tree.java">**Solution**</a>
+
+<a id="Leetcode0449" href="https://leetcode.com/problems/serialize-and-deserialize-bst/">[Leetcode 0449. Serialize and Deserialize BST]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0449_Serialize_and_Deserialize_BST.java">**Solution**</a>
+
+<a id="Leetcode0297" href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">[Leetcode 0297. Serialize and Deserialize Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0297_Serialize_and_Deserialize_Binary_Tree.java">**Solution**</a>
+
+
+
+<a id="Leetcode0428" href="master → origin/master">[Leetcode 0428. Serialize and Deserialize N-ary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0428_Serialize_and_Deserialize_N_ary_Tree.java">**Solution**</a>
 
 ## Post-order
 
@@ -108,5 +113,6 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk4MDAzOTAsLTQ5MTIxNTkzMl19
+eyJoaXN0b3J5IjpbLTMzODMxODUyNiwtMTUyOTgwMDM5MCwtND
+kxMjE1OTMyXX0=
 -->
