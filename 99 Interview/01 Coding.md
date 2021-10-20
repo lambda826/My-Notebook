@@ -11,7 +11,7 @@
 
 <a id="Leetcode0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
 
-
+<a id="Leetcode0008" href="https://leetcode.com/problems/string-to-integer-atoi/">[Leetcode 0008. String to Integer (atoi)]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0008_String_to_Integer_atoi.java">**Solution**</a>
 
 ## Palindrome
 <a id="Leetcode0125" href="https://leetcode.com/problems/valid-palindrome/">[Leetcode 0125. Valid Palindrome]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0125_Valid_Palindrome.java">**Solution**</a>
@@ -126,7 +126,8 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTAyNDE1NSwtNzM4NTIyMTU1LC0xMz
-AxOTQ0NzEsLTE1NjQ4NzE4MTQsLTE2NTY3MDk2OTQsLTEwNjA2
-ODI1MDYsLTE1Mjk4MDAzOTAsLTQ5MTIxNTkzMl19
+eyJoaXN0b3J5IjpbMjA5NTUyMDM1NiwtODY5MDI0MTU1LC03Mz
+g1MjIxNTUsLTEzMDE5NDQ3MSwtMTU2NDg3MTgxNCwtMTY1Njcw
+OTY5NCwtMTA2MDY4MjUwNiwtMTUyOTgwMDM5MCwtNDkxMjE1OT
+MyXX0=
 -->
