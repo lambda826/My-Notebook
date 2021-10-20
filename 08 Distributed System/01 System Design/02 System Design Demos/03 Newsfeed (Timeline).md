@@ -31,8 +31,8 @@ Hotspot
 # Estimation
 ## **Traffic**
 - Assume 100M DAU
-- Assume 2 Post per user per day
-- 
+- Assume 5 Post per user per day
+- Assume 10 read requests per user per day
 - 
 
 ## **Storage**
@@ -48,8 +48,9 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY4MzQ2OTcsMTIyNzg4OTQ4NiwtMT
-UwNTE4NjQzLDEzOTgyMDU1MjcsLTYyNzg3MzQzMCwxNTA2NjY0
-Nzk2LC0xNzg0NDk2NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNi
-wxNDA1NDQzOTg0LC0xNjY0ODU3MTc3XX0=
+eyJoaXN0b3J5IjpbMjA0NjI1NzM1OCwtMTUxNjgzNDY5NywxMj
+I3ODg5NDg2LC0xNTA1MTg2NDMsMTM5ODIwNTUyNywtNjI3ODcz
+NDMwLDE1MDY2NjQ3OTYsLTE3ODQ0OTY0MjcsMTU4NTQ3NzAwOS
+wtMzY5MjMwMjI2LDE0MDU0NDM5ODQsLTE2NjQ4NTcxNzddfQ==
+
 -->
