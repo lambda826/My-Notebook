@@ -1,5 +1,9 @@
 # Array
+
 <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
+
+
+<a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031.  Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
 # String
@@ -115,6 +119,7 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ4NzE4MTQsLTE2NTY3MDk2OTQsLT
-EwNjA2ODI1MDYsLTE1Mjk4MDAzOTAsLTQ5MTIxNTkzMl19
+eyJoaXN0b3J5IjpbLTEzMDE5NDQ3MSwtMTU2NDg3MTgxNCwtMT
+Y1NjcwOTY5NCwtMTA2MDY4MjUwNiwtMTUyOTgwMDM5MCwtNDkx
+MjE1OTMyXX0=
 -->
