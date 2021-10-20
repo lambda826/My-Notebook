@@ -7,10 +7,12 @@
 * <a id="Leetcode0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
 
 ## Palindrome
-  * <a id="Leetcode0125" href="https://leetcode.com/problems/valid-palindrome/">[Leetcode 0125. Valid Palindrome]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0125_Valid_Palindrome.java">**Solution**</a>
-    * Character.isLetterOrDigit
-    * Character.toLowerCase
-* <a id="Leetcode0680" href="https://leetcode.com/problems/valid-palindrome-ii/">[Leetcode 0680. Valid Palindrome II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0680_Valid_Palindrome_II.java">**Solution**</a>
+<a id="Leetcode0125" href="https://leetcode.com/problems/valid-palindrome/">[Leetcode 0125. Valid Palindrome]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0125_Valid_Palindrome.java">**Solution**</a>
+   * Character.isLetterOrDigit
+   * Character.toLowerCase
+
+
+<a id="Leetcode0680" href="https://leetcode.com/problems/valid-palindrome-ii/">[Leetcode 0680. Valid Palindrome II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0680_Valid_Palindrome_II.java">**Solution**</a>
 * <a id="Leetcode0516" href="https://leetcode.com/problems/longest-palindromic-subsequence/">[Leetcode 0516. Longest Palindromic Subsequence]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0516_Longest_Palindromic_Subsequence.java">**Solution**</a>
 * <a id="Leetcode1216" href="https://leetcode.com/problems/valid-palindrome-iii/">[Leetcode 1216. Valid Palindrome III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_1216_Valid_Palindrome_III.java">**Solution**</a>
 * <a id="Leetcode0005" href="https://leetcode.com/problems/longest-palindromic-substring/">[Leetcode 0005. Longest Palindromic Substring]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0005_Longest_Palindromic_Substring.java">**Solution**</a>
@@ -111,6 +113,6 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA2ODI1MDYsLTE1Mjk4MDAzOTAsLT
-Q5MTIxNTkzMl19
+eyJoaXN0b3J5IjpbLTUzMzEyMDk3NiwtMTA2MDY4MjUwNiwtMT
+UyOTgwMDM5MCwtNDkxMjE1OTMyXX0=
 -->
