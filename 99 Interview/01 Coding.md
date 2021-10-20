@@ -36,10 +36,14 @@
 
 # Sorting
 ## Quick Sort
+
 ## Merge Sort
-* <a id="Leetcode0021" href="https://leetcode.com/problems/merge-two-sorted-lists/">[Leetcode 0021. Merge Two Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0021_Merge_Two_Sorted_Lists.java">**Solution**</a>
-* <a id="Leetcode0023" href="https://leetcode.com/problems/merge-k-sorted-lists/">[Leetcode 0023. Merge k Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0023_Merge_k_Sorted_Lists.java">**Solution**</a>
-* <a id="Leetcode0088" href="https://leetcode.com/problems/merge-sorted-array/">[Leetcode 0088. Merge Sorted Array]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_sorting/mergeSort/_0088_Merge_Sorted_Array.java">**Solution**</a>
+
+<a id="Leetcode0021" href="https://leetcode.com/problems/merge-two-sorted-lists/">[Leetcode 0021. Merge Two Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0021_Merge_Two_Sorted_Lists.java">**Solution**</a>
+
+<a id="Leetcode0023" href="https://leetcode.com/problems/merge-k-sorted-lists/">[Leetcode 0023. Merge k Sorted Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0023_Merge_k_Sorted_Lists.java">**Solution**</a>
+
+<a id="Leetcode0088" href="https://leetcode.com/problems/merge-sorted-array/">[Leetcode 0088. Merge Sorted Array]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0088_Merge_Sorted_Array.java">**Solution**</a>
 
 
 # BFS
@@ -119,7 +123,7 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE5NDQ3MSwtMTU2NDg3MTgxNCwtMT
-Y1NjcwOTY5NCwtMTA2MDY4MjUwNiwtMTUyOTgwMDM5MCwtNDkx
-MjE1OTMyXX0=
+eyJoaXN0b3J5IjpbLTczODUyMjE1NSwtMTMwMTk0NDcxLC0xNT
+Y0ODcxODE0LC0xNjU2NzA5Njk0LC0xMDYwNjgyNTA2LC0xNTI5
+ODAwMzkwLC00OTEyMTU5MzJdfQ==
 -->
