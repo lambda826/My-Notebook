@@ -6,8 +6,6 @@
 [Designing Twitter - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
 [Designing Facebook’s Newsfeed - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl)
 
-
---- 
 # Introduction
 Application
  - Instagram
@@ -50,8 +48,8 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzg4OTQ4NiwtMTUwNTE4NjQzLDEzOT
-gyMDU1MjcsLTYyNzg3MzQzMCwxNTA2NjY0Nzk2LC0xNzg0NDk2
-NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNiwxNDA1NDQzOTg0LC
-0xNjY0ODU3MTc3XX0=
+eyJoaXN0b3J5IjpbLTE1MTY4MzQ2OTcsMTIyNzg4OTQ4NiwtMT
+UwNTE4NjQzLDEzOTgyMDU1MjcsLTYyNzg3MzQzMCwxNTA2NjY0
+Nzk2LC0xNzg0NDk2NDI3LDE1ODU0NzcwMDksLTM2OTIzMDIyNi
+wxNDA1NDQzOTg0LC0xNjY0ODU3MTc3XX0=
 -->
