@@ -73,8 +73,6 @@
 
 <a id="Leetcode0297" href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">[Leetcode 0297. Serialize and Deserialize Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0297_Serialize_and_Deserialize_Binary_Tree.java">**Solution**</a>
 
-
-
 <a id="Leetcode0428" href="master → origin/master">[Leetcode 0428. Serialize and Deserialize N-ary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0428_Serialize_and_Deserialize_N_ary_Tree.java">**Solution**</a>
 
 ## Post-order
@@ -113,6 +111,6 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODMxODUyNiwtMTUyOTgwMDM5MCwtND
-kxMjE1OTMyXX0=
+eyJoaXN0b3J5IjpbLTE1ODI3MzcxNzgsLTE1Mjk4MDAzOTAsLT
+Q5MTIxNTkzMl19
 -->
