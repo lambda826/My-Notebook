@@ -3,12 +3,15 @@
 <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
 
 
-<a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031.  Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
+<a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
 # String
-* <a id="Leetcode0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0415_Add_Strings.java">**Solution**</a>
-* <a id="Leetcode0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
+<a id="Leetcode0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0415_Add_Strings.java">**Solution**</a>
+
+<a id="Leetcode0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
+
+
 
 ## Palindrome
 <a id="Leetcode0125" href="https://leetcode.com/problems/valid-palindrome/">[Leetcode 0125. Valid Palindrome]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0125_Valid_Palindrome.java">**Solution**</a>
@@ -123,7 +126,7 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODUyMjE1NSwtMTMwMTk0NDcxLC0xNT
-Y0ODcxODE0LC0xNjU2NzA5Njk0LC0xMDYwNjgyNTA2LC0xNTI5
-ODAwMzkwLC00OTEyMTU5MzJdfQ==
+eyJoaXN0b3J5IjpbLTg2OTAyNDE1NSwtNzM4NTIyMTU1LC0xMz
+AxOTQ0NzEsLTE1NjQ4NzE4MTQsLTE2NTY3MDk2OTQsLTEwNjA2
+ODI1MDYsLTE1Mjk4MDAzOTAsLTQ5MTIxNTkzMl19
 -->
