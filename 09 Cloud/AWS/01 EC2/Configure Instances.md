@@ -60,10 +60,16 @@ You can also use **IAM condition keys** in an IAM policy or SCP to do the follow
 You can require the use of IMDSv2 on an instance when you launch it.
 You can also create an IAM policy that prevents users from launching new instances unless they require IMDSv2 on the new instance.
 
--
+ - To require the use of IMDSv2 on a new instance
+	- ``` --metadata-options "HttpEndpoint=enabled,HttpTokens=required"```
+ - To enforce the use of IMDSv2 on all new instances
+	- ```--metadata-options "HttpEndpoint=disabled"```
+
+
+### Modify instance metadata options for existing instances
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDAxODU0Myw4NjUwODUxODgsLTY4NT
-A5NjQ4MCwxNjc0NDY3Mjc4LDEyMDM0MDY5OTgsMTU1ODgyNDg5
-NSw5NTIzMzk3NTEsMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2OD
-QwMjYyNjMsNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbLTExMzk2Mzk5OTQsODY1MDg1MTg4LC02OD
+UwOTY0ODAsMTY3NDQ2NzI3OCwxMjAzNDA2OTk4LDE1NTg4MjQ4
+OTUsOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNjM2NDI2MSwxNj
+g0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMzXX0=
 -->
