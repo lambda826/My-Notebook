@@ -1,3 +1,6 @@
+Template
+<a id="LeetcodeXXXX" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
+
 # Array
 
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031.  Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
@@ -20,6 +23,10 @@
 
 # Two Pointer
 # LinkedList
+<a id="LeetcodeXXXX" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
+
+
+
 # Binary Search
 # Sorting
 ## Quick Sort
@@ -122,8 +129,8 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTE2NDQ1OCwtMTM1MzkwMDMyNSw5MD
-k2MDY4NjYsMTIwODEzNDM0MSwxODgwNTA2NDkwLC0xOTc2ODQ3
-NDQwLC0xMzMzNzE0NDgyLC0xMzE1ODQ3NjI4LDg4ODM1MzE1Nl
-19
+eyJoaXN0b3J5IjpbMjA1NjA3MTM1OCwtNzAxMTY0NDU4LC0xMz
+UzOTAwMzI1LDkwOTYwNjg2NiwxMjA4MTM0MzQxLDE4ODA1MDY0
+OTAsLTE5NzY4NDc0NDAsLTEzMzM3MTQ0ODIsLTEzMTU4NDc2Mj
+gsODg4MzUzMTU2XX0=
 -->
