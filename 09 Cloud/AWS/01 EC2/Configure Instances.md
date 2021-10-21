@@ -45,10 +45,18 @@ MDSv2 uses **session-oriented** requests.
 
 ## [Configure the instance metadata options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-options.html)
 
-
+Instance metadata options allow you to configure **new or existing** instances to do the following:
+ - Require the use of IMDSv2 when requesting instance metadata
+ - Specify the  `PUT`  response hop limit
+ - Turn off access to instance metadata
+   
+You can also use **IAM condition keys** in an IAM policy or SCP to do the following:
+ - Allow an instance to launch only if it's configured to require the use of IMDSv2
+ - Restrict the number of allowed hops
+ - Turn off access to instance metadata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MDg1MTg4LC02ODUwOTY0ODAsMTY3ND
-Q2NzI3OCwxMjAzNDA2OTk4LDE1NTg4MjQ4OTUsOTUyMzM5NzUx
-LDIwMjU5MTgyOTgsMTIzNjM2NDI2MSwxNjg0MDI2MjYzLDQyOT
-c5ODAzMSwtNjI2NDY4NzMzXX0=
+eyJoaXN0b3J5IjpbLTE4NjQxNTM4NDgsODY1MDg1MTg4LC02OD
+UwOTY0ODAsMTY3NDQ2NzI3OCwxMjAzNDA2OTk4LDE1NTg4MjQ4
+OTUsOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNjM2NDI2MSwxNj
+g0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMzXX0=
 -->
