@@ -3,13 +3,12 @@
 You can also use instance metadata to access **user data** that you specified when launch your instance.
 
 
-
 ## [Use IMDSv2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html)
 Two methods to access instance metadata:
  - Instance Metadata Service Version 1 (IMDSv1) – a **request/response** method
  - Instance Metadata Service Version 2 (IMDSv2) – a **session-oriented** method
 
-The instance metadata service distinguishes between IMDSv1 and IMDSv2 requests based on whether, for any given request, either the `PUT` or `GET` headers, which are unique to IMDSv2, are present in that request.
+The instance metadata service distinguishes between IMDSv1 and IMDSv2 requests based on whether, for any given request, either the `PUT` or `GET` headers, which are unique to IMDSv2.
 
 ### How Instance Metadata Service Version 2 Works
 MDSv2 uses **session-oriented** requests.
@@ -59,8 +58,8 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTA5NjQ4MCwxNjc0NDY3Mjc4LDEyMD
-M0MDY5OTgsMTU1ODgyNDg5NSw5NTIzMzk3NTEsMjAyNTkxODI5
-OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsNDI5Nzk4MDMxLC02Mj
-Y0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzQwMDkzMzAsLTY4NTA5NjQ4MCwxNj
+c0NDY3Mjc4LDEyMDM0MDY5OTgsMTU1ODgyNDg5NSw5NTIzMzk3
+NTEsMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsND
+I5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
 -->
