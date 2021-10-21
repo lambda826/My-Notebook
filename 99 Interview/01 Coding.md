@@ -35,6 +35,11 @@
 
 # Two Pointer
 # LinkedList
+
+<a id="Leetcode0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0146_LRU_Cache.java">**Solution**</a>
+
+
+
 # Binary Search
 
 # Sorting
@@ -126,8 +131,8 @@
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTUyMDM1NiwtODY5MDI0MTU1LC03Mz
-g1MjIxNTUsLTEzMDE5NDQ3MSwtMTU2NDg3MTgxNCwtMTY1Njcw
-OTY5NCwtMTA2MDY4MjUwNiwtMTUyOTgwMDM5MCwtNDkxMjE1OT
-MyXX0=
+eyJoaXN0b3J5IjpbMTUwMzU4NTgyOSwyMDk1NTIwMzU2LC04Nj
+kwMjQxNTUsLTczODUyMjE1NSwtMTMwMTk0NDcxLC0xNTY0ODcx
+ODE0LC0xNjU2NzA5Njk0LC0xMDYwNjgyNTA2LC0xNTI5ODAwMz
+kwLC00OTEyMTU5MzJdfQ==
 -->
