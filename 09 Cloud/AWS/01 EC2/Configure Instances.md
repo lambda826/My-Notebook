@@ -54,9 +54,16 @@ You can also use **IAM condition keys** in an IAM policy or SCP to do the follow
  - Allow an instance to launch only if it's configured to require the use of IMDSv2
  - Restrict the number of allowed hops
  - Turn off access to instance metadata
+
+
+### Configure instance metadata options for new instances
+You can require the use of IMDSv2 on an instance when you launch it.
+You can also create an IAM policy that prevents users from launching new instances unless they require IMDSv2 on the new instance.
+
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQxNTM4NDgsODY1MDg1MTg4LC02OD
-UwOTY0ODAsMTY3NDQ2NzI3OCwxMjAzNDA2OTk4LDE1NTg4MjQ4
-OTUsOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNjM2NDI2MSwxNj
-g0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMzXX0=
+eyJoaXN0b3J5IjpbLTM5MDAxODU0Myw4NjUwODUxODgsLTY4NT
+A5NjQ4MCwxNjc0NDY3Mjc4LDEyMDM0MDY5OTgsMTU1ODgyNDg5
+NSw5NTIzMzk3NTEsMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2OD
+QwMjYyNjMsNDI5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
 -->
