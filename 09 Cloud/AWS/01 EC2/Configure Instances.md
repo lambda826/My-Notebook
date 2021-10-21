@@ -1,6 +1,6 @@
 # [Instance Metadata and User Data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 **Instance metadata** is data about your instance that you can use to configure or manage the running instance.
-You can also use instance metadata to access **user data** that you specified when launching your instance.
+You can also use instance metadata to access **user data** that you specified when launch your instance.
 
 
 
@@ -59,7 +59,8 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQ2NzI3OCwxMjAzNDA2OTk4LDE1NT
-g4MjQ4OTUsOTUyMzM5NzUxLDIwMjU5MTgyOTgsMTIzNjM2NDI2
-MSwxNjg0MDI2MjYzLDQyOTc5ODAzMSwtNjI2NDY4NzMzXX0=
+eyJoaXN0b3J5IjpbLTY4NTA5NjQ4MCwxNjc0NDY3Mjc4LDEyMD
+M0MDY5OTgsMTU1ODgyNDg5NSw5NTIzMzk3NTEsMjAyNTkxODI5
+OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsNDI5Nzk4MDMxLC02Mj
+Y0Njg3MzNdfQ==
 -->
