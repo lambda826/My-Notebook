@@ -22,8 +22,9 @@ Template
 <a id="Leetcode1216" href="https://leetcode.com/problems/valid-palindrome-iii/">[Leetcode 1216. Valid Palindrome III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_1216_Valid_Palindrome_III.java">**Solution**</a> **- k palindrome**
 
 # Two Pointer
+
 # LinkedList
-<a id="Leetcode0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="XXX">**Solution**</a>
+<a id="Leetcode0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0146_LRU_Cache.java">**Solution**</a>
 
 
 
@@ -129,8 +130,8 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODQzOSwtNzAxMTY0NDU4LC0xMzUzOT
-AwMzI1LDkwOTYwNjg2NiwxMjA4MTM0MzQxLDE4ODA1MDY0OTAs
-LTE5NzY4NDc0NDAsLTEzMzM3MTQ0ODIsLTEzMTU4NDc2MjgsOD
-g4MzUzMTU2XX0=
+eyJoaXN0b3J5IjpbMTM3NTcwMDMzMiwtNzAxMTY0NDU4LC0xMz
+UzOTAwMzI1LDkwOTYwNjg2NiwxMjA4MTM0MzQxLDE4ODA1MDY0
+OTAsLTE5NzY4NDc0NDAsLTEzMzM3MTQ0ODIsLTEzMTU4NDc2Mj
+gsODg4MzUzMTU2XX0=
 -->
