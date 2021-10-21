@@ -13,19 +13,8 @@ The instance metadata service distinguishes between IMDSv1 and IMDSv2 requests b
 ### How Instance Metadata Service Version 2 Works
 MDSv2 uses **session-oriented** requests.
  - With session-oriented requests, you create a session token that defines the session duration.
-
-Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadata items:
- - Creates a session token
-- Stores the session token header in a variable named  `TOKEN`
- - Requests the top-level metadata items using the token
-	 - The request must include the followings when Use IMDSv2 to request instance metadata:
-		 - Use a  `PUT`  request to initiate a session to the instance metadata service.
-			 - The  `PUT`  request returns a token that must be included in subsequent  `GET`  requests to the instance metadata service.
-			 - The token is required to access metadata using IMDSv2.
-		 - Include the token in all `GET` requests to the instance metadata service.
-			 - The token is an instance-specific key.
-			 - The `PUT` request must include a header that specifies the time to live (TTL) for the token in seconds.
-
+ - During the specified duration, you can use the same session token for subsequent requests.
+ - After the specified duration expires, you must create a new session token to use for future requests.
 
 ### Transition to using Instance Metadata Service Version 2
 **Tools for helping with the transition to IMDSv2**
@@ -58,8 +47,8 @@ Use a  Linux  shell script and IMDSv2 to retrieve the top-level instance metadat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4NjkwNTIsLTY4NTA5NjQ4MCwxNj
-c0NDY3Mjc4LDEyMDM0MDY5OTgsMTU1ODgyNDg5NSw5NTIzMzk3
-NTEsMjAyNTkxODI5OCwxMjM2MzY0MjYxLDE2ODQwMjYyNjMsND
-I5Nzk4MDMxLC02MjY0Njg3MzNdfQ==
+eyJoaXN0b3J5IjpbODY1MDg1MTg4LC02ODUwOTY0ODAsMTY3ND
+Q2NzI3OCwxMjAzNDA2OTk4LDE1NTg4MjQ4OTUsOTUyMzM5NzUx
+LDIwMjU5MTgyOTgsMTIzNjM2NDI2MSwxNjg0MDI2MjYzLDQyOT
+c5ODAzMSwtNjI2NDY4NzMzXX0=
 -->
