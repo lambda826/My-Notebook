@@ -78,7 +78,7 @@ Template
 <a id="Leetcode0241" href="https://leetcode.com/problems/different-ways-to-add-parentheses/">[Leetcode 0241. Different Ways to Add Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0241_Different_Ways_to_Add_Parentheses.java">**Solution**</a>
 
 
-<a id="Leetcode0017" href="XXXX">[Leetcode https://leetcode.com/problems/letter-combinations-of-a-phone-number/]</a> : <a href="XXX">**Solution**</a>
+<a id="Leetcode0017" href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">[Leetcode 0017.  Letter Combinations of a Phone Number]</a> : <a href="XXX">**Solution**</a>
 
 
 ### 2D
@@ -145,8 +145,8 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0MDY0MTUsMTUwMzU4NTgyOSwyMD
-k1NTIwMzU2LC04NjkwMjQxNTUsLTczODUyMjE1NSwtMTMwMTk0
-NDcxLC0xNTY0ODcxODE0LC0xNjU2NzA5Njk0LC0xMDYwNjgyNT
-A2LC0xNTI5ODAwMzkwLC00OTEyMTU5MzJdfQ==
+eyJoaXN0b3J5IjpbNDg1MDAxMTY0LDE1MDM1ODU4MjksMjA5NT
+UyMDM1NiwtODY5MDI0MTU1LC03Mzg1MjIxNTUsLTEzMDE5NDQ3
+MSwtMTU2NDg3MTgxNCwtMTY1NjcwOTY5NCwtMTA2MDY4MjUwNi
+wtMTUyOTgwMDM5MCwtNDkxMjE1OTMyXX0=
 -->
