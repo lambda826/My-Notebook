@@ -6,9 +6,11 @@
 Proximity servers are used to discover nearby attractions like places, events, etc.
 
 ## Key Words
----
+
 # Requirements
 ## **Functional**
+ - Add places with location
+
 ## **Non-Functional**
 ---
 # Estimation
@@ -23,5 +25,5 @@ Proximity servers are used to discover nearby attractions like places, events, e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTc4MDYzLC0yMDY3MDgwOTc4XX0=
+eyJoaXN0b3J5IjpbMTQyNzY2NjMyOSwtMjA2NzA4MDk3OF19
 -->
