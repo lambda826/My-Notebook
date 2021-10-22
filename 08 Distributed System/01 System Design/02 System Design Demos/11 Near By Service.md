@@ -9,7 +9,8 @@ Proximity servers are used to discover nearby attractions like places, events, e
 
 # Requirements
 ## **Functional**
- - Add places with location
+ - Add/update/delete places with location
+ - Given a po
 
 ## **Non-Functional**
 ---
@@ -25,5 +26,5 @@ Proximity servers are used to discover nearby attractions like places, events, e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzY2NjMyOSwtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbOTQ3OTc5MDAxLC0yMDY3MDgwOTc4XX0=
 -->
