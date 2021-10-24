@@ -14,22 +14,24 @@ https://www.youtube.com/c/TheInterviewSage/videos
 Read Heavy
 QuadTree
 Geohash
-Hilbert
+Hilbert curve
 
 https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
 # Requirements
 ## **Functional**
- - Add/update/delete places with location
- - Query nearby locations given a location
+- Add/update/delete places with location
+- Query nearby locations given a location
 
 ## **Non-Functional**
- - Low latency with heavy search load
+- Low latency with heavy search load
 
 ---
 # Estimation
 ## **Traffic**
+- Assume 100K QPS
+
 ## **Storage**
 ---
 # High Level Design
@@ -40,6 +42,6 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUwNDc0NDgsLTEwNTk1NjU2MDcsLT
-E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbNzcwNzAxMDg0LC0xMDU5NTY1NjA3LC0xNT
+IzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
