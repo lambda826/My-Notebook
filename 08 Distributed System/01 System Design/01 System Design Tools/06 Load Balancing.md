@@ -1,4 +1,7 @@
 # Load Balancer
+![01 Load Balance](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/load%20balance/01%20Load%20Balance.png)
+
+![02 Load Balance](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/load%20balance/02%20Load%20Balance.png)
 
 
 
@@ -142,5 +145,5 @@ Types of Load Balancing
 -   Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
 -   Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQ4NTQ5Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjcyMTk0MjYsNzMwOTk4MTE2XX0=
 -->
