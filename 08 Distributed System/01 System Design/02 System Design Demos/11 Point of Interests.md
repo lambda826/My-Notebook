@@ -44,8 +44,13 @@ How can we query `NearBy` efficiently?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 
+How can we paritition database?
+ - Sharding based on regions
+	 - Hotspot issue.
+	 - uniform distribution 
+ - Sharding based on LocationID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOT
-EwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIy
-MzUwMl19
+eyJoaXN0b3J5IjpbLTMwOTI0MjUyMywxNjYwNDEzMzQ1LC05ND
+c4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3
+Njk5MywtODQ4MjIzNTAyXX0=
 -->
