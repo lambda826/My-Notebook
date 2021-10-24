@@ -70,7 +70,7 @@ Secure Sockets Layer (SSL) is the standard security technology for establishing 
 	- As for pricing, hardware load balancers require a large upfront cost whereas DNS load balancers can be scaled as needed.
 
 
-## Types of Load Balancing
+# Types of Load Balancing
 
 - SDN — Load balancing using [SDN (software-defined networking)](https://avinetworks.com/glossary/sdn-load-balancing/) separates the control plane from the data plane for application delivery.
 	- This allows the control of multiple load balancing. It also helps the network to function like the virtualized versions of compute and storage.
@@ -102,5 +102,5 @@ Secure Sockets Layer (SSL) is the standard security technology for establishing 
 	- Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
 	- Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTAwODQ0MF19
+eyJoaXN0b3J5IjpbLTE1NzIzNzAzNjMsLTM5MTAwODQ0MF19
 -->
