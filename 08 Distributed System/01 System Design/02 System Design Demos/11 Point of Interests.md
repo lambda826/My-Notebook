@@ -8,8 +8,6 @@ https://www.youtube.com/watch?v=hykjbT5Z0oE&list=PLCfguwhZH5DnHl2yldI781yR6FAgky
 https://www.youtube.com/watch?v=Hr5UJnKxwyg&list=PLCfguwhZH5Dmi-N_EXR1h4bAt16EYpyc1&index=4
 https://www.youtube.com/c/TheInterviewSage/videos
 
-
-
 ## Key Words
 Read Heavy
 QuadTree
@@ -44,6 +42,6 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAwODIyMzksMTI5MTA5NDkyNiwtMT
+eyJoaXN0b3J5IjpbLTE5NzkzNTUyOTEsMTI5MTA5NDkyNiwtMT
 A1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
 -->
