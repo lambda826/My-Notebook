@@ -9,6 +9,12 @@
 
 ![Failover Primary Server Secondary Server —Data Replication—y Active Data Mirrored Data ](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/replication/replication.png)
 
+## Read Replica
+
+Amazon RDS Read Replicas provide enhanced performance and durability for RDS database (DB) instances. They make it easy to elastically scale out beyond the capacity constraints of a single DB instance for read-heavy database workloads. You can create one or more replicas of a given source DB Instance and serve high-volume application read traffic from multiple copies of your data, thereby increasing aggregate read throughput. Read replicas can also be promoted when needed to become standalone DB instances
+
+
+
 # Checksum
 Checksum
 - While moving data between components, it is possible that the data fetched from a node may arrive corrupted.
@@ -20,6 +26,6 @@ Checksum
 		- If not, then the client can opt to retrieve that data from another replica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc2ODMzODQsLTE1NTI5MjUyODFdfQ
-==
+eyJoaXN0b3J5IjpbLTM2ODQ2Njk2OSwtMTE0NzY4MzM4NCwtMT
+U1MjkyNTI4MV19
 -->
