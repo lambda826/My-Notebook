@@ -34,10 +34,10 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 -
 
 # High Level Design
+## Approach 1: QuadTree
 ![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
 [Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
 
-# Follow-up
 How can we query `NearBy` efficiently?
  - Option 1: use a QuadTree
 
@@ -50,8 +50,12 @@ How can we paritition database?
 	 - Uniform distribution (write). 
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
+
+# Follow-up
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzQ4MDM0OSwxNjYwNDEzMzQ1LC05ND
+eyJoaXN0b3J5IjpbMTkxNzA1MTg5MywxNjYwNDEzMzQ1LC05ND
 c4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3
 Njk5MywtODQ4MjIzNTAyXX0=
 -->
