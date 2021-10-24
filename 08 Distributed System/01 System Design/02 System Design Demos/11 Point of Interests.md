@@ -33,7 +33,8 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 - Assume 100K QPS
 
 ## **Storage**
----
+-
+
 # High Level Design
 [Draw IO source]()
 
@@ -42,6 +43,6 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNzAxMDg0LC0xMDU5NTY1NjA3LC0xNT
-IzNTc2OTkzLC04NDgyMjM1MDJdfQ==
+eyJoaXN0b3J5IjpbMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMT
+UyMzU3Njk5MywtODQ4MjIzNTAyXX0=
 -->
