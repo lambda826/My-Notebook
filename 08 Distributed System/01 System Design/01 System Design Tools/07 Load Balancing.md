@@ -31,18 +31,14 @@
 ## Session Persistence
 Refers to directing a client’s requests to the same backend web or application server for the duration of a “session” or the time it takes to complete a task or transaction.
 
+
 # Redundant Load Balancers
+![03 Redundant Load Balancer](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/load%20balance/03%20Redundant%20Load%20Balancer.png)
+- The load balancer can be a single point of failure; to overcome this, a second load balancer can be connected to the first to form a cluster.
+- Each LB monitors the health of the other and, since both of them are equally capable of serving traffic and failure detection, in the event the main load balancer fails, the second load balancer takes over.
 
--   The load balancer can be a single point of failure; to overcome this, a second load balancer can be connected to the first to form a cluster.
--   Each LB monitors the health of the other and, since both of them are equally capable of serving traffic and failure detection, in the event the main load balancer fails, the second load balancer takes over.
 
-[https://avinetworks.com/what-is-load-balancing/](https://avinetworks.com/what-is-load-balancing/)
-
-[https://lethain.com/introduction-to-architecting-systems-for-scale/](https://lethain.com/introduction-to-architecting-systems-for-scale/)
-
-[https://en.wikipedia.org/wiki/Load_balancing_(computing](https://en.wikipedia.org/wiki/Load_balancing_%28computing))
-
-Load Balancing and SSL
+# Load Balancing and SSL
 
 -   Secure Sockets Layer (SSL) is the standard security technology for establishing an encrypted link between a web server and a browser.
 -   SSL traffic is often decrypted at the load balancer.
@@ -128,5 +124,5 @@ Types of Load Balancing
 -   Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
 -   Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MTc4NTcyXX0=
+eyJoaXN0b3J5IjpbMTgxOTc3OTU5Nl19
 -->
