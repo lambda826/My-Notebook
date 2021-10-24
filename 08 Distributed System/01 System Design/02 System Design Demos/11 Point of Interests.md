@@ -41,9 +41,11 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 How can we query `NearBy` efficiently?
  - Option 1: use a QuadTree
 
-
+How can we do a search and present the results on the map?
+ - Build `inverted index` on top of the entities, whose key is the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
-U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
+eyJoaXN0b3J5IjpbLTMxMTI3OTA4NiwtOTQ3ODgyNTcxLDEyOT
+EwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIy
+MzUwMl19
 -->
