@@ -45,7 +45,10 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 3. Low performance: O(N)
 
 ### Option 2: Grid
-![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)1. Divide the whole map into grids to group locations
+![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)
+1. Divide the whole map into grids.
+2. Group locations into grids
+3. Based on given `Location` and `Radius`, find all neighbouring grids
 
 ## Approach 1: QuadTree
 
@@ -70,8 +73,8 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDUyOTgzMSwxMzIyNDQ4NTMxLDMzOD
-U5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDky
-NiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX
-0=
+eyJoaXN0b3J5IjpbLTEzNDQ2OTAyNDksMTMyMjQ0ODUzMSwzMz
+g1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5
+MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl
+19
 -->
