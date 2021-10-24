@@ -42,10 +42,10 @@ How can we query `NearBy` efficiently?
  - Option 1: use a QuadTree
 
 How can we do a search and present the results on the map?
- - Build `inverted index` on top of the entities, whose key is the 
+ - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTI3OTA4NiwtOTQ3ODgyNTcxLDEyOT
+eyJoaXN0b3J5IjpbMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOT
 EwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIy
 MzUwMl19
 -->
