@@ -53,11 +53,12 @@ How can we paritition database?
 
 ## Approach 2: Hilbert Curve
 
+
 # Follow-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDk0MDA4LDE2NjA0MTMzNDUsLTk0Nz
+eyJoaXN0b3J5IjpbMzM4NTkwNTM4LDE2NjA0MTMzNDUsLTk0Nz
 g4MjU3MSwxMjkxMDk0OTI2LC0xMDU5NTY1NjA3LC0xNTIzNTc2
 OTkzLC04NDgyMjM1MDJdfQ==
 -->
