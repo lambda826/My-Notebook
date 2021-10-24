@@ -4,49 +4,34 @@
 ![02 Load Balance](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/load%20balance/02%20Load%20Balance.png)
 
 
+# Load Balancing Algorithms
+## Health Checks
+- To monitor the health of a backend server, “health checks” regularly attempt to connect to backend servers to ensure that servers are listening.
+- If a server fails a health check, it is automatically removed from the pool, and traffic will not be forwarded to it until it responds to the health checks again.
 
-Load Balancing Algorithms
-
--   Health Checks
-
--   To monitor the health of a backend server, “health checks” regularly attempt to connect to backend servers to ensure that servers are listening.
-
--   If a server fails a health check, it is automatically removed from the pool, and traffic will not be forwarded to it until it responds to the health checks again.
-
--   Balancing Algorithms
-
--   Round Robin
-
--   This method cycles through a list of servers and sends each new request to the next server.
--   When it reaches the end of the list, it starts over at the beginning.
--   It is most useful when the servers are of equal specification and there are not many persistent connections.
-
--   Weighted Round Robin
-
--   The weighted round-robin scheduling is designed to better handle servers with different processing capacities.
--   Each server is assigned a weight (an integer value that indicates the processing capacity).
--   Servers with higher weights receive new connections before those with less weights and servers with higher weights get more connections than those with less weights.
+## Balancing Algorithms
+- Round Robin
+	- This method cycles through a list of servers and sends each new request to the next server.
+	- When it reaches the end of the list, it starts over at the beginning.
+	- It is most useful when the servers are of equal specification and there are not many persistent connections.
+- Weighted Round Robin
+	- The weighted round-robin scheduling is designed to better handle servers with different processing capacities.
+	 - Each server is assigned a weight (an integer value that indicates the processing capacity).
+	- Servers with higher weights receive new connections before those with less weights and servers with higher weights get more connections than those with less weights.
 
 -   Least Connection
 
 -   This method directs traffic to the server with the fewest active connections.
 -   This approach is quite useful when there are a large number of persistent client connections which are unevenly distributed between the servers.
+- Least Response Time
+- This algorithm directs traffic to the server with the fewest active connections and the lowest average response time.
+- Least Bandwidth
+- This method selects the server that is currently serving the least amount of traffic measured in megabits per second (Mbps).
+- IP Hash
+- Under this method, a hash of the IP address of the client is calculated to redirect the request to a server.
 
--   Least Response Time
-
--   This algorithm directs traffic to the server with the fewest active connections and the lowest average response time.
-
--   Least Bandwidth
-
--   This method selects the server that is currently serving the least amount of traffic measured in megabits per second (Mbps).
-
--   IP Hash
-
--   Under this method, a hash of the IP address of the client is calculated to redirect the request to a server.
-
--   Session persistence
-
--   Refers to directing a client’s requests to the same backend web or application server for the duration of a “session” or the time it takes to complete a task or transaction.
+#Session persistence
+- Refers to directing a client’s requests to the same backend web or application server for the duration of a “session” or the time it takes to complete a task or transaction.
 
 Redundant Load Balancers
 
@@ -145,5 +130,5 @@ Types of Load Balancing
 -   Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
 -   Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcyMTk0MjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNzkzMDE5NTcsNzMwOTk4MTE2XX0=
 -->
