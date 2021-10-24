@@ -61,66 +61,62 @@ Secure Sockets Layer (SSL) is the standard security technology for establishing 
 ![04 Software Load Balancers vs. Hardware Load Balancers](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/load%20balance/04%20Software%20Load%20Balancers%20vs.%20Hardware%20Load%20Balancers.png)
 
 ## DNS Load Balancing vs Hardware Load Balancing
+- DNS load balancing is a software-defined approach to load balancing where client requests to a domain within the Domain Name System (DNS) are distributed across different server machines.
+	- The DNS system sends a different version of the list of IP addresses each time it responds to a new client request using the round-robin method, therefore distributing the DNS requests evenly to different servers to handle the overall load.
+	- This in turn provides DNS load balancing failover protection through automatic removal of non-responsive servers.
+- DNS load balancing differs from hardware load balancing in a few instances, although both can be a very effective solution for distributing traffic.
+	- One main advantage of DNS level load balancing is the scalability and price.
+	- A DNS load balancer distributes traffic to several different IP addresses, whereas the hardware solution uses a single IP address and splits traffic leading to it on multiple servers.
+	- As for pricing, hardware load balancers require a large upfront cost whereas DNS load balancers can be scaled as needed.
 
--   DNS load balancing is a software-defined approach to load balancing where client requests to a domain within the Domain Name System (DNS) are distributed across different server machines.
 
--   The DNS system sends a different version of the list of IP addresses each time it responds to a new client request using the round-robin method, therefore distributing the DNS requests evenly to different servers to handle the overall load.
--   This in turn provides DNS load balancing failover protection through automatic removal of non-responsive servers.
+## Types of Load Balancing
 
--   DNS load balancing differs from hardware load balancing in a few instances, although both can be a very effective solution for distributing traffic.
+- SDN — Load balancing using [SDN (software-defined networking)](https://avinetworks.com/glossary/sdn-load-balancing/) separates the control plane from the data plane for application delivery.
+- This allows the control of multiple load balancing. It also helps the network to function like the virtualized versions of compute and storage.
+- With the centralized control, networking policies and parameters can be programmed directly for more responsive and efficient application services.
+- This is how networks can become more agile.
 
--   One main advantage of DNS level load balancing is the scalability and price.
--   A DNS load balancer distributes traffic to several different IP addresses, whereas the hardware solution uses a single IP address and splits traffic leading to it on multiple servers.
--   As for pricing, hardware load balancers require a large upfront cost whereas DNS load balancers can be scaled as needed.
+- UDP — A UDP load balancer utilizes User Datagram Protocol (UDP).
 
-Types of Load Balancing
+- [UDP load balancing](https://avinetworks.com/glossary/udp-load-balancer/#:~:text=A%20UDP%20load%20balancer%20is,the%20internet%20protocol%20(IP).) is often used for live broadcasts and online games when speed is important and there is little need for error correction.
+- UDP has low latency because it does not provide time-consuming health checks.
 
--   SDN — Load balancing using [SDN (software-defined networking)](https://avinetworks.com/glossary/sdn-load-balancing/) separates the control plane from the data plane for application delivery.
+- TCP — A TCP load balancer uses transmission control protocol (TCP).
 
--   This allows the control of multiple load balancing. It also helps the network to function like the virtualized versions of compute and storage.
--   With the centralized control, networking policies and parameters can be programmed directly for more responsive and efficient application services.
--   This is how networks can become more agile.
+- [TCP load balancing](https://avinetworks.com/glossary/tcp-load-balancing/) provides a reliable and error-checked stream of packets to IP addresses, which can otherwise easily be lost or corrupted.
 
--   UDP — A UDP load balancer utilizes User Datagram Protocol (UDP).
+- SLB— Server Load Balancing (SLB) provides network services and content delivery using a series of load balancing algorithms.
 
--   [UDP load balancing](https://avinetworks.com/glossary/udp-load-balancer/#:~:text=A%20UDP%20load%20balancer%20is,the%20internet%20protocol%20(IP).) is often used for live broadcasts and online games when speed is important and there is little need for error correction.
--   UDP has low latency because it does not provide time-consuming health checks.
+- It prioritizes responses to the specific requests from clients over the network.
+- [Server load balancing](https://avinetworks.com/glossary/server-load-balancer/) distributes client traffic to servers to ensure consistent, high-performance application delivery.
 
--   TCP — A TCP load balancer uses transmission control protocol (TCP).
+- Virtual
 
--   [TCP load balancing](https://avinetworks.com/glossary/tcp-load-balancing/) provides a reliable and error-checked stream of packets to IP addresses, which can otherwise easily be lost or corrupted.
+- Virtual load balancing aims to mimic software-driven infrastructure through virtualization.
+- It runs the software of a physical load balancing appliance on a virtual machine.
+- [Virtual load balancers](https://avinetworks.com/glossary/virtual-load-balancer/), however, do not avoid the architectural challenges of traditional hardware appliances which include limited scalability and automation, and lack of central management.
 
--   SLB— Server Load Balancing (SLB) provides network services and content delivery using a series of load balancing algorithms.
+- Elastic
 
--   It prioritizes responses to the specific requests from clients over the network.
--   [Server load balancing](https://avinetworks.com/glossary/server-load-balancer/) distributes client traffic to servers to ensure consistent, high-performance application delivery.
+- [Elastic Load Balancing](https://avinetworks.com/glossary/elastic-load-balancer/) scales traffic to an application as demand changes over time.
+- It uses system health checks to learn the status of application pool members (application servers) and routes traffic appropriately to available servers, manages fail-over to high availability targets, or automatically spins-up additional capacity.
 
--   Virtual
+- Geographic
 
--   Virtual load balancing aims to mimic software-driven infrastructure through virtualization.
--   It runs the software of a physical load balancing appliance on a virtual machine.
--   [Virtual load balancers](https://avinetworks.com/glossary/virtual-load-balancer/), however, do not avoid the architectural challenges of traditional hardware appliances which include limited scalability and automation, and lack of central management.
+- Geographic load balancing redistributes application traffic across data centers in different locations for maximum efficiency and security.
+- While local load balancing happens within a single data center, [geographic load balancing](https://avinetworks.com/glossary/geographic-load-balancing/) uses multiple data centers in many locations.
 
--   Elastic
+- Multi-site
 
--   [Elastic Load Balancing](https://avinetworks.com/glossary/elastic-load-balancer/) scales traffic to an application as demand changes over time.
--   It uses system health checks to learn the status of application pool members (application servers) and routes traffic appropriately to available servers, manages fail-over to high availability targets, or automatically spins-up additional capacity.
+- Multi-site load balancing, also known as global server load balancing (GSLB), distributes traffic across servers located in multiple sites or locations around the world.
+- The servers can be on-premises or hosted in a public or private cloud.
+- [Multi-site load balancing](https://avinetworks.com/glossary/multi-site-load-balancing/) is important for quick disaster recovery and business continuity after a disaster in one location renders a server inoperable.
 
--   Geographic
+- Load Balancer as a Service (LBaaS)
 
--   Geographic load balancing redistributes application traffic across data centers in different locations for maximum efficiency and security.
--   While local load balancing happens within a single data center, [geographic load balancing](https://avinetworks.com/glossary/geographic-load-balancing/) uses multiple data centers in many locations.
-
--   Multi-site
-
--   Multi-site load balancing, also known as global server load balancing (GSLB), distributes traffic across servers located in multiple sites or locations around the world.
--   The servers can be on-premises or hosted in a public or private cloud.
--   [Multi-site load balancing](https://avinetworks.com/glossary/multi-site-load-balancing/) is important for quick disaster recovery and business continuity after a disaster in one location renders a server inoperable.
-
--   Load Balancer as a Service (LBaaS)
-
--   Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
--   Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
+- Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
+- Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNjU5MDQ2XX0=
+eyJoaXN0b3J5IjpbMTAzNzk4NDkwOF19
 -->
