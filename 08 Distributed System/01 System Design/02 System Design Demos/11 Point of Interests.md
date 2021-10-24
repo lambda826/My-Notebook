@@ -49,8 +49,9 @@ How can we paritition database?
 	 - Hotspot issue (read).
 	 - Uniform distribution (write). 
  - Sharding based on LocationID
+	 - Have to query all db instance and aggregate the results
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTQ3Njg3NCwxNjYwNDEzMzQ1LC05ND
-c4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3
-Njk5MywtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbLTIwNjg1MDE2MjksMTY2MDQxMzM0NSwtOT
+Q3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1
+NzY5OTMsLTg0ODIyMzUwMl19
 -->
