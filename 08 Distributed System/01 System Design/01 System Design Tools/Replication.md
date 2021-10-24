@@ -11,8 +11,11 @@
 
 ## Read Replica
 
-Amazon RDS Read Replicas provide enhanced performance and durability for RDS database (DB) instances. They make it easy to elastically scale out beyond the capacity constraints of a single DB instance for read-heavy database workloads. You can create one or more replicas of a given source DB Instance and serve high-volume application read traffic from multiple copies of your data, thereby increasing aggregate read throughput. Read replicas can also be promoted when needed to become standalone DB instances
+**Amazon RDS** Read Replicas provide enhanced performance and durability for RDS database (DB) instances.
+ - You can create one or more replicas of a given source DB Instance and serve high-volume application read traffic from multiple copies of your data, thereby increasing aggregate read throughput.
+ - Read replicas can also be promoted when needed to become standalone DB instances
 
+![Read Replication](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/replication/Read%20Replication.png)
 
 
 # Checksum
@@ -26,6 +29,6 @@ Checksum
 		- If not, then the client can opt to retrieve that data from another replica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODQ2Njk2OSwtMTE0NzY4MzM4NCwtMT
-U1MjkyNTI4MV19
+eyJoaXN0b3J5IjpbMjEzMTMwNzM3MiwtMzY4NDY2OTY5LC0xMT
+Q3NjgzMzg0LC0xNTUyOTI1MjgxXX0=
 -->
