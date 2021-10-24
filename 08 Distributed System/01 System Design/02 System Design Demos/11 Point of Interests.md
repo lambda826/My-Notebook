@@ -39,11 +39,11 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 
 # Follow-up
 How can we query `NearBy` efficiently?
-
+ - Option 1: use a QuadTree
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTMyMDU5OSwxMjkxMDk0OTI2LC0xMD
+eyJoaXN0b3J5IjpbLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
 U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
