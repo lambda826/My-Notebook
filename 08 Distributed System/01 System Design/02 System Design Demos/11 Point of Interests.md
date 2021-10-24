@@ -46,11 +46,11 @@ How can we do a search and present the results on the map?
 
 How can we paritition database?
  - Sharding based on regions
-	 - Hotspot issue.
-	 - uniform distribution 
+	 - Hotspot issue (read).
+	 - Uniform distribution (write). 
  - Sharding based on LocationID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTI0MjUyMywxNjYwNDEzMzQ1LC05ND
+eyJoaXN0b3J5IjpbMTAxMTQ3Njg3NCwxNjYwNDEzMzQ1LC05ND
 c4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3
 Njk5MywtODQ4MjIzNTAyXX0=
 -->
