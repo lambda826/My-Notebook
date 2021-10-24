@@ -11,6 +11,11 @@ https://www.youtube.com/c/TheInterviewSage/videos
 
 
 ## Key Words
+Read Heavy
+QuadTree
+Geohash
+Hilbert
+
 https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
@@ -20,9 +25,7 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
  - Query nearby locations given a location
 
 ## **Non-Functional**
- - Low latency
- - 
-
+ - Low latency with heavy search load
 
 ---
 # Estimation
@@ -37,6 +40,6 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLT
-g0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTEzNjUwNDc0NDgsLTEwNTk1NjU2MDcsLT
+E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
