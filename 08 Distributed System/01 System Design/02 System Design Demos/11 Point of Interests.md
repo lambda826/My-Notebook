@@ -34,10 +34,10 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 -
 
 # High Level Design
-## NearBy Algorithm
+## Algorithm Model: How to Find NearBy?
 ### Option 1: SQL Solution
-1. We store Lon (X) / Lat (Y) for each entity 
-2. Do a SQL query for `NearBy` (D) query: ([X + D, X - D], [Y + D, Y - D])
+1. We store  `Latitude (X)` / `Longitute (Y)` for each entity 
+2. Do a SQL query for `NearBy` (D) query: ([`X + D`, X - D], [Y + D, Y - D])
 3. Inefficent: O(N)
 
 ### Option 2: Grid
@@ -69,7 +69,7 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTcyNjQxLDMzODU5MDUzOCwxNjYwND
-EzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYw
-NywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbLTkwMjM1MjM1OCwzMzg1OTA1MzgsMTY2MD
+QxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2
+MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
