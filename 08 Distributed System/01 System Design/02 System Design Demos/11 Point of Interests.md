@@ -36,8 +36,14 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 # High Level Design
 ## NearBy Algorithm
 ### Option 1: SQL Solution
-1. We store Lon/Lat for each entity 
-2. Do a SQL query for `
+1. We store Lon (X) / Lat (Y) for each entity 
+2. Do a SQL query for `NearBy` (D) query: ([X + D, X - D], [Y + D, Y - D])
+3. Inefficent: O(N)
+
+### Option 2: Grid
+
+
+
 D
 ## Approach 1: QuadTree
 ![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
@@ -63,7 +69,7 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODEwMjg1OSwzMzg1OTA1MzgsMTY2MD
-QxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2
-MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbMTcyOTcyNjQxLDMzODU5MDUzOCwxNjYwND
+EzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYw
+NywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
 -->
