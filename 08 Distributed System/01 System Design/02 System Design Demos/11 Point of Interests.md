@@ -51,11 +51,13 @@ How can we paritition database?
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
 
+## Approach 2: Hilbert Curve
+
 # Follow-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzA1MTg5MywxNjYwNDEzMzQ1LC05ND
-c4ODI1NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3
-Njk5MywtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbMjI2MDk0MDA4LDE2NjA0MTMzNDUsLTk0Nz
+g4MjU3MSwxMjkxMDk0OTI2LC0xMDU5NTY1NjA3LC0xNTIzNTc2
+OTkzLC04NDgyMjM1MDJdfQ==
 -->
