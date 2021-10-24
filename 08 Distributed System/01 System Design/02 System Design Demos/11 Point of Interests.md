@@ -34,6 +34,10 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 -
 
 # High Level Design
+## Architecture
+![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
+[Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
+
 ## Algorithm Model: How to Find NearBy?
 ### Option 1: SQL Solution
 1. We store  `Latitude (X)` / `Longitute (Y)` for each entity 
@@ -41,13 +45,10 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 3. Low performance: O(N)
 
 ### Option 2: Grid
-![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)
+![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)1. Divide the whole map into grids to group locations
 
-
-D
 ## Approach 1: QuadTree
-![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
-[Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
+
 
 How can we query `NearBy` efficiently?
  - Option 1: use a QuadTree
@@ -69,8 +70,8 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MDE0NzczLDEzMjI0NDg1MzEsMzM4NT
-kwNTM4LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2
-LC0xMDU5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ
-==
+eyJoaXN0b3J5IjpbLTYwMDUyOTgzMSwxMzIyNDQ4NTMxLDMzOD
+U5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDky
+NiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX
+0=
 -->
