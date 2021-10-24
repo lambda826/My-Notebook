@@ -37,11 +37,13 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 ![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
 [Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
 
-
 # Follow-up
+How can we query `NearBy` efficiently?
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkzNTUyOTEsMTI5MTA5NDkyNiwtMT
-A1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbMTg3OTMyMDU5OSwxMjkxMDk0OTI2LC0xMD
+U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
