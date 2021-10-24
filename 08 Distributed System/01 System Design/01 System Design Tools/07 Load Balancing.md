@@ -73,50 +73,34 @@ Secure Sockets Layer (SSL) is the standard security technology for establishing 
 ## Types of Load Balancing
 
 - SDN — Load balancing using [SDN (software-defined networking)](https://avinetworks.com/glossary/sdn-load-balancing/) separates the control plane from the data plane for application delivery.
-- This allows the control of multiple load balancing. It also helps the network to function like the virtualized versions of compute and storage.
-- With the centralized control, networking policies and parameters can be programmed directly for more responsive and efficient application services.
-- This is how networks can become more agile.
-
+	- This allows the control of multiple load balancing. It also helps the network to function like the virtualized versions of compute and storage.
+	- With the centralized control, networking policies and parameters can be programmed directly for more responsive and efficient application services.
+	- This is how networks can become more agile.
 - UDP — A UDP load balancer utilizes User Datagram Protocol (UDP).
-
-- [UDP load balancing](https://avinetworks.com/glossary/udp-load-balancer/#:~:text=A%20UDP%20load%20balancer%20is,the%20internet%20protocol%20(IP).) is often used for live broadcasts and online games when speed is important and there is little need for error correction.
-- UDP has low latency because it does not provide time-consuming health checks.
-
+	- [UDP load balancing](https://avinetworks.com/glossary/udp-load-balancer/#:~:text=A%20UDP%20load%20balancer%20is,the%20internet%20protocol%20(IP).) is often used for live broadcasts and online games when speed is important and there is little need for error correction.
+	- UDP has low latency because it does not provide time-consuming health checks.
 - TCP — A TCP load balancer uses transmission control protocol (TCP).
-
-- [TCP load balancing](https://avinetworks.com/glossary/tcp-load-balancing/) provides a reliable and error-checked stream of packets to IP addresses, which can otherwise easily be lost or corrupted.
-
+	- [TCP load balancing](https://avinetworks.com/glossary/tcp-load-balancing/) provides a reliable and error-checked stream of packets to IP addresses, which can otherwise easily be lost or corrupted.
 - SLB— Server Load Balancing (SLB) provides network services and content delivery using a series of load balancing algorithms.
-
-- It prioritizes responses to the specific requests from clients over the network.
-- [Server load balancing](https://avinetworks.com/glossary/server-load-balancer/) distributes client traffic to servers to ensure consistent, high-performance application delivery.
-
+	- It prioritizes responses to the specific requests from clients over the network.
+	- [Server load balancing](https://avinetworks.com/glossary/server-load-balancer/) distributes client traffic to servers to ensure consistent, high-performance application delivery.
 - Virtual
-
-- Virtual load balancing aims to mimic software-driven infrastructure through virtualization.
-- It runs the software of a physical load balancing appliance on a virtual machine.
-- [Virtual load balancers](https://avinetworks.com/glossary/virtual-load-balancer/), however, do not avoid the architectural challenges of traditional hardware appliances which include limited scalability and automation, and lack of central management.
-
+	- Virtual load balancing aims to mimic software-driven infrastructure through virtualization.
+	- It runs the software of a physical load balancing appliance on a virtual machine.
+	- [Virtual load balancers](https://avinetworks.com/glossary/virtual-load-balancer/), however, do not avoid the architectural challenges of traditional hardware appliances which include limited scalability and automation, and lack of central management.
 - Elastic
-
-- [Elastic Load Balancing](https://avinetworks.com/glossary/elastic-load-balancer/) scales traffic to an application as demand changes over time.
-- It uses system health checks to learn the status of application pool members (application servers) and routes traffic appropriately to available servers, manages fail-over to high availability targets, or automatically spins-up additional capacity.
-
+	- [Elastic Load Balancing](https://avinetworks.com/glossary/elastic-load-balancer/) scales traffic to an application as demand changes over time.
+	- It uses system health checks to learn the status of application pool members (application servers) and routes traffic appropriately to available servers, manages fail-over to high availability targets, or automatically spins-up additional capacity.
 - Geographic
-
-- Geographic load balancing redistributes application traffic across data centers in different locations for maximum efficiency and security.
-- While local load balancing happens within a single data center, [geographic load balancing](https://avinetworks.com/glossary/geographic-load-balancing/) uses multiple data centers in many locations.
-
+	- Geographic load balancing redistributes application traffic across data centers in different locations for maximum efficiency and security.
+	- While local load balancing happens within a single data center, [geographic load balancing](https://avinetworks.com/glossary/geographic-load-balancing/) uses multiple data centers in many locations.
 - Multi-site
-
-- Multi-site load balancing, also known as global server load balancing (GSLB), distributes traffic across servers located in multiple sites or locations around the world.
-- The servers can be on-premises or hosted in a public or private cloud.
-- [Multi-site load balancing](https://avinetworks.com/glossary/multi-site-load-balancing/) is important for quick disaster recovery and business continuity after a disaster in one location renders a server inoperable.
-
+	- Multi-site load balancing, also known as global server load balancing (GSLB), distributes traffic across servers located in multiple sites or locations around the world.
+	- The servers can be on-premises or hosted in a public or private cloud.
+	- [Multi-site load balancing](https://avinetworks.com/glossary/multi-site-load-balancing/) is important for quick disaster recovery and business continuity after a disaster in one location renders a server inoperable.
 - Load Balancer as a Service (LBaaS)
-
-- Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
-- Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
+	- Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
+	- Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzk4NDkwOF19
+eyJoaXN0b3J5IjpbLTM5MTAwODQ0MF19
 -->
