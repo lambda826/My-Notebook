@@ -47,8 +47,9 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 ### Option 2: Grid
 ![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)
 1. Divide the whole map into grids.
-2. Group locations into grids
-3. Based on given `Location` and `Radius`, find all neighbouring grids
+2. Group locations into grids.
+3. Based on given `Location` and `Radius`, find all neighbouring grids.
+4. Aggregate all `Locations` in those neighbouring grids.
 
 ## Approach 1: QuadTree
 
@@ -73,7 +74,7 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ2OTAyNDksMTMyMjQ0ODUzMSwzMz
+eyJoaXN0b3J5IjpbLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMz
 g1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5
 MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl
 19
