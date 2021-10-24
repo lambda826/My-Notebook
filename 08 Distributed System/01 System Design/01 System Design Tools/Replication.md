@@ -23,12 +23,13 @@ Checksum
 - While moving data between components, it is possible that the data fetched from a node may arrive corrupted.
 - Calculate a checksum and store it with data.
 	- To calculate a checksum, a cryptographic hash function like **MD5**, **SHA-1**, **SHA-256**, or **SHA-512** is used.
-		- The hash function takes the input data and produces a string (containing letters and numbers) of fixed length; this string is called the checksum.
+		- The hash function takes the input data and produces a string (containing letters and numbers) of fixed length.
+			- This string is called the `checksum`.
 	- When a system is storing some data, it computes a checksum of the data and stores the checksum with the data.
 		- When a client retrieves data, it verifies that the data it received from the server matches the checksum stored.
 		- If not, then the client can opt to retrieve that data from another replica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjA3OTI0NCwtMzY4NDY2OTY5LC0xMT
+eyJoaXN0b3J5IjpbMTc3MDU1NjI0MiwtMzY4NDY2OTY5LC0xMT
 Q3NjgzMzg0LC0xNTUyOTI1MjgxXX0=
 -->
