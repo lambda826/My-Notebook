@@ -7,7 +7,7 @@
  - The master gets all the updates, which then ripple through to the slaves.
  - Each slave outputs a message stating that it has received the update successfully, thus allowing the sending of subsequent updates.
 
-![Failover Primary Server Secondary Server —Data Replication—y Active Data Mirrored Data ](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/replication/replication.png)
+![Failover Primary Server Secondary Server —Data Replication—y Active Data Mirrored Data ](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/01%20System%20Design%20Tools/resource/replication/Replication.png)
 
 ## Read Replica
 
@@ -29,6 +29,6 @@ Checksum
 		- If not, then the client can opt to retrieve that data from another replica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTMwNzM3MiwtMzY4NDY2OTY5LC0xMT
-Q3NjgzMzg0LC0xNTUyOTI1MjgxXX0=
+eyJoaXN0b3J5IjpbNjU2MzAwODc2LC0zNjg0NjY5NjksLTExND
+c2ODMzODQsLTE1NTI5MjUyODFdfQ==
 -->
