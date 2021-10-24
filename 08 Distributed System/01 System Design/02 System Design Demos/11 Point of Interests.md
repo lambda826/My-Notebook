@@ -41,7 +41,7 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 3. Low performance: O(N)
 
 ### Option 2: Grid
-
+![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)
 
 
 D
@@ -69,7 +69,8 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MD
-QxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2
-MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbMzc4MDE0NzczLDEzMjI0NDg1MzEsMzM4NT
+kwNTM4LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2
+LC0xMDU5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ
+==
 -->
