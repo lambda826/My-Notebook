@@ -39,26 +39,20 @@ Refers to directing a client’s requests to the same backend web or application
 
 
 # Load Balancing and SSL
-
--   Secure Sockets Layer (SSL) is the standard security technology for establishing an encrypted link between a web server and a browser.
--   SSL traffic is often decrypted at the load balancer.
-
--   When a load balancer decrypts traffic before passing the request on, it is called SSL termination.
--   The load balancer saves the web servers from having to expend the extra CPU cycles required for decryption.
--   This improves application performance.
-
--   However, SSL termination comes with a security concern.
-
--   The traffic between the load balancers and the web servers is no longer encrypted.
--   This can expose the application to possible attack.
--   However, the risk is lessened when the load balancer is within the same data center as the web servers.
-
--   Another solution is the SSL pass-through.
-
--   The load balancer merely passes an encrypted request to the web server.
--   Then the web server does the decryption.
--   This uses more CPU power on the web server.
--   But organizations that require extra security may find the extra overhead worthwhile.
+- Secure Sockets Layer (SSL) is the standard security technology for establishing an encrypted link between a web server and a browser.
+- SSL traffic is often decrypted at the load balancer.
+- When a load balancer decrypts traffic before passing the request on, it is called SSL termination.
+- The load balancer saves the web servers from having to expend the extra CPU cycles required for decryption.
+- This improves application performance.
+- However, SSL termination comes with a security concern.
+- The traffic between the load balancers and the web servers is no longer encrypted.
+- This can expose the application to possible attack.
+- However, the risk is lessened when the load balancer is within the same data center as the web servers.
+- Another solution is the SSL pass-through.
+- The load balancer merely passes an encrypted request to the web server.
+- Then the web server does the decryption.
+- This uses more CPU power on the web server.
+- But organizations that require extra security may find the extra overhead worthwhile.
 
 Software Load Balancers vs. Hardware Load Balancers
 
@@ -124,5 +118,5 @@ Types of Load Balancing
 -   Load Balancer as a Service (LBaaS) uses advances in load balancing technology to meet the agility and application traffic demands of organizations implementing private cloud infrastructure.
 -   Using an as-a-service model, [LBaaS](https://avinetworks.com/glossary/load-balancing-as-a-service/) creates a simple model for application teams to spin up load balancers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc3OTU5Nl19
+eyJoaXN0b3J5IjpbLTEzNDM0MTMwNDRdfQ==
 -->
