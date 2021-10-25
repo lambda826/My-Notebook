@@ -56,10 +56,9 @@ Problem
 - Location is not uniformly distributed among grids.
 - This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
 
-### Option 3: QuadTree
-
-
-
+### Option 3: QuadTree (Dynamic Size Grids)
+![QuadTree](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/QuadTree.png)
+ - Assume we don’t want to have more than 500 places in a grid so that we can have a faster searching. So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
 
 
 
@@ -77,8 +76,8 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTA1MDQ2OSw2NDkwMDg1MTgsMjEyMj
-E1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4NTMxLDMzODU5MDUz
-OCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDkyNiwtMT
-A1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbLTE3Mjk4MDU2MjcsNjQ5MDA4NTE4LDIxMj
+IxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1
+MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLT
+EwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
