@@ -1,10 +1,13 @@
 # Reference
---- 
+[# Designing Ticketmaster - Grokking the System Design Interview ](https://www.educative.io/courses/grokking-the-system-design-interview/YQyq6mBKq4n)
+
+# Designing Ticketmaster
 # Introduction
 An online booking system provides the customers the ability to see the availability of the products and purchase.
 
 ## Key Words
----
+
+
 # Requirements
 ## **Functional**
 ## **Non-Functional**
@@ -21,5 +24,6 @@ An online booking system provides the customers the ability to see the availabil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjI2OTM5NywtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbLTUxNjExNzMwNSwtNTg2MjY5Mzk3LC0yMD
+Y3MDgwOTc4XX0=
 -->
