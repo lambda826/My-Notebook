@@ -1,7 +1,7 @@
 # Reference
 --- 
 # Introduction
-An online booking system provides its customers the ability to purchase theatre seats online.
+An online booking system provides the customers the ability to see the availability of the products and purchase.
 
 ## Key Words
 ---
@@ -21,5 +21,5 @@ An online booking system provides its customers the ability to purchase theatre 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDMwMzc1NCwtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbLTU4NjI2OTM5NywtMjA2NzA4MDk3OF19
 -->
