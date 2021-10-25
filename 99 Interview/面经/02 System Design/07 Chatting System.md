@@ -1,6 +1,10 @@
 # Reference
 [Designing Facebook Messenger - Grokking the System Design Interview ](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 [8 Most Popular Instant Messaging & Chat Protocols](https://www.cometchat.com/blog/popular-chat-and-instant-messaging-protocols)
+[Web Sockets vs. XMPP: Which Is Better For Chat Application?](https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327)
+[XMPP vs. WebSockets: Comparing Instant Messaging Protocols
+](https://www.cometchat.com/blog/xmpp-vs-websockets-instant-messaging-protocol-comparison)
+
 
 # Introduction
 ## Key Words
@@ -47,6 +51,7 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MDM2OTY2LC01NTMxNDI4NTEsMTA1Nz
-A2NzAwMywtMTU5Njc1ODg4NywtNzA3NDAxMTc1XX0=
+eyJoaXN0b3J5IjpbODgyNTQ0Mjg2LDgxODAzNjk2NiwtNTUzMT
+QyODUxLDEwNTcwNjcwMDMsLTE1OTY3NTg4ODcsLTcwNzQwMTE3
+NV19
 -->
