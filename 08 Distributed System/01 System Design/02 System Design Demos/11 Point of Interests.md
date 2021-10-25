@@ -70,7 +70,7 @@ Problem
 	- Break it down into four nodes and distribute locations among them.
 	- Keep repeating this process with each child node until there are no nodes left with more than 500 locations.
 - **How will we find the grid for a given location?**
-- 
+	- Start with the root node and search downward to find our required node/grid.
 
 ### Option 4: Hilbert Curve
 
@@ -86,8 +86,9 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMj
-IxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1
-MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLT
-EwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTIwNTA3ODYzMjIsLTE1NTYxMDk1MjIsNj
+Q5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0
+ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLD
+EyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0
+ODIyMzUwMl19
 -->
