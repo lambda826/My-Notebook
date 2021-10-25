@@ -1,5 +1,5 @@
 # Reference
-[Grokking the System Design Interview - Designing a URL Shortening service like TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+[Designing a URL Shortening service like TinyURL - Grokking the System Design Interview ](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 
 # Introduction
 URL shortening is used to create shorter aliases for long URLs.
@@ -51,5 +51,5 @@ How to improve performance?
 * Apply hash based sharding on Tiny URL.
 * Add cache for retrieving original URL given Tiny URL.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDc3MTg2NF19
+eyJoaXN0b3J5IjpbLTIwODQyNzY3MjgsMTU5NDc3MTg2NF19
 -->
