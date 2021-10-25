@@ -58,6 +58,15 @@ Problem
 
 ### Option 3: QuadTree
 
+
+
+
+
+
+### Option 4: Hilbert Curve
+
+
+# Follow-up
 How can we paritition database?
  - Sharding based on regions
 	 - Hotspot issue (read).
@@ -65,17 +74,10 @@ How can we paritition database?
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
 
-
-
-## Approach 2: Hilbert Curve
-
-
-# Follow-up
-
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzQwODE3Myw2NDkwMDg1MTgsMjEyMj
+eyJoaXN0b3J5IjpbLTY2MTA1MDQ2OSw2NDkwMDg1MTgsMjEyMj
 E1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4NTMxLDMzODU5MDUz
 OCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDkyNiwtMT
 A1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
