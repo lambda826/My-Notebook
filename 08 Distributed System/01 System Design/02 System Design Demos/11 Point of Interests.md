@@ -71,6 +71,11 @@ Problem
 	- Keep repeating this process with each child node until there are no nodes left with more than 500 locations.
 - **How will we find the grid for a given location?**
 	- Start with the root node and search downward to find our required node/grid.
+	- At each step, see if the current node we are visiting has children.
+		- If it has, we will move to the child node that contains our desired location and repeat this process.
+		- If the node does not have any children, then that is our desired node.
+- **How will we find neighboring grids of a given grid?**
+- 
 
 ### Option 4: Hilbert Curve
 
@@ -86,9 +91,9 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA3ODYzMjIsLTE1NTYxMDk1MjIsNj
-Q5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0
-ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLD
-EyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0
-ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTQwODU5NjY2MywtMTU1NjEwOTUyMiw2ND
+kwMDg1MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4
+NTMxLDMzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMT
+I5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4
+MjIzNTAyXX0=
 -->
