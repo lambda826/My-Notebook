@@ -8,7 +8,9 @@
 
 # Requirements
 ## Functional
-
+- Support one-on-one conversations between users.
+- Track online status.
+- Persist chat history
 
 ## Non-Functional
 
@@ -28,5 +30,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjM5MDUxNCwtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbLTIxMTE3OTk2MjUsLTIwNjcwODA5NzhdfQ
+==
 -->
