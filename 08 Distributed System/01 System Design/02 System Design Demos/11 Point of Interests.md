@@ -30,7 +30,9 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 ---
 # Estimation
 ## **Traffic**
-- Assume 500QPS
+- Assume 10M DAU 
+- Assume 10 Queries per user per day.
+- QPS = (10M * 10) / (24 * 60 * 60)
 
 ## **Storage**
 -
@@ -95,9 +97,9 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NDA4MDYyLDU5MzY4ODc3LC0xNTU2MT
-A5NTIyLDY0OTAwODUxOCwyMTIyMTU2MDI4LC0xMzc4MzgzNTI5
-LDEzMjI0NDg1MzEsMzM4NTkwNTM4LDE2NjA0MTMzNDUsLTk0Nz
-g4MjU3MSwxMjkxMDk0OTI2LC0xMDU5NTY1NjA3LC0xNTIzNTc2
-OTkzLC04NDgyMjM1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ5MDI3ODQsNTkzNjg4NzcsLTE1NT
+YxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1
+MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOT
+Q3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1
+NzY5OTMsLTg0ODIyMzUwMl19
 -->
