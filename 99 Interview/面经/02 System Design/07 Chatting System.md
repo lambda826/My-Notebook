@@ -28,7 +28,7 @@
 
 # High Level Design
 In a chat system, clients can be either mobile applications or web applications.
-Clients do not communicate directly with each other. Instead, each client connects to a chat service.
+- Clients do not communicate directly with each other. Instead, each client connects to a chat service.
 
 ![Chat Service](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service.png)
 The chat service must support the following functions:
@@ -47,6 +47,6 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQwMDU2NTYsLTE1OTY3NTg4ODcsLT
-cwNzQwMTE3NV19
+eyJoaXN0b3J5IjpbMTA1NzA2NzAwMywtMTU5Njc1ODg4NywtNz
+A3NDAxMTc1XX0=
 -->
