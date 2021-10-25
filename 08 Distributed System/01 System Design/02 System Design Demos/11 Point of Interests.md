@@ -64,6 +64,9 @@ Problem
 ![QuadTree](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/QuadTree.png)
 - Assume we don’t want to have more than 500 places in a grid so that we can have a faster searching.
 	- So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
+
+For this approach, we make this aggregation service to 
+
 - **What data-structure can hold this information?**
 	- A tree in which each node has four children.
 		- All the leaf nodes will represent the grids that cannot be further broken down.
@@ -97,9 +100,9 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU3MzAwNTcsNTkzNjg4NzcsLTE1NT
-YxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1
-MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOT
-Q3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1
-NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTE0Mjg1NjYyOTgsLTE3MTU3MzAwNTcsNT
+kzNjg4NzcsLTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYw
+MjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMT
+Y2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1
+NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
