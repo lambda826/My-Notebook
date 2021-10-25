@@ -5,6 +5,9 @@
 [Github System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 [System Interview](https://systeminterview.com/)
+
+
+[8 Most Popular Instant Messaging & Chat Protocols](https://www.cometchat.com/blog/popular-chat-and-instant-messaging-protocols)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTQ1MDQzNV19
+eyJoaXN0b3J5IjpbLTMzNzk0MDA4NCwtNTYxNDUwNDM1XX0=
 -->
