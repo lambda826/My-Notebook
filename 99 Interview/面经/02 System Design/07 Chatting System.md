@@ -4,7 +4,7 @@
 
 # Introduction
 ## Key Words
-
+R
 
 # Requirements
 ## Functional
@@ -47,6 +47,6 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzE0Mjg1MSwxMDU3MDY3MDAzLC0xNT
-k2NzU4ODg3LC03MDc0MDExNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzEyMDkwODUsLTU1MzE0Mjg1MSwxMD
+U3MDY3MDAzLC0xNTk2NzU4ODg3LC03MDc0MDExNzVdfQ==
 -->
