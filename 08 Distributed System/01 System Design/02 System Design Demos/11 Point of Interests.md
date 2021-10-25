@@ -52,14 +52,11 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 4. Aggregate all `Locations` in those grids.
 5. We can cache the grids (`GridId`, `List<Location>`) in memory.
 
-## Approach 1: QuadTree
+Problem
+- Location is not uniformly distributed among grids.
+- This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
 
-
-How can we query `NearBy` efficiently?
- - Option 1: use a QuadTree
-
-How can we do a search and present the results on the map?
- - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
+### Option 3: QuadTree
 
 How can we paritition database?
  - Sharding based on regions
@@ -68,19 +65,18 @@ How can we paritition database?
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
 
-Problem
-- Location is not uniformly distributed among grids.
-- This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
+
 
 ## Approach 2: Hilbert Curve
 
 
 # Follow-up
 
-
+How can we do a search and present the results on the map?
+ - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3MDk5LDY0OTAwODUxOCwyMTIyMT
-U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
-LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
-U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
+eyJoaXN0b3J5IjpbMjA0MzQwODE3Myw2NDkwMDg1MTgsMjEyMj
+E1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4NTMxLDMzODU5MDUz
+OCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5NDkyNiwtMT
+A1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNTAyXX0=
 -->
