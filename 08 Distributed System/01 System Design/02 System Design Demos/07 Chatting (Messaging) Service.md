@@ -11,6 +11,7 @@
 - Support one-on-one conversations between users.
 - Track online status.
 - Persist chat history
+- Notification
 
 ## Non-Functional
 - Low latency
@@ -32,5 +33,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjc3NjM4NSwtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbLTExMjczNDM4ODcsLTIwNjcwODA5NzhdfQ
+==
 -->
