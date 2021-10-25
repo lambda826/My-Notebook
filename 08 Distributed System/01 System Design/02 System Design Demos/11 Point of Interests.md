@@ -2,7 +2,7 @@
 
 [# Designing Yelp or Nearby Friends - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/B8rpM8E16LQ)
 
-![Q]
+[Quadtree - wikipedia](https://en.wikipedia.org/wiki/Quadtree)
 
 # Introduction
 Proximity servers are used to discover nearby attractions like places, events, etc.
@@ -12,7 +12,7 @@ https://www.youtube.com/c/TheInterviewSage/videos
 
 ## Key Words
 Read Heavy
-QuadTree
+Quadtree
 Geohash
 Hilbert curve
 
@@ -80,7 +80,7 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1OTYyOTMxLDY0OTAwODUxOCwyMTIyMT
+eyJoaXN0b3J5IjpbNjAzODA1MTYzLDY0OTAwODUxOCwyMTIyMT
 U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
 LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
 U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
