@@ -11,7 +11,10 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 # Requirements
 ## **Functional**
-- Drivers regular
+- Drivers regularly notify the server to update their current location and availability to pick passangers
+- Passengers can see all nearyby available drivers
+- Passengers can request a ride, and nearby drivers are notified.
+- O
 
 ## **Non-Functional**
 ---
@@ -27,5 +30,5 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY5NDk4NjNdfQ==
+eyJoaXN0b3J5IjpbMTg5Njg2OTgyMV19
 -->
