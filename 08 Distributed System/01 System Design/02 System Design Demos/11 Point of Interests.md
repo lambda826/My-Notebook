@@ -88,24 +88,25 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 			- We can keep a pointer in each node to access its parent, and since each parent node has pointers to all of its children, we can easily find siblings of a node.
 			- We can keep expanding our search for neighboring grids by going up through the parent pointers.
 
-### Option 4: Hilbert Curve
-
-
-# Follow-up
-How can we paritition database?
+**Data Partitioning**
  - Sharding based on regions
 	 - Hotspot issue (read).
 	 - Uniform distribution (write). 
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
 
+### Option 4: Hilbert Curve
+
+
+
+# Follow-up
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjg2OTM0MSwtMTgzODI3MDM1OCwtMT
-cxNTczMDA1Nyw1OTM2ODg3NywtMTU1NjEwOTUyMiw2NDkwMDg1
-MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4NTMxLD
-MzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5
-NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4MjIzNT
-AyXX0=
+eyJoaXN0b3J5IjpbOTczNDIyOTYsMTIyNjg2OTM0MSwtMTgzOD
+I3MDM1OCwtMTcxNTczMDA1Nyw1OTM2ODg3NywtMTU1NjEwOTUy
+Miw2NDkwMDg1MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMz
+IyNDQ4NTMxLDMzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1
+NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5My
+wtODQ4MjIzNTAyXX0=
 -->
