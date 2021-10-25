@@ -35,7 +35,8 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 - QPS = (10M * 10) / (24 * 60 * 60) = 1K
 
 ## **Storage**
--
+- Assume 500M locations
+- Each location entity requires 1
 
 # High Level Design
 ## Architecture
@@ -100,9 +101,10 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgyNzAzNTgsLTE3MTU3MzAwNTcsNT
-kzNjg4NzcsLTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYw
-MjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMT
-Y2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1
-NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTEwMzUwODcxODcsLTE4MzgyNzAzNTgsLT
+E3MTU3MzAwNTcsNTkzNjg4NzcsLTE1NTYxMDk1MjIsNjQ5MDA4
+NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMS
+wzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEw
+OTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMz
+UwMl19
 -->
