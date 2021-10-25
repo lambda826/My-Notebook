@@ -17,7 +17,9 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 - Once the offer is accepted or assigned, drivers and passengers can share their current location with each other
 
 ## **Non-Functional**
----
+Highly available
+
+
 # Estimation
 ## **Traffic**
 ## **Storage**
@@ -30,5 +32,5 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjIwMDcyNV19
+eyJoaXN0b3J5IjpbLTExMzgxNTI5NzhdfQ==
 -->
