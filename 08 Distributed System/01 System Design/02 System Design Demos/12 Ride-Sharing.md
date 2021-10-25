@@ -6,7 +6,7 @@
 Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 ## Key Words
-
+Write Heavy
 
 
 # Requirements
@@ -32,5 +32,5 @@ Low latency
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3Mzg3NTEyXX0=
+eyJoaXN0b3J5IjpbNTQ1NDgwMTE2LDI5NzM4NzUxMl19
 -->
