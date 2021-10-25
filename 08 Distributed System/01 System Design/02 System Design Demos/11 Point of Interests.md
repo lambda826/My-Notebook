@@ -65,6 +65,12 @@ Problem
 - **What data-structure can hold this information?**
 	- A tree in which each node has four children.
 		- All the leaf nodes will represent the grids that cannot be further broken down.
+- **How will we build a QuadTree?**
+	- Start with one node that will represent the whole world in one grid.
+	- Break it down into four nodes and distribute locations among them.
+	- Keep repeating this process with each child node until there are no nodes left with more than 500 locations.
+- **How will we find the grid for a given location?**
+- 
 
 ### Option 4: Hilbert Curve
 
@@ -80,8 +86,8 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzODA1MTYzLDY0OTAwODUxOCwyMTIyMT
-U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
-LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
-U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMj
+IxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1
+MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLT
+EwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
