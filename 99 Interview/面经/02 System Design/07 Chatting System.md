@@ -4,7 +4,7 @@
 
 # Introduction
 ## Key Words
-R
+1 : 1 Read-Write Ratio
 
 # Requirements
 ## Functional
@@ -47,6 +47,6 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEyMDkwODUsLTU1MzE0Mjg1MSwxMD
-U3MDY3MDAzLC0xNTk2NzU4ODg3LC03MDc0MDExNzVdfQ==
+eyJoaXN0b3J5IjpbODE4MDM2OTY2LC01NTMxNDI4NTEsMTA1Nz
+A2NzAwMywtMTU5Njc1ODg4NywtNzA3NDAxMTc1XX0=
 -->
