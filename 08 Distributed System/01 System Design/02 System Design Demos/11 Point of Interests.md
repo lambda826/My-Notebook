@@ -92,7 +92,7 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 	 - Hotspot issue (read).
 	 - Uniform distribution (write). 
  - Sharding based on `LocationID`
-	 - Have to query all db instance and aggregate the results
+	 - Have to query all db instance and aggregate the results.
 
 ### Option 4: Hilbert Curve
 
@@ -102,10 +102,10 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MjMyODA5LDk3MzQyMjk2LDEyMjY4Nj
-kzNDEsLTE4MzgyNzAzNTgsLTE3MTU3MzAwNTcsNTkzNjg4Nzcs
-LTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNz
-gzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0
-NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLT
-E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbMTU2NTUxNjgxNSw5NzM0MjI5NiwxMjI2OD
+Y5MzQxLC0xODM4MjcwMzU4LC0xNzE1NzMwMDU3LDU5MzY4ODc3
+LC0xNTU2MTA5NTIyLDY0OTAwODUxOCwyMTIyMTU2MDI4LC0xMz
+c4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4LDE2NjA0MTMz
+NDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMDU5NTY1NjA3LC
+0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
