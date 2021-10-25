@@ -27,6 +27,14 @@
 
 
 # High Level Design
+In a chat system, clients can be either mobile applications or web applications.
+Clients do not communicate directly with each other. Instead, each client connects to a chat service.
+The chat service must support the following functions:
+- Receive messages from other clients.
+- Find the right recipients for each message and relay the message to the recipients.
+- If a recipient is not online, hold the messages for that recipient on the server until she is online.
+
+
 
 
 [Draw IO source]()
@@ -37,5 +45,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzQwMTE3NV19
+eyJoaXN0b3J5IjpbLTE1OTY3NTg4ODcsLTcwNzQwMTE3NV19
 -->
