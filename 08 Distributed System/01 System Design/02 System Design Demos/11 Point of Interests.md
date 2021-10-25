@@ -40,10 +40,6 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 - Total 500M * 1MB = 500 TB (without replica)
 
 # High Level Design
-## Architecture
-![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
-[Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
-
 ## Algorithm Model: How to Find NearBy?
 ### Option 1: SQL Solution
 1. We store  `Latitude (X)` / `Longitute (Y)` for each entity 
@@ -63,6 +59,9 @@ Problem
 - This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
 
 ### Option 3: QuadTree (Dynamic Size Grids)
+![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
+[Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
+
 ![QuadTree](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/QuadTree.png)
 - Assume we don’t want to have more than 500 places in a grid so that we can have a faster searching.
 	- So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
@@ -103,10 +102,10 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNDIyOTYsMTIyNjg2OTM0MSwtMTgzOD
-I3MDM1OCwtMTcxNTczMDA1Nyw1OTM2ODg3NywtMTU1NjEwOTUy
-Miw2NDkwMDg1MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMz
-IyNDQ4NTMxLDMzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1
-NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5My
-wtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbMjI2MjMyODA5LDk3MzQyMjk2LDEyMjY4Nj
+kzNDEsLTE4MzgyNzAzNTgsLTE3MTU3MzAwNTcsNTkzNjg4Nzcs
+LTE1NTYxMDk1MjIsNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNz
+gzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0
+NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLT
+E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
