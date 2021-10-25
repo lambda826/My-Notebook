@@ -68,6 +68,10 @@ How can we paritition database?
  - Sharding based on `LocationID`
 	 - Have to query all db instance and aggregate the results
 
+Problem
+- Location is not uniformly distributed among grids.
+- This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
+
 ## Approach 2: Hilbert Curve
 
 
@@ -75,8 +79,8 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNz
-gzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0
-NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLT
-E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbLTEwMTc3MDk5LDY0OTAwODUxOCwyMTIyMT
+U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
+LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
+U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
