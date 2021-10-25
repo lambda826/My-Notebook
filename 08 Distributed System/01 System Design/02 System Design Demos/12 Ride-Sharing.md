@@ -1,13 +1,18 @@
 # Reference
 [# Designing Uber backend - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/YQVkjp548NM)
 
-# Introduction
 
+# Introduction
+Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 ## Key Words
----
+
+
+
 # Requirements
 ## **Functional**
+- Drivers regular
+
 ## **Non-Functional**
 ---
 # Estimation
@@ -22,5 +27,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzODA3MzUzXX0=
+eyJoaXN0b3J5IjpbLTEyMjY5NDk4NjNdfQ==
 -->
