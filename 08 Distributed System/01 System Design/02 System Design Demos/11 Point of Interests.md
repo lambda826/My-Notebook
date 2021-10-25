@@ -58,9 +58,11 @@ Problem
 
 ### Option 3: QuadTree (Dynamic Size Grids)
 ![QuadTree](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/QuadTree.png)
- - Assume we don’t want to have more than 500 places in a grid so that we can have a faster searching. So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
-
-
+- Assume we don’t want to have more than 500 places in a grid so that we can have a faster searching.
+	- So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
+- **What data-structure can hold this information?**
+	- A tree in which each node has four children.
+	- all the leaf nodes will represent the grids that cannot be further broken down.
 
 ### Option 4: Hilbert Curve
 
@@ -76,8 +78,8 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk4MDU2MjcsNjQ5MDA4NTE4LDIxMj
-IxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1
-MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLT
-EwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIyMzUwMl19
+eyJoaXN0b3J5IjpbNDMxNDM3NjY5LDY0OTAwODUxOCwyMTIyMT
+U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
+LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
+U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
 -->
