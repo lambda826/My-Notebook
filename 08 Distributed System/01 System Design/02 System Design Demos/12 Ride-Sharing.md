@@ -18,7 +18,7 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 ## **Non-Functional**
 Highly available
-
+Low latency
 
 # Estimation
 ## **Traffic**
@@ -32,5 +32,5 @@ Highly available
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgxNTI5NzhdfQ==
+eyJoaXN0b3J5IjpbMjk3Mzg3NTEyXX0=
 -->
