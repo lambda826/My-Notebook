@@ -8,7 +8,8 @@
 
 # Requirements
 ## Functional
-- Support one-on-one chat between users.
+- Support one-on-one chat.
+- Support group chat.
 - Track online status.
 - Persist chat history
 - Notification
@@ -21,6 +22,7 @@
 
 # Estimation
 ## Traffic
+- Assume 500M DAU
 ## Storage
 
 
@@ -35,5 +37,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTMzMDQyN119
+eyJoaXN0b3J5IjpbLTcwNzQwMTE3NV19
 -->
