@@ -8,7 +8,7 @@
 
 # Requirements
 ## Functional
-- Support one-on-one conversations between users.
+- Support one-on-one chat between users.
 - Track online status.
 - Persist chat history
 - Notification
@@ -35,5 +35,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTYwMzQxXX0=
+eyJoaXN0b3J5IjpbMTMzNTMzMDQyN119
 -->
