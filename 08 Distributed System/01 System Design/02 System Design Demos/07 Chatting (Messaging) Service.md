@@ -13,7 +13,8 @@
 - Persist chat history
 
 ## Non-Functional
-
+- Low latency
+- High availability
 
 
 # Estimation
@@ -30,6 +31,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE3OTk2MjUsLTIwNjcwODA5NzhdfQ
-==
+eyJoaXN0b3J5IjpbNDM0Mjk2MjkwLC0yMDY3MDgwOTc4XX0=
 -->
