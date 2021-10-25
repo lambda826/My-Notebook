@@ -1,6 +1,6 @@
 # Reference
-[# Designing Facebook Messenger - Grokking the System Design Interview ](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
-
+[Designing Facebook Messenger - Grokking the System Design Interview ](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+[8 Most Popular Instant Messaging & Chat Protocols](https://www.cometchat.com/blog/popular-chat-and-instant-messaging-protocols)
 
 # Introduction
 ## Key Words
@@ -47,6 +47,6 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzA2NzAwMywtMTU5Njc1ODg4NywtNz
-A3NDAxMTc1XX0=
+eyJoaXN0b3J5IjpbLTU1MzE0Mjg1MSwxMDU3MDY3MDAzLC0xNT
+k2NzU4ODg3LC03MDc0MDExNzVdfQ==
 -->
