@@ -5,12 +5,12 @@
 ## Key Words
 ---
 # Requirements
-## **Functional**
-## **Non-Functional**
+## Functional
+## Non-Functional
 ---
 # Estimation
-## **Traffic**
-## **Storage**
+## Traffic
+## Storage
 ---
 # High Level Design
 [Draw IO source]()
@@ -20,5 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTQyMTQzNiwtMjA2NzA4MDk3OF19
+eyJoaXN0b3J5IjpbLTE4NjM3NjkyMjAsLTIwNjcwODA5NzhdfQ
+==
 -->
