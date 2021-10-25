@@ -2,6 +2,8 @@
 
 [# Designing Yelp or Nearby Friends - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/B8rpM8E16LQ)
 
+![Q]
+
 # Introduction
 Proximity servers are used to discover nearby attractions like places, events, etc.
 https://www.youtube.com/watch?v=hykjbT5Z0oE&list=PLCfguwhZH5DnHl2yldI781yR6FAgky0Np&index=1
@@ -62,7 +64,7 @@ Problem
 	- So, whenever a grid reaches this limit, we break it down into four grids of equal size and distribute places among them.
 - **What data-structure can hold this information?**
 	- A tree in which each node has four children.
-	- all the leaf nodes will represent the grids that cannot be further broken down.
+		- All the leaf nodes will represent the grids that cannot be further broken down.
 
 ### Option 4: Hilbert Curve
 
@@ -78,7 +80,7 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNDM3NjY5LDY0OTAwODUxOCwyMTIyMT
+eyJoaXN0b3J5IjpbMjg1OTYyOTMxLDY0OTAwODUxOCwyMTIyMT
 U2MDI4LC0xMzc4MzgzNTI5LDEzMjI0NDg1MzEsMzM4NTkwNTM4
 LDE2NjA0MTMzNDUsLTk0Nzg4MjU3MSwxMjkxMDk0OTI2LC0xMD
 U5NTY1NjA3LC0xNTIzNTc2OTkzLC04NDgyMjM1MDJdfQ==
