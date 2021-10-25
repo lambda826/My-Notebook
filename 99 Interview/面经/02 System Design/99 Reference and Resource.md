@@ -8,10 +8,10 @@
 
 
 [8 Most Popular Instant Messaging & Chat Protocols](https://www.cometchat.com/blog/popular-chat-and-instant-messaging-protocols)
-
 [Web Sockets vs. XMPP: Which Is Better For Chat Application?](https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327)
 [XMPP vs. WebSockets: Comparing Instant Messaging Protocols
 ](https://www.cometchat.com/blog/xmpp-vs-websockets-instant-messaging-protocol-comparison)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTgyMzg3NiwtNTYxNDUwNDM1XX0=
+eyJoaXN0b3J5IjpbMjA4NTc4ODI0NiwxNTA1ODIzODc2LC01Nj
+E0NTA0MzVdfQ==
 -->
