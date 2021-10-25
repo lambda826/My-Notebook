@@ -75,7 +75,11 @@ Problem
 		- If it has, we will move to the child node that contains our desired location and repeat this process.
 		- If the node does not have any children, then that is our desired node.
 - **How will we find neighboring grids of a given grid?**
-- 
+	- Since only leaf nodes contain a list of locations, we can connect all leaf nodes with a doubly linked list.
+		- This way we can iterate forward or backward among the neighboring leaf nodes to find out our desired locations.
+		- Another approach for finding adjacent grids would be through parent nodes.
+			- We can keep a pointer in each node to access its parent, and since each parent node has pointers to all of its children, we can easily find siblings of a node.
+			- We can keep expanding our search for neighboring grids by going up through the parent pointers.
 
 ### Option 4: Hilbert Curve
 
@@ -91,9 +95,9 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODU5NjY2MywtMTU1NjEwOTUyMiw2ND
-kwMDg1MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4
-NTMxLDMzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMT
-I5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5MywtODQ4
-MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbNTkzNjg4NzcsLTE1NTYxMDk1MjIsNjQ5MD
+A4NTE4LDIxMjIxNTYwMjgsLTEzNzgzODM1MjksMTMyMjQ0ODUz
+MSwzMzg1OTA1MzgsMTY2MDQxMzM0NSwtOTQ3ODgyNTcxLDEyOT
+EwOTQ5MjYsLTEwNTk1NjU2MDcsLTE1MjM1NzY5OTMsLTg0ODIy
+MzUwMl19
 -->
