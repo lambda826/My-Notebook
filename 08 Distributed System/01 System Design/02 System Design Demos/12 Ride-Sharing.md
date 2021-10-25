@@ -13,7 +13,7 @@ Write Heavy
 ## **Functional**
 - Drivers regularly notify the server to update their current location and availability to pick passangers
 - Passengers can see all nearyby available drivers
-- Passengers can request a ride, and nearby drivers are notified.
+- Passengers can request a ride, and nearby drivers are dispatched.
 - Once the offer is accepted or assigned, drivers and passengers can share their current location with each other
 
 ## **Non-Functional**
@@ -32,5 +32,6 @@ Low latency
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NDgwMTE2LDI5NzM4NzUxMl19
+eyJoaXN0b3J5IjpbMjA1NjQ4MDMwOSw1NDU0ODAxMTYsMjk3Mz
+g3NTEyXX0=
 -->
