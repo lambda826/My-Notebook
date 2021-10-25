@@ -29,9 +29,10 @@ Low latency
 
 
 # Follow-up
-
+How should we rank the nearby drivers and dispatch a driver to the passenger?
+- Ranking based on ETA. The drivers will be pushed into a service to calculate the ETA to the passenger, and the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjQ4MDMwOSw1NDU0ODAxMTYsMjk3Mz
-g3NTEyXX0=
+eyJoaXN0b3J5IjpbMjA4Njc0MTA3MywyMDU2NDgwMzA5LDU0NT
+Q4MDExNiwyOTczODc1MTJdfQ==
 -->
