@@ -37,7 +37,7 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 ## **Storage**
 - Assume 500M locations
 - Each location entity requires 1MB store
-- Total 500M * 1MB = 500 TB
+- Total 500M * 1MB = 500 TB (without replica)
 
 # High Level Design
 ## Architecture
@@ -102,7 +102,7 @@ How can we paritition database?
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTM4NDgxOCwtMTgzODI3MDM1OCwtMT
+eyJoaXN0b3J5IjpbMTIyNjg2OTM0MSwtMTgzODI3MDM1OCwtMT
 cxNTczMDA1Nyw1OTM2ODg3NywtMTU1NjEwOTUyMiw2NDkwMDg1
 MTgsMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMzIyNDQ4NTMxLD
 MzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1NzEsMTI5MTA5
