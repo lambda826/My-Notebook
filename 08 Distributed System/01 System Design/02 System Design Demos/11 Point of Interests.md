@@ -50,6 +50,7 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 2. Group locations into grids.
 3. Based on given `Location` and `Radius`, find all neighbouring grids.
 4. Aggregate all `Locations` in those grids.
+5. We can cache the grids (`GridId`, `List<Location>`) in memory.
 
 ## Approach 1: QuadTree
 
@@ -74,8 +75,8 @@ How can we paritition database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjE1NjAyOCwtMTM3ODM4MzUyOSwxMz
-IyNDQ4NTMxLDMzODU5MDUzOCwxNjYwNDEzMzQ1LC05NDc4ODI1
-NzEsMTI5MTA5NDkyNiwtMTA1OTU2NTYwNywtMTUyMzU3Njk5My
-wtODQ4MjIzNTAyXX0=
+eyJoaXN0b3J5IjpbNjQ5MDA4NTE4LDIxMjIxNTYwMjgsLTEzNz
+gzODM1MjksMTMyMjQ0ODUzMSwzMzg1OTA1MzgsMTY2MDQxMzM0
+NSwtOTQ3ODgyNTcxLDEyOTEwOTQ5MjYsLTEwNTk1NjU2MDcsLT
+E1MjM1NzY5OTMsLTg0ODIyMzUwMl19
 -->
