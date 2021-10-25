@@ -14,6 +14,7 @@
 
 ## Non-Functional
 - Low latency
+- High consistency
 - High availability
 
 
@@ -31,5 +32,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0Mjk2MjkwLC0yMDY3MDgwOTc4XX0=
+eyJoaXN0b3J5IjpbMTYzMjc3NjM4NSwtMjA2NzA4MDk3OF19
 -->
