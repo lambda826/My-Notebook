@@ -14,7 +14,7 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 - Drivers regularly notify the server to update their current location and availability to pick passangers
 - Passengers can see all nearyby available drivers
 - Passengers can request a ride, and nearby drivers are notified.
-- O
+- Once the offer is accepted or assigned, drivers and passengers can share their current location with each other
 
 ## **Non-Functional**
 ---
@@ -30,5 +30,5 @@ Applications: Uber, Lyft, Didi, Via, Sidecar, etc.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njg2OTgyMV19
+eyJoaXN0b3J5IjpbLTU5NjIwMDcyNV19
 -->
