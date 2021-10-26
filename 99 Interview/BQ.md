@@ -55,7 +55,11 @@
 	- Self-aware
 	- Improve from learnings
 - **Keys**
+	- End your story on a positive note by elaborating:
+		- Actions you executed
+		- Trade-offs you made to remedy the failure
+	- Explain the larni	
 - **Tips & Tricks**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjMwMzI3NiwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbNTkwNjU2MzIzLC04MTA3ODk2MzBdfQ==
 -->
