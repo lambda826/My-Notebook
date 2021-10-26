@@ -21,7 +21,6 @@
 	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 	- Express how the outcome was beneficial to the company and not just to you and your coworker.
 	- Explain the learnings you took from the conflict.
-- **Tips & Tricks**
 	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
     - Spend more time talking about the resolution.
 
@@ -42,7 +41,6 @@
 		- Led cross-functional projects.
 		- Conducted knowledge transfers for cowerkers.
 	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
-- **Tips & Tricks**
 	- Use a word "lead" to help describe the actions you took.
 	- Be careful not to fall into the trap of underselling your role.
 
@@ -54,7 +52,6 @@
 	- Take ownership
 	- Self-aware
 	- Improve from learnings
-- **Keys**
 	- End your story on a positive note by elaborating:
 		- Actions you executed
 		- Trade-offs you made to remedy the failure
@@ -78,7 +75,6 @@
 	- What action steps did you take to resolve the problem?
 	- Was this project a success? If not, then focus on the major lessons learned.
 	- What was the impact of the project on the company?
-- **Tips & Tricks**
 	- Have a compelling story highlighting your key achievements and your end-to-end involvement
 	- Provide a technical overview of the problem and solution.
 		- Do not deep-dive into a particular technology/tool used for this projects unless asked as a follow-up question
@@ -100,10 +96,10 @@
 	- Describe the situation, the events athat occurred, and explain how the priorities shifted.
 	- Explain how you evaluated and decided your plan of action.
 	- Show how you communicated about this shift with all the stakeholderes.
-	- If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager
+	- If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager.
 	- Express how the outcome and the impact were beneficial to the company or team.
-- **Tips & Tricks**
-- Show that you proactively com
+	- Show that you proactively communicated about the shift to all the stakeholders.
+	- Focus on the business impact that you had on your company or team.
 
 # Tell me about yourself? 
 
@@ -111,5 +107,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ2MDQ1ODMsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbLTQ4Mzg4NDkwMywtODEwNzg5NjMwXX0=
 -->
