@@ -23,6 +23,12 @@
 	- Be concise, honest, and engaging.
 
 
+# Why do you want to leave your current role? 
+- **Evaluation**
+	- Whether you are running away from something or running towards something.
+	- You are someone w
+
+
 # Tell me about a time you disaggreed with someone
 - **Evaluation**
 	- Work in difficult situations.
@@ -40,6 +46,7 @@
 	- Explain the learnings you took from the conflict.
 	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
     - Spend more time talking about the resolution.
+
 
 
 # Tell me about a time you showed leadership
@@ -119,14 +126,11 @@
 	- Focus on the business impact that you had on your company or team.
 
 
-# Tell me about yourself? 
 
-
-# Why do you want to leave your current role? 
 
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDUyNTk1NCwtNDgzODg0OTAzLC04MT
-A3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTcyODg5NDc1LC00ODM4ODQ5MDMsLTgxMD
+c4OTYzMF19
 -->
