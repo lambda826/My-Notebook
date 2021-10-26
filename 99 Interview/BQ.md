@@ -5,6 +5,7 @@
 - Briefly talk about the learnings you took from the situation. 
 - Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
+
 # Tell me about yourself
 - **Evaluation**
 	- Current & past experiences
@@ -19,7 +20,8 @@
 	- Explain how your past experiences helped you to reach where your are
 	- Show you are passionate about your current work
 	- Pull your most proficient skills from the job description
-	- Be con
+	- Be concise, honest, and engaging.
+
 
 # Tell me about a time you disaggreed with someone
 - **Evaluation**
@@ -116,12 +118,15 @@
 	- Show that you proactively communicated about the shift to all the stakeholders.
 	- Focus on the business impact that you had on your company or team.
 
+
 # Tell me about yourself? 
+
 
 # Why do you want to leave your current role? 
 
+
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEwMzk4NzgsLTQ4Mzg4NDkwMywtOD
-EwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbMTM2MDUyNTk1NCwtNDgzODg0OTAzLC04MT
+A3ODk2MzBdfQ==
 -->
