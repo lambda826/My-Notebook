@@ -1,4 +1,7 @@
 # Overall
+- Pick a compelling and honest story that can articulate an actual situation.
+- Do not sugarcoat your answer with irrelevant details.
+	- Briefly talk about the learnings you took from this situation. 
 
 
 # Tell me about a time you disaggreed with someone
@@ -20,7 +23,7 @@
 	- Always remain calm and professional. Refrain from being negative and avoid blaming others.
 	- Use a compelling story that is honest and believable.
 	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
-	- Do not sugarcoat your answer with irrelevant details. Spend more time talking about the resolution.
+ Spend more time talking about the resolution.
 	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 # Tell me about a time you showed leadership
@@ -39,11 +42,10 @@
 		- Led cross-functional projects.
 		- Conducted knowledge transfers for cowerkers.
 	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
-	- Briefly talk about the learnings you took from this situation. 
 - **Tips & Tricks**
 	- Use a word "lead" to help describe the actions you took.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIyNzA0MzUsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbLTcyOTgwOTMzNSwtODEwNzg5NjMwXX0=
 -->
