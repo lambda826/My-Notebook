@@ -5,6 +5,14 @@
 - Briefly talk about the learnings you took from the situation. 
 - Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
+# Tell me about yourself
+- Current & past experiences
+- Your core strengths
+- Your personality
+- Ability to respond to unstructured question
+- How well you can connect with your colleagues
+- Communicate your ideas clearly and effe
+
 
 # Tell me about a time you disaggreed with someone
 - **Evaluation**
@@ -107,5 +115,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzg4NDkwMywtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbMjA0NDA2Njg5MiwtNDgzODg0OTAzLC04MT
+A3ODk2MzBdfQ==
 -->
