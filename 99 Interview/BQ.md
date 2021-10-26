@@ -15,8 +15,11 @@
 	- Communicate your ideas clearly and effectively
 - **Keys**
 	- Discuss the significant accomplishments that you have contributed to your current role
-	- Share the positive impact of your contribute
-
+	- Share the positive impact of your contributions on your colleagues and company
+	- Explain how your past experiences helped you to reach where your are
+	- Show you are passionate about your current work
+	- Pull your most proficient skills from the job description
+	- Be con
 
 # Tell me about a time you disaggreed with someone
 - **Evaluation**
@@ -119,6 +122,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEyMzU3NTgsLTQ4Mzg4NDkwMywtOD
+eyJoaXN0b3J5IjpbLTE4NDEwMzk4NzgsLTQ4Mzg4NDkwMywtOD
 EwNzg5NjMwXX0=
 -->
