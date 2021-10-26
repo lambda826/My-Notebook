@@ -63,6 +63,15 @@
 
 
 # Tell me about the project that you are most proud of 
+- **Evaluation**
+	- Your core skills
+	- Your work ethics
+	- How you define professional success
+	- Project's impact & outcome
+	- How you get things done
+- **Keys**
+	- What was the problem that you were trying to solve?
+	- 
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 
@@ -72,5 +81,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTgwMjY3OCwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTMxNjA2MDg2MCwtODEwNzg5NjMwXX0=
 -->
