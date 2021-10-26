@@ -95,6 +95,10 @@
 	- Work under challenging situations
 	- Distinguish between urgent & important
 	- Reliable, get work done
+- **Keys**
+	- Pick a story you had to manage conflicting priorities and shifting deadlines.
+	- Describe the situation, the events athat occurred, and explain how the priorities shifted.
+	- Explain how you evaluated an
 
 # Tell me about yourself? 
 
@@ -102,5 +106,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjUwODEyNCwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbODYzNjk2MDE0LC04MTA3ODk2MzBdfQ==
 -->
