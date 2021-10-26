@@ -75,7 +75,10 @@
 		- Explain: scale, complexity, and your level of ownerhsip
 	- How did you gather the resources required to investigate?
 		- Reading a market research paper
-		- Collaborating with prod
+		- Collaborating with product manager
+	- What action steps did you take to resolve the problem?
+	- Was this project a success? If not, then focus on the major lessons learned.
+	- What was the impact of the project on the company?
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 
@@ -85,5 +88,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODk4OTUyMywtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTE4MDYyNzc1NjEsLTgxMDc4OTYzMF19
 -->
