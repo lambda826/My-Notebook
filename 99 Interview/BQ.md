@@ -1,26 +1,26 @@
 # Overall
-- Always remain calm and professional. Refrain from being negative and avoid blaming others.
-- Pick a compelling and honest story that can articulate an actual situation.
-- Do not sugarcoat your answer with irrelevant details.
-- Briefly talk about the learnings you took from the situation. 
-- Show that you proactively communicated the issue and its resolution to all the stakeholders.
+-  Always remain calm and professional. Refrain from being negative and avoid blaming others.
+-  Pick a compelling and honest story that can articulate an actual situation.
+-  Do not sugarcoat your answer with irrelevant details.
+-  Briefly talk about the learnings you took from the situation. 
+-  Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 
 # Tell me about yourself
-- **Evaluation**
-	- Current & past experiences
-	- Your core strengths
-	- Your personality
-	- Ability to respond to unstructured question
-	- How well you can connect with your colleagues
-	- Communicate your ideas clearly and effectively
-- **Keys**
-	- Discuss the significant accomplishments that you have contributed to your current role
-	- Share the positive impact of your contributions on your colleagues and company
-	- Explain how your past experiences helped you to reach where your are
-	- Show you are passionate about your current work
-	- Pull your most proficient skills from the job description
-	- Be concise, honest, and engaging.
+-  **Evaluation**
+	-  Current & past experiences
+	-  Your core strengths
+	-  Your personality
+	-  Ability to respond to unstructured question
+	-  How well you can connect with your colleagues
+	-  Communicate your ideas clearly and effectively
+-  **Keys**
+	-  Discuss the significant accomplishments that you have contributed to your current role
+	-  Share the positive impact of your contributions on your colleagues and company
+	-  Explain how your past experiences helped you to reach where your are
+	-  Show you are passionate about your current work
+	-  Pull your most proficient skills from the job description
+	-  Be concise, honest, and engaging.
 
 
 # Why do you want to leave your current role? 
@@ -28,9 +28,12 @@
 	- Whether you are running away from something or running towards something.
 	- You are someone who looks forward with a positive attitude.
 - **Keys**
-	- Pick a couple of positive achievements in your current role.
-		- Articulate how you can use these experiences to achieve your goals in the new role.
-	-	Emphasize the things y
+	-  Pick a couple of positive achievements in your current role.
+		-  Articulate how you can use these experiences to achieve your goals in the new role.
+	-	Emphasize the things you are looking forward to in your new job
+		-	Working on a larger-scale problems
+		-	Better opportunities for impact
+	-	Focus on what you have to look forward to and not what you are leaving behind
 
 
 # Tell me about a time you disaggreed with someone
@@ -135,6 +138,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA3NDI2NzgsLTQ4Mzg4NDkwMywtOD
+eyJoaXN0b3J5IjpbLTE0MTY4MDU0NTMsLTQ4Mzg4NDkwMywtOD
 EwNzg5NjMwXX0=
 -->
