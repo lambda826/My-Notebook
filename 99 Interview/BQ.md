@@ -17,7 +17,9 @@ Tell me about a time you disaggreed with someone
 - Tips & Tricks
 	- Always remain calm and professional. Refrain from being negative and avoid blaming others.
 	- Use a compelling story that is honest and believable.
-	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led
+	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
+	- Do not sugarcoat your answer with irrelevant details. Spend more time talking about the resolution.
+	- Show that you proactively communicated the issue and its resolution to all the stakeholders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzgyODI4NiwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbNzU2ODc4MDYxLC04MTA3ODk2MzBdfQ==
 -->
