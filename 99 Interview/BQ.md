@@ -7,7 +7,6 @@
 	- Flexible to compromise.
 	- Open to learning.
 - **Keys**
-	- Pick a compelling and honest story that can articulate an actual conflict.
 	- Describe the situation, the events that occurred, explain what led to the conflict.
 	- Present both sides of the argumetns in a positive way.
 	- Explain the exact steps you took to address the conflict.
@@ -30,18 +29,18 @@
 	- Take initiative to lead
 	- Lead with good judgment
 - **Keys**
-	- Describe an actual and honest story where you have demonstrated leadership
 	- Brifly outline the situation to provide enough details.
-	- Explain your tasks, responsibilities, and deliverables
+	- Explain your tasks, responsibilities, and deliverables.
 	- Explain how you executed and led the initiative.
-		- Led a group of coworkers
-		- Led cross-functional projects
-		- Conducted knowledge transfers for cowerkers
-	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders
+		- Led a group of coworkers.
+		- Led cross-functional projects.
+		- Conducted knowledge transfers for cowerkers.
+	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
 	- Briefly talk about the learnings you took from this situation. 
 - **Tips & Tricks**
+	- Use a compelling story the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NTgzODc4LC04MTA3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDY3OTM5MiwtODEwNzg5NjMwXX0=
 -->
