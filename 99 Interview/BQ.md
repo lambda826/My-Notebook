@@ -30,12 +30,17 @@
 	- Take initiative to lead
 	- Lead with good judgment
 - **Keys**
-	- Describe an actual and honest story where you have demons
+	- Describe an actual and honest story where you have demonstrated leadership
 	- Brifly outline the situation to provide enough details.
-	-  
+	- Explain your tasks, responsibilities, and deliverables
+	- Explain how you executed and led the initiative.
+		- Led a group of coworkers
+		- Led cross-functional projects
+		- Conducted knowledge transfers for cowerkers
+	- Express how the outcome was beneficial not just to the company, but also was an exec 
 - **Tips & Tricks**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODg3NDMwNywtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbMTkxMDM5ODIxMiwtODEwNzg5NjMwXX0=
 -->
