@@ -1,4 +1,5 @@
 # Overall
+- Always remain calm and professional. Refrain from being negative and avoid blaming others.
 - Pick a compelling and honest story that can articulate an actual situation.
 - Do not sugarcoat your answer with irrelevant details.
 - Briefly talk about the learnings you took from the situation. 
@@ -21,7 +22,6 @@
 	- Express how the outcome was beneficial to the company and not just to you and your coworker.
 	- Explain the learnings you took from the conflict.
 - **Tips & Tricks**
-	- Always remain calm and professional. Refrain from being negative and avoid blaming others.
 	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
     - Spend more time talking about the resolution.
 
@@ -102,7 +102,8 @@
 	- Show how you communicated about this shift with all the stakeholderes.
 	- If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager
 	- Express how the outcome and the impact were beneficial to the company or team.
-	- 
+- **Tips & Tricks**
+- Show that you proactively com
 
 # Tell me about yourself? 
 
@@ -110,5 +111,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMDQ5NjMyLC04MTA3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTQ2MDQ1ODMsLTgxMDc4OTYzMF19
 -->
