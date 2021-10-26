@@ -98,7 +98,11 @@
 - **Keys**
 	- Pick a story you had to manage conflicting priorities and shifting deadlines.
 	- Describe the situation, the events athat occurred, and explain how the priorities shifted.
-	- Explain how you evaluated an
+	- Explain how you evaluated and decided your plan of action.
+	- Show how you communicated about this shift with all the stakeholderes.
+	- If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager
+	- Express how the outcome and the impact were beneficial to the company or team.
+	- 
 
 # Tell me about yourself? 
 
@@ -106,5 +110,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjk2MDE0LC04MTA3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbODczMDQ5NjMyLC04MTA3ODk2MzBdfQ==
 -->
