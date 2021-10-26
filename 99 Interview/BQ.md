@@ -25,7 +25,7 @@
     - Spend more time talking about the resolution.
 	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
-# Tell me about a time you showed leadership
+# Tell Me About A Yime you showed leadership
 - **Evaluation**
 	- Take responsibility
 	- Have confidence
@@ -45,7 +45,7 @@
 	- Use a word "lead" to help describe the actions you took.
 	- Be careful not to fall into the trap of underselling your role.
 
-
+# Tell Me About A Time You Failed or Made A Mistake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA1ODk0NTYsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbMTM1ODY3MTk3MywtODEwNzg5NjMwXX0=
 -->
