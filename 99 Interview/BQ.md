@@ -2,6 +2,7 @@
 - Pick a compelling and honest story that can articulate an actual situation.
 - Do not sugarcoat your answer with irrelevant details.
 - Briefly talk about the learnings you took from the situation. 
+- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 
 # Tell Me About A Time You Disaggreed With Someone
@@ -59,6 +60,17 @@
 		- Trade-offs you made to remedy the failure
 	- Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 - **Tips & Tricks**
+
+
+# Tell me about the project that you are most proud of 
+
+# Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+
+# Tell me about yourself? 
+
+# Why do you want to leave your current role? 
+
+# Do you have any questions for me? [29:39](https://www.youtube.com/watch?v=ObFGBUF-TuQ&t=1779s) Premium Merch, Buy Me A Coffee, Patreon [31:04](https://www.youtube.com/watch?v=ObFGBUF-TuQ&t=1864s) Special Thanks & Shout-out to our champion members on Buy Me A Coffee & Patreon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDc5NTQ5NywtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTEyNTM4NzcwNDAsLTgxMDc4OTYzMF19
 -->
