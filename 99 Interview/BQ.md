@@ -144,8 +144,13 @@
 	-  How and when are the performance reviews conducted?
 		-  How are the performance bonuses and RSU refreshers decided?
 	-	How long have you been with the company?
-	-	What is your favorite 
+	-	What is your favorite part about working here?
+	-	What are the current projects that you are working on?
+	-	What are the biggest challenges that you have solved?
+	-	What gets you most excited about the company's future?
+	-	Do not reponse with a "No" to this question.
+	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjkxMDI3NSwtNDgzODg0OTAzLC04MT
-A3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDgzMDA3NDgsLTQ4Mzg4NDkwMywtOD
+EwNzg5NjMwXX0=
 -->
