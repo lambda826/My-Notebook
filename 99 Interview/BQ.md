@@ -115,14 +115,14 @@
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 -  **Evaluation**
-	-  Manage time
-	-  Good judgement & understanding
-	-  Communication skills
-	-  Shift gears when needed
-	-  Handling deadlings
-	-  Work under challenging situations
-	-  Distinguish between urgent & important
-	-  Reliable, get work done
+	-  Manage time.
+	-  Good judgement & understanding.
+	-  Communication skills.
+	-  Shift gears when needed.
+	-  Handling deadlings.
+	-  Work under challenging situations.
+	-  Distinguish between urgent & important.
+	-  Reliable, get work done.
 -  **Keys**
 	-  Pick a story you had to manage conflicting priorities and shifting deadlines.
 	-  Describe the situation, the events athat occurred, and explain how the priorities shifted.
@@ -136,10 +136,16 @@
 
 # Do you have any questions for me?
 -  **Evaluation**
-	-	Gauge your passion & interest in the current role you are applying for
-	-	Gives you an opportunity to end the interview on a strong node
-	-	Shows that you have done your homework about their company & culture
+	-	Gauge your passion & interest in the current role you are applying for.
+	-	Gives you an opportunity to end the interview on a strong node.
+	-	Shows that you have done your homework about their company & culture.
+-  **Keys**
+	-  What is the new-hire onboarding process?
+	-  How and when are the performance reviews conducted?
+		-  How are the performance bonuses and RSU refreshers decided?
+	-	How long have you been with the company?
+	-	What is your favorite 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODc2Mjc1LC00ODM4ODQ5MDMsLTgxMD
-c4OTYzMF19
+eyJoaXN0b3J5IjpbMTYxNjkxMDI3NSwtNDgzODg0OTAzLC04MT
+A3ODk2MzBdfQ==
 -->
