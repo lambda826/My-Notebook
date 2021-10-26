@@ -15,7 +15,9 @@ Tell me about a time you disaggreed with someone
 	- Express how the outcome was beneficial to the company and not just to you and your coworker
 	- Explain the learnings you took from the conflict
 - Tips & Tricks
-	- Always remain calm and profes  
+	- Always remain calm and professional. Refrain from being negative and avoid blaming others.
+	- Use a compelling story that is honest and believable.
+	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTAxNTYxMiwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbMTMwNzgyODI4NiwtODEwNzg5NjMwXX0=
 -->
