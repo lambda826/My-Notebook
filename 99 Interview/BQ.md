@@ -60,6 +60,9 @@
 		- Trade-offs you made to remedy the failure
 	- Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 - **Tips & Tricks**
+	- Have a compelling story highlighting your key achievements and your end-to-end involvement
+	- Provide a technical overview of the problem and solution.
+		- Do not deep-dive into a particular technology/tool used for this projects unless asked as a fol
 
 
 # Tell me about the project that you are most proud of 
@@ -88,5 +91,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYyNzc1NjEsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbMTE3NTUxMjk2MSwtODEwNzg5NjMwXX0=
 -->
