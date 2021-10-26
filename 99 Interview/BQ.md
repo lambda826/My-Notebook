@@ -26,7 +26,11 @@
 # Why do you want to leave your current role? 
 - **Evaluation**
 	- Whether you are running away from something or running towards something.
-	- You are someone w
+	- You are someone who looks forward with a positive attitude.
+- **Keys**
+	- Pick a couple of positive achievements in your current role.
+		- Articulate how you can use these experiences to achieve your goals in the new role.
+	-	Emphasize the things y
 
 
 # Tell me about a time you disaggreed with someone
@@ -131,6 +135,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODg5NDc1LC00ODM4ODQ5MDMsLTgxMD
-c4OTYzMF19
+eyJoaXN0b3J5IjpbLTE2MDA3NDI2NzgsLTQ4Mzg4NDkwMywtOD
+EwNzg5NjMwXX0=
 -->
