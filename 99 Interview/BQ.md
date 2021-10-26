@@ -59,10 +59,6 @@
 		- Actions you executed
 		- Trade-offs you made to remedy the failure
 	- Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
-- **Tips & Tricks**
-	- Have a compelling story highlighting your key achievements and your end-to-end involvement
-	- Provide a technical overview of the problem and solution.
-		- Do not deep-dive into a particular technology/tool used for this projects unless asked as a fol
 
 
 # Tell me about the project that you are most proud of 
@@ -82,6 +78,12 @@
 	- What action steps did you take to resolve the problem?
 	- Was this project a success? If not, then focus on the major lessons learned.
 	- What was the impact of the project on the company?
+- **Tips & Tricks**
+	- Have a compelling story highlighting your key achievements and your end-to-end involvement
+	- Provide a technical overview of the problem and solution.
+		- Do not deep-dive into a particular technology/tool used for this projects unless asked as a follow-up question
+	- Mention about cross-team collaborations that you did while working on the project.
+
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 
@@ -91,5 +93,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTUxMjk2MSwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTIwMzIzNDI2NDMsLTgxMDc4OTYzMF19
 -->
