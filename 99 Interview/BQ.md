@@ -5,7 +5,7 @@
 - Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 
-# Tell Me About A Time You Disaggreed With Someone
+# Tell me about a time you disaggreed with someone
 - **Evaluation**
 	- Work in difficult situations.
 	- Strong communication skills.
@@ -26,7 +26,7 @@
     - Spend more time talking about the resolution.
 
 
-# Tell Me About A Time You Showed Leadership
+# Tell me about a time you showed leadership
 - **Evaluation**
 	- Take responsibility
 	- Have confidence
@@ -47,7 +47,7 @@
 	- Be careful not to fall into the trap of underselling your role.
 
 
-# Tell Me About A Time You Failed or Made A Mistake
+# Tell me about a time you failed or made a mistake
 - **Evaluation**
 	- Maturity & personal accountability
 	- Handle a setback
@@ -70,7 +70,7 @@
 
 # Why do you want to leave your current role? 
 
-# Do you have any questions for me? [29:39](https://www.youtube.com/watch?v=ObFGBUF-TuQ&t=1779s) Premium Merch, Buy Me A Coffee, Patreon [31:04](https://www.youtube.com/watch?v=ObFGBUF-TuQ&t=1864s) Special Thanks & Shout-out to our champion members on Buy Me A Coffee & Patreon
+# Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4NzcwNDAsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbLTY4NTgwMjY3OCwtODEwNzg5NjMwXX0=
 -->
