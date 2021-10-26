@@ -86,6 +86,15 @@
 
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+- **Evaluation**
+	- Manage time
+	- Good judgement & understanding
+	- Communication skills
+	- Shift gears when needed
+	- Handling deadlings
+	- Work under challenging situations
+	- Distinguish between urgent & important
+	- Reliable, get work done
 
 # Tell me about yourself? 
 
@@ -93,5 +102,5 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzNDI2NDMsLTgxMDc4OTYzMF19
+eyJoaXN0b3J5IjpbLTYwMjUwODEyNCwtODEwNzg5NjMwXX0=
 -->
