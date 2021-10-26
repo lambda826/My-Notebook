@@ -8,18 +8,18 @@
 
 # Tell me about yourself
 -  **Evaluation**
-	-  Current & past experiences
-	-  Your core strengths
-	-  Your personality
-	-  Ability to respond to unstructured question
-	-  How well you can connect with your colleagues
-	-  Communicate your ideas clearly and effectively
+	-  Current & past experiences.
+	-  Your core strengths.
+	-  Your personality.
+	-  Ability to respond to unstructured question.
+	-  How well you can connect with your colleagues.
+	-  Communicate your ideas clearly and effectively.
 -  **Keys**
-	-  Discuss the significant accomplishments that you have contributed to your current role
-	-  Share the positive impact of your contributions on your colleagues and company
-	-  Explain how your past experiences helped you to reach where your are
-	-  Show you are passionate about your current work
-	-  Pull your most proficient skills from the job description
+	-  Discuss the significant accomplishments that you have contributed to your current role.
+	-  Share the positive impact of your contributions on your colleagues and company.
+	-  Explain how your past experiences helped you to reach where your are.
+	-  Show you are passionate about your current work.
+	-  Pull your most proficient skills from the job description.
 	-  Be concise, honest, and engaging.
 
 
@@ -30,29 +30,30 @@
 - **Keys**
 	-  Pick a couple of positive achievements in your current role.
 		-  Articulate how you can use these experiences to achieve your goals in the new role.
-	-	Emphasize the things you are looking forward to in your new job
-		-	Working on a larger-scale problems
-		-	Better opportunities for impact
+	-	Emphasize the things you are looking forward to in your new job.
+		-	Working on a larger-scale problems.
+		-	Better opportunities for impact.
 	-	Focus on what you have to look forward to and not what you are leaving behind
+	-	Familiarize yourself with the company's vision and its core values.
 
 
 # Tell me about a time you disaggreed with someone
-- **Evaluation**
-	- Work in difficult situations.
-	- Strong communication skills.
-	- Empathy & respect for coworkers.
-	- Positive impact.
-	- Flexible to compromise.
-	- Open to learning.
-- **Keys**
-	- Describe the situation, the events that occurred, explain what led to the conflict.
-	- Present both sides of the argumetns in a positive way.
-	- Explain the exact steps you took to address the conflict.
-	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
-	- Express how the outcome was beneficial to the company and not just to you and your coworker.
-	- Explain the learnings you took from the conflict.
-	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
-    - Spend more time talking about the resolution.
+-  **Evaluation**
+	-  Work in difficult situations.
+	-  Strong communication skills.
+	-  Empathy & respect for coworkers.
+	-  Positive impact.
+	-  Flexible to compromise.
+	-  Open to learning.
+-  **Keys**
+	-  Describe the situation, the events that occurred, explain what led to the conflict.
+	-  Present both sides of the argumetns in a positive way.
+	-  Explain the exact steps you took to address the conflict.
+	-  Show that you proactively communicated the issue and its resolution to all the stakeholders.
+	-  Express how the outcome was beneficial to the company and not just to you and your coworker.
+	-  Explain the learnings you took from the conflict.
+	-  Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
+    -  Spend more time talking about the resolution.
 
 
 
@@ -138,6 +139,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY4MDU0NTMsLTQ4Mzg4NDkwMywtOD
+eyJoaXN0b3J5IjpbLTE0MjU2ODU2MDAsLTQ4Mzg4NDkwMywtOD
 EwNzg5NjMwXX0=
 -->
