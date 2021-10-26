@@ -23,7 +23,6 @@
 	- Always remain calm and professional. Refrain from being negative and avoid blaming others.
 	- Calmly explain both sides' point of view. Show how a complete understanding or a compromise led to a better outcome.
     - Spend more time talking about the resolution.
-	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 
 # Tell Me About A Time You Showed Leadership
@@ -58,8 +57,8 @@
 	- End your story on a positive note by elaborating:
 		- Actions you executed
 		- Trade-offs you made to remedy the failure
-	- Explain the larni	
+	- Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 - **Tips & Tricks**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNjU2MzIzLC04MTA3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbMTE1NDc5NTQ5NywtODEwNzg5NjMwXX0=
 -->
