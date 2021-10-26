@@ -58,87 +58,87 @@
 
 
 # Tell me about a time you showed leadership
-- **Evaluation**
-	- Take responsibility
-	- Have confidence
-	- Strong communication skills
-	- Relationship-building skills
-	- Take initiative to lead
-	- Lead with good judgment
-- **Keys**
-	- Brifly outline the situation to provide enough details.
-	- Explain your tasks, responsibilities, and deliverables.
-	- Explain how you executed and led the initiative.
-		- Led a group of coworkers.
-		- Led cross-functional projects.
-		- Conducted knowledge transfers for cowerkers.
-	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
-	- Use a word "lead" to help describe the actions you took.
-	- Be careful not to fall into the trap of underselling your role.
+-  **Evaluation**
+	-  Take responsibility
+	-  Have confidence
+	-  Strong communication skills
+	-  Relationship-building skills
+	-  Take initiative to lead
+	-  Lead with good judgment
+-  **Keys**
+	-  Brifly outline the situation to provide enough details.
+	-  Explain your tasks, responsibilities, and deliverables.
+	-  Explain how you executed and led the initiative.
+		-  Led a group of coworkers.
+		-  Led cross-functional projects.
+		-  Conducted knowledge transfers for cowerkers.
+	-  Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
+	-  Use a word "lead" to help describe the actions you took.
+	-  Be careful not to fall into the trap of underselling your role.
 
 
 # Tell me about a time you failed or made a mistake
-- **Evaluation**
-	- Maturity & personal accountability
-	- Handle a setback
-	- Take ownership
-	- Self-aware
-	- Improve from learnings
-	- End your story on a positive note by elaborating:
-		- Actions you executed
-		- Trade-offs you made to remedy the failure
-	- Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
+-  **Evaluation**
+	-  Maturity & personal accountability
+	-  Handle a setback
+	-  Take ownership
+	-  Self-aware
+	-  Improve from learnings
+	-  End your story on a positive note by elaborating:
+		-  Actions you executed
+		-  Trade-offs you made to remedy the failure
+	-  Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 
 
 # Tell me about the project that you are most proud of 
-- **Evaluation**
-	- Your core skills
-	- Your work ethics
-	- How you define professional success
-	- Project's impact & outcome
-	- How you get things done
-- **Keys**
-	- What was the problem that you were trying to solve?
-	- Why did you consider this problem as important?
-		- Explain: scale, complexity, and your level of ownerhsip
-	- How did you gather the resources required to investigate?
-		- Reading a market research paper
-		- Collaborating with product manager
-	- What action steps did you take to resolve the problem?
-	- Was this project a success? If not, then focus on the major lessons learned.
-	- What was the impact of the project on the company?
-	- Have a compelling story highlighting your key achievements and your end-to-end involvement
-	- Provide a technical overview of the problem and solution.
-		- Do not deep-dive into a particular technology/tool used for this projects unless asked as a follow-up question
-	- Mention about cross-team collaborations that you did while working on the project.
+-  **Evaluation**
+	-  Your core skills
+	-  Your work ethics
+	-  How you define professional success
+	-  Project's impact & outcome
+	-  How you get things done
+-  **Keys**
+	-  What was the problem that you were trying to solve?
+	-  Why did you consider this problem as important?
+		-  Explain: scale, complexity, and your level of ownerhsip
+	-  How did you gather the resources required to investigate?
+		-  Reading a market research paper
+		-  Collaborating with product manager
+	-  What action steps did you take to resolve the problem?
+	-  Was this project a success? If not, then focus on the major lessons learned.
+	-  What was the impact of the project on the company?
+	-  Have a compelling story highlighting your key achievements and your end-to-end involvement
+	-  Provide a technical overview of the problem and solution.
+		-  Do not deep-dive into a particular technology/tool used for this projects unless asked as a follow-up question
+	-  Mention about cross-team collaborations that you did while working on the project.
 
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
-- **Evaluation**
-	- Manage time
-	- Good judgement & understanding
-	- Communication skills
-	- Shift gears when needed
-	- Handling deadlings
-	- Work under challenging situations
-	- Distinguish between urgent & important
-	- Reliable, get work done
-- **Keys**
-	- Pick a story you had to manage conflicting priorities and shifting deadlines.
-	- Describe the situation, the events athat occurred, and explain how the priorities shifted.
-	- Explain how you evaluated and decided your plan of action.
-	- Show how you communicated about this shift with all the stakeholderes.
-	- If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager.
-	- Express how the outcome and the impact were beneficial to the company or team.
-	- Show that you proactively communicated about the shift to all the stakeholders.
-	- Focus on the business impact that you had on your company or team.
-
-
-
+-  **Evaluation**
+	-  Manage time
+	-  Good judgement & understanding
+	-  Communication skills
+	-  Shift gears when needed
+	-  Handling deadlings
+	-  Work under challenging situations
+	-  Distinguish between urgent & important
+	-  Reliable, get work done
+-  **Keys**
+	-  Pick a story you had to manage conflicting priorities and shifting deadlines.
+	-  Describe the situation, the events athat occurred, and explain how the priorities shifted.
+	-  Explain how you evaluated and decided your plan of action.
+	-  Show how you communicated about this shift with all the stakeholderes.
+	-  If your current task cannot be deprioritized, describe how you handled it by asking for additional help or resources from your manager.
+	-  Express how the outcome and the impact were beneficial to the company or team.
+	-  Show that you proactively communicated about the shift to all the stakeholders.
+	-  Focus on the business impact that you had on your company or team.
 
 
 # Do you have any questions for me?
+-  **Evaluation**
+	-	Gauge your passion & interest in the current role you are applying for
+	-	Gives you an opportu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2ODU2MDAsLTQ4Mzg4NDkwMywtOD
-EwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTQzMzc2NzY2NCwtNDgzODg0OTAzLC04MT
+A3ODk2MzBdfQ==
 -->
