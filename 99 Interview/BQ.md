@@ -149,8 +149,11 @@
 	-	What are the biggest challenges that you have solved?
 	-	What gets you most excited about the company's future?
 	-	Do not reponse with a "No" to this question.
-	-	
+	-	Ask questions that show your are engaged and excited about the role your are applying for.
+	-	Do not ask questions related to salary negotiations.
+		-	You can ask questions related to the performance review process.
+	-	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzMDA3NDgsLTQ4Mzg4NDkwMywtOD
-EwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbNDc2MDgxMjA0LC00ODM4ODQ5MDMsLTgxMD
+c4OTYzMF19
 -->
