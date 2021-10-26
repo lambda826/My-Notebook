@@ -6,12 +6,16 @@
 - Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 # Tell me about yourself
-- Current & past experiences
-- Your core strengths
-- Your personality
-- Ability to respond to unstructured question
-- How well you can connect with your colleagues
-- Communicate your ideas clearly and effectively
+- **Evaluation**
+	- Current & past experiences
+	- Your core strengths
+	- Your personality
+	- Ability to respond to unstructured question
+	- How well you can connect with your colleagues
+	- Communicate your ideas clearly and effectively
+- **Keys**
+	- Discuss the significant accomplishments that you have contributed to your current role
+	- Share the positive impact of your contribute
 
 
 # Tell me about a time you disaggreed with someone
@@ -115,6 +119,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjU5MzM5NCwtNDgzODg0OTAzLC04MT
-A3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5NTEyMzU3NTgsLTQ4Mzg4NDkwMywtOD
+EwNzg5NjMwXX0=
 -->
