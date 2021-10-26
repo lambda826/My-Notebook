@@ -37,10 +37,11 @@
 		- Led a group of coworkers
 		- Led cross-functional projects
 		- Conducted knowledge transfers for cowerkers
-	- Express how the outcome was beneficial not just to the company, but also was an exec 
+	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders
+	- Briefly talk about the learnings you took from this situation. 
 - **Tips & Tricks**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDM5ODIxMiwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbOTA4NTgzODc4LC04MTA3ODk2MzBdfQ==
 -->
