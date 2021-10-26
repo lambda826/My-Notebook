@@ -1,3 +1,6 @@
+# Overall
+
+
 # Tell me about a time you disaggreed with someone
 - **Evaluation**
 	- Work in difficult situations.
@@ -38,9 +41,9 @@
 	- Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
 	- Briefly talk about the learnings you took from this situation. 
 - **Tips & Tricks**
-	- Use a compelling story the 
+	- Use a word "lead" to help describe the actions you took.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY3OTM5MiwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTE4OTIyNzA0MzUsLTgxMDc4OTYzMF19
 -->
