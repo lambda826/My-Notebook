@@ -144,6 +144,8 @@ Template
 # Hash
 # Trie
 # Union Find
+# Math
+# Prefix Sum
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzMjUwNV19
+eyJoaXN0b3J5IjpbLTEwMzcyOTM5ODBdfQ==
 -->
