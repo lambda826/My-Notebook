@@ -30,10 +30,12 @@
 	- Take initiative to lead
 	- Lead with good judgment
 - **Keys**
-	- 
+	- Describe an actual and honest story where you have demons
+	- Brifly outline the situation to provide enough details.
+	-  
 - **Tips & Tricks**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDAzODIwMSwtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbMTE0ODg3NDMwNywtODEwNzg5NjMwXX0=
 -->
