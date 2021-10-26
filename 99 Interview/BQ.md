@@ -4,7 +4,7 @@
 - Briefly talk about the learnings you took from the situation. 
 
 
-# Tell me about a time you disaggreed with someone
+# Tell Me About A Time You Disaggreed With Someone
 - **Evaluation**
 	- Work in difficult situations.
 	- Strong communication skills.
@@ -25,7 +25,8 @@
     - Spend more time talking about the resolution.
 	- Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
-# Tell Me About A Yime you showed leadership
+
+# Tell Me About A Time You Showed Leadership
 - **Evaluation**
 	- Take responsibility
 	- Have confidence
@@ -45,7 +46,16 @@
 	- Use a word "lead" to help describe the actions you took.
 	- Be careful not to fall into the trap of underselling your role.
 
+
 # Tell Me About A Time You Failed or Made A Mistake
+- **Evaluation**
+	- Maturity & personal accountability
+	- Handle a setback
+	- Take ownership
+	- Self-aware
+	- Improve from learnings
+- **Keys**
+- **Tips & Tricks**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODY3MTk3MywtODEwNzg5NjMwXX0=
+eyJoaXN0b3J5IjpbLTkwNjMwMzI3NiwtODEwNzg5NjMwXX0=
 -->
