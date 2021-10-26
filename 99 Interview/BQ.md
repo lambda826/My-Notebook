@@ -11,7 +11,7 @@
 - Your personality
 - Ability to respond to unstructured question
 - How well you can connect with your colleagues
-- Communicate your ideas clearly and effe
+- Communicate your ideas clearly and effectively
 
 
 # Tell me about a time you disaggreed with someone
@@ -115,6 +115,6 @@
 
 # Do you have any questions for me?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDA2Njg5MiwtNDgzODg0OTAzLC04MT
+eyJoaXN0b3J5IjpbLTU2NjU5MzM5NCwtNDgzODg0OTAzLC04MT
 A3ODk2MzBdfQ==
 -->
