@@ -137,8 +137,9 @@
 # Do you have any questions for me?
 -  **Evaluation**
 	-	Gauge your passion & interest in the current role you are applying for
-	-	Gives you an opportu
+	-	Gives you an opportunity to end the interview on a strong node
+	-	Shows that you have done your homework about their company & culture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzc2NzY2NCwtNDgzODg0OTAzLC04MT
-A3ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTc4ODc2Mjc1LC00ODM4ODQ5MDMsLTgxMD
+c4OTYzMF19
 -->
