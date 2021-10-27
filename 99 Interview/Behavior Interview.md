@@ -166,6 +166,8 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 
 ## Tell me about a time you showed leadership
+At the very beginning of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study.
+
 ## Tell me about the project that you are most proud of 
 ## Tell me about a time you failed or made a mistake
 ## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
@@ -173,6 +175,6 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjA1MDg5NSwxMTkzNjYyNzkzLDExMT
-cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbNDgwODM5NDE2LDExOTM2NjI3OTMsMTExNz
+A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
