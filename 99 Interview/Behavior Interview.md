@@ -154,7 +154,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-	Ask questions that get the interviewer to talk about their careers.
 
 
-# My Answer
+# My Stories
 ## Tell me about yourself
 I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products. From technical perspective, I am super passionate about cutting technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
@@ -187,6 +187,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM5ODk1NTIsMTE5MzY2Mjc5MywxMT
+eyJoaXN0b3J5IjpbLTE5OTQ4MzY3NjEsMTE5MzY2Mjc5MywxMT
 E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
