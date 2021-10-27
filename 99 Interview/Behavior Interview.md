@@ -56,7 +56,6 @@ Show that you proactively communicated the issue and its resolution to all the s
     -  Spend more time talking about the resolution.
 
 
-
 # Tell me about a time you showed leadership
 -  **Evaluation**
 	-  Take responsibility
@@ -75,19 +74,6 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Express how the outcome was beneficial not just to the company, but also was an excellent experience for all the stakeholders.
 	-  Use a word "lead" to help describe the actions you took.
 	-  Be careful not to fall into the trap of underselling your role.
-
-
-# Tell me about a time you failed or made a mistake
--  **Evaluation**
-	-  Maturity & personal accountability
-	-  Handle a setback
-	-  Take ownership
-	-  Self-aware
-	-  Improve from learnings
-	-  End your story on a positive note by elaborating:
-		-  Actions you executed
-		-  Trade-offs you made to remedy the failure
-	-  Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 
 
 # Tell me about the project that you are most proud of 
@@ -111,6 +97,19 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Provide a technical overview of the problem and solution.
 		-  Do not deep-dive into a particular technology/tool used for this projects unless asked as a follow-up question
 	-  Mention about cross-team collaborations that you did while working on the project.
+
+
+# Tell me about a time you failed or made a mistake
+-  **Evaluation**
+	-  Maturity & personal accountability
+	-  Handle a setback
+	-  Take ownership
+	-  Self-aware
+	-  Improve from learnings
+	-  End your story on a positive note by elaborating:
+		-  Actions you executed
+		-  Trade-offs you made to remedy the failure
+	-  Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 
 
 # Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
@@ -158,7 +157,18 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 
 
-# My Anser
+# My Answer
+## Tell me about yourself
+# Why do you want to leave your current role? 
+# Tell me about a time you disaggreed with someone
+# Tell me about a time you showed leadership
+# Tell me about the project that you are most proud of 
+# Tell me about a time you failed or made a mistake
+# Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+# Do you have any questions for me?
+
+- Worked in China for 4 yrs, full stack. To seek more challenging opportunities, 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NTg0NzQ3LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbLTIxMjYyNDcxMywtMTU4MTk2MDQyOV19
 -->
