@@ -162,7 +162,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
 
 ## Tell me about a time you disaggreed with someone
-At the very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is the promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's faster, more reusea
+At the very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is the promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members of my team stuck to JSP, and this debates
 
 ## Tell me about a time you showed leadership
 ## Tell me about the project that you are most proud of 
@@ -172,6 +172,6 @@ At the very beginning of the Promotion Shopping Page Project, we were discussing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTk1MTQyNywxMTkzNjYyNzkzLDExMT
+eyJoaXN0b3J5IjpbMTY4OTkxMjAwNCwxMTkzNjYyNzkzLDExMT
 cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
