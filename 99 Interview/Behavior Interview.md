@@ -170,12 +170,16 @@ At the very beginning of the requirement stage of the Geo Disaster Emergency pro
 
 
 ## Tell me about the project that you are most proud of 
+Promotion Shopping Page.
+- First, the impact is pretty big. It's a customer facing project, which has a 
+
+
 ## Tell me about a time you failed or made a mistake
 ## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 # Do you have any questions for me?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDY2NzE2NCwxMTkzNjYyNzkzLDExMT
+eyJoaXN0b3J5IjpbMjExNDEyNzQ3MywxMTkzNjYyNzkzLDExMT
 cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
