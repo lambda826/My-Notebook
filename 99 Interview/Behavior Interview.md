@@ -173,7 +173,8 @@ At the very beginning of the requirement stage of the Geo Disaster Emergency pro
 Promotion Shopping Page.
 - First, the impact is pretty big. It's a customer facing project, which has a huge volumn of traffic.
 - Second, I led this project by building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were. I worked with managers, and PE, utilized my previous fullstack experience finalizing the requirements. I led the high level design, broke down to modules and assigned pieces to individuals which they were interested in.
-- I dealt with lots of changing requirements from other teams, speficially more about the integrations asked from other teams, such as `Lightning Deal`, `Prime Promotion`.
+- Third, I dealt with lots of changing requirements from other teams, speficially more about the integrations asked from other teams, such as `Lightning Deal`, `Prime Promotion`. I overcame a lot of techinical difficulties, most were about architectures and performance.
+- I proactively devi
 
 
 ## Tell me about a time you failed or made a mistake
@@ -182,6 +183,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjAxMDE3MSwxMTkzNjYyNzkzLDExMT
+eyJoaXN0b3J5IjpbMTgyNjE3NjI2MywxMTkzNjYyNzkzLDExMT
 cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
