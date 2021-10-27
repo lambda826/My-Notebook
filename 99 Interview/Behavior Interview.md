@@ -171,7 +171,8 @@ At the very beginning of the requirement stage of the Geo Disaster Emergency pro
 
 ## Tell me about the project that you are most proud of 
 Promotion Shopping Page.
-- First, the impact is pretty big. It's a customer facing project, which has a 
+- First, the impact is pretty big. It's a customer facing project, which has a huge volumn of traffic.
+- Second, I led this project by building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were, 
 
 
 ## Tell me about a time you failed or made a mistake
@@ -180,6 +181,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDEyNzQ3MywxMTkzNjYyNzkzLDExMT
-cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbNzE3MDk3Njk1LDExOTM2NjI3OTMsMTExNz
+A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
