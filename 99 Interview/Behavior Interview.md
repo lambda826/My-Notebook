@@ -159,7 +159,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 # My Answer
 ## Tell me about yourself
-I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences that I worked on 2B and 2C systems, including building infrastrure and product
+I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products.
 
 
 ## Why do you want to leave your current role? 
@@ -172,5 +172,6 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbMjA4NzkwODIxMywyMDAwODYxNjY1LC0xNT
+gxOTYwNDI5XX0=
 -->
