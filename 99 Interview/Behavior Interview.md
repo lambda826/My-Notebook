@@ -162,7 +162,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
 
 ## Tell me about a time you disaggreed with someone
-At the very beginning of the Promotion Shopping Page Project, we were discussing what ta
+At the very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is the promotion widget on Amazon retail website which is written in JSP.
 
 ## Tell me about a time you showed leadership
 ## Tell me about the project that you are most proud of 
@@ -172,6 +172,6 @@ At the very beginning of the Promotion Shopping Page Project, we were discussing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MTczMDQxLDExOTM2NjI3OTMsMTExNz
-A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbLTE1MTIxNTg2NTcsMTE5MzY2Mjc5MywxMT
+E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
