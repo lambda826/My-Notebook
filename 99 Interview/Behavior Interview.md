@@ -174,7 +174,7 @@ Promotion Shopping Page.
 - First, the impact is pretty big. It's a customer facing project, which has a huge volumn of traffic.
 - Second, I led this project by building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were. I worked with managers, and PE, utilized my previous fullstack experience finalizing the requirements. I led the high level design, broke down to modules and assigned pieces to individuals which they were interested in.
 - Third, I dealt with lots of changing requirements from other teams, speficially more about the integrations asked from other teams, such as `Lightning Deal`, `Prime Promotion`. I overcame a lot of techinical difficulties, most were about architectures and performance.
-- I proactively devised a runtime debugging system, which was non-intrusive and allowed us to 
+- I proactively devised a runtime debugging system, which was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and proposed to amazon internal framework
 
 
 ## Tell me about a time you failed or made a mistake
@@ -183,6 +183,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI3ODkxMzAsMTE5MzY2Mjc5MywxMT
-E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbLTQ4MzUyMjAyLDExOTM2NjI3OTMsMTExNz
+A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
