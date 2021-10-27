@@ -172,7 +172,7 @@ At the very beginning of the requirement stage of the Geo Disaster Emergency pro
 ## Tell me about the project that you are most proud of 
 Promotion Shopping Page.
 - First, the impact is pretty big. It's a customer facing project, which has a huge volumn of traffic.
-- Second, I led this project by building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were. I worked with managers, and PE, utilized my previous fullstack experience finalizing the requirements. I led the high level design, broke down to modules and assigned pieces to individuals which they were interested in.
+- Second, I led this project building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were. I worked with managers, and PE, utilized my previous fullstack experience finalizing the requirements. I led the high level design, broke down to modules and assigned pieces to individuals which they were interested in.
 - Third, I dealt with lots of changing requirements from other teams, speficially more about the integrations asked from other teams, such as `Lightning Deal`, `Prime Promotion`. I overcame a lot of techinical difficulties, most were about architectures and performance.
 - I proactively devised a runtime debugging system, which was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and proposed to amazon internal framework.
 
@@ -183,6 +183,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMwODYxNjYsMTE5MzY2Mjc5MywxMT
+eyJoaXN0b3J5IjpbLTEzNjYwNTA3MDksMTE5MzY2Mjc5MywxMT
 E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
