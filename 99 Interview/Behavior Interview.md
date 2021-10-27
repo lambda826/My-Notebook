@@ -21,6 +21,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Show you are passionate about your current work.
 	-  Pull your most proficient skills from the job description.
 	-  Be concise, honest, and engaging.
+- Worked in China for 4 yrs, mainly working around J
 
 
 # Why do you want to leave your current role? 
@@ -154,5 +155,5 @@ Show that you proactively communicated the issue and its resolution to all the s
 		-	You can ask questions related to the performance review process.
 	-	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbNDIyODQ3MzkzLC0xNTgxOTYwNDI5XX0=
 -->
