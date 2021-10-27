@@ -161,8 +161,9 @@ Show that you proactively communicated the issue and its resolution to all the s
 ## Tell me about yourself
 I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products. From technical perspective, I am super passionate about cutting technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
+## Why do you want to leave your current role?
+We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for 
 
-## Why do you want to leave your current role? 
 ## Tell me about a time you disaggreed with someone
 ## Tell me about a time you showed leadership
 ## Tell me about the project that you are most proud of 
@@ -172,6 +173,6 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODcyMDU2NCwyMDAwODYxNjY1LC0xNT
+eyJoaXN0b3J5IjpbMTY5NDY2NTQzMCwyMDAwODYxNjY1LC0xNT
 gxOTYwNDI5XX0=
 -->
