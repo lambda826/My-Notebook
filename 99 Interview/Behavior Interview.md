@@ -166,7 +166,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 
 ## Tell me about a time you showed leadership
-At the very beginning of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study.
+At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because
 
 ## Tell me about the project that you are most proud of 
 ## Tell me about a time you failed or made a mistake
@@ -175,6 +175,6 @@ At the very beginning of the Geo Disaster Emergency project, our manager suddenl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODM5NDE2LDExOTM2NjI3OTMsMTExNz
+eyJoaXN0b3J5IjpbMzk0NTEwNDM0LDExOTM2NjI3OTMsMTExNz
 A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
