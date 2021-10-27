@@ -5,8 +5,8 @@ Do not sugarcoat your answer with irrelevant details.
 Briefly talk about the learnings you took from the situation. 
 Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
-
-# Tell me about yourself
+# Sample Questions
+## Tell me about yourself
 -  **Evaluation**
 	-  Current & past experiences.
 	-  Your core strengths.
@@ -23,7 +23,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Be concise, honest, and engaging.
 
 
-# Why do you want to leave your current role? 
+## Why do you want to leave your current role? 
 - **Evaluation**
 	- Whether you are running away from something or running towards something.
 	- You are someone who looks forward with a positive attitude.
@@ -37,7 +37,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-	Familiarize yourself with the company's vision and its core values.
 
 
-# Tell me about a time you disaggreed with someone
+## Tell me about a time you disaggreed with someone
 -  **Evaluation**
 	-  Work in difficult situations.
 	-  Strong communication skills.
@@ -56,7 +56,7 @@ Show that you proactively communicated the issue and its resolution to all the s
     -  Spend more time talking about the resolution.
 
 
-# Tell me about a time you showed leadership
+## Tell me about a time you showed leadership
 -  **Evaluation**
 	-  Take responsibility
 	-  Have confidence
@@ -76,7 +76,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Be careful not to fall into the trap of underselling your role.
 
 
-# Tell me about the project that you are most proud of 
+## Tell me about the project that you are most proud of 
 -  **Evaluation**
 	-  Your core skills
 	-  Your work ethics
@@ -99,7 +99,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Mention about cross-team collaborations that you did while working on the project.
 
 
-# Tell me about a time you failed or made a mistake
+## Tell me about a time you failed or made a mistake
 -  **Evaluation**
 	-  Maturity & personal accountability
 	-  Handle a setback
@@ -112,7 +112,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 
 
-# Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 -  **Evaluation**
 	-  Manage time.
 	-  Good judgement & understanding.
@@ -133,7 +133,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Focus on the business impact that you had on your company or team.
 
 
-# Do you have any questions for me?
+## Do you have any questions for me?
 -  **Evaluation**
 	-	Gauge your passion & interest in the current role you are applying for.
 	-	Gives you an opportunity to end the interview on a strong node.
@@ -154,12 +154,14 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-	Ask questions that get the interviewer to talk about their careers.
 
 
-# My Story
+# My Stories
 ## Tell me about yourself
 I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products. From technical perspective, I am super passionate about cutting technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
+
 ## Why do you want to leave your current role?
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
+
 
 ## Tell me about a time you disaggreed with someone
 At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
@@ -187,6 +189,6 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NDIxMjUzLDExOTM2NjI3OTMsMTExNz
-A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbLTE2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMT
+E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
