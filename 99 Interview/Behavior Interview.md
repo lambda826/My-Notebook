@@ -162,7 +162,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
 
 ## Tell me about a time you disaggreed with someone
-At the very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is the promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members of my team stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but implemeted some pre compile mechanism of JSP in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
+At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but implemeted some pre compile mechanism of JSP in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
 
 
 ## Tell me about a time you showed leadership
@@ -173,6 +173,6 @@ At the very beginning of the Promotion Shopping Page Project, we were discussing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MDY1NDAxLDExOTM2NjI3OTMsMTExNz
-A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbMTA3NzM4NDY3MiwxMTkzNjYyNzkzLDExMT
+cwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
