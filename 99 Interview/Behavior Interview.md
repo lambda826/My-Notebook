@@ -166,7 +166,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 
 ## Tell me about a time you showed leadership
-At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because we wanted to use this project to initiate that business domain. I proposed to take the responsibility to do the research and analysis. So I travelled to Beijing, worked and lived with our customers to 
+At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because we wanted to use this project to initiate that business domain. I proposed to take the responsibility to do the research and analysis. So I travelled to Beijing, worked and lived with our customers for about one month to get familiar with their workflow and domain philosophies. I talked to most of the experts 
 
 ## Tell me about the project that you are most proud of 
 ## Tell me about a time you failed or made a mistake
@@ -175,6 +175,6 @@ At the very beginning of the requirement stage of the Geo Disaster Emergency pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTM1MzIsMTE5MzY2Mjc5MywxMTE3MD
+eyJoaXN0b3J5IjpbNTY3MDcwNTMsMTE5MzY2Mjc5MywxMTE3MD
 YwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
