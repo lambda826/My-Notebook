@@ -162,7 +162,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
 
 ## Tell me about a time you disaggreed with someone
-
+At the very beginning of the Promotion Shopping Page Project, we were discussing what ta
 
 ## Tell me about a time you showed leadership
 ## Tell me about the project that you are most proud of 
@@ -172,6 +172,6 @@ We just completed and launched the Promotion Shopping Page project world wide, a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMD
-A4NjE2NjUsLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbNTI3MTczMDQxLDExOTM2NjI3OTMsMTExNz
+A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
