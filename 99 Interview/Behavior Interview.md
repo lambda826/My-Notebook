@@ -159,16 +159,18 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 # My Answer
 ## Tell me about yourself
-# Why do you want to leave your current role? 
-# Tell me about a time you disaggreed with someone
-# Tell me about a time you showed leadership
-# Tell me about the project that you are most proud of 
-# Tell me about a time you failed or made a mistake
-# Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and went to U.S
+
+
+## Why do you want to leave your current role? 
+## Tell me about a time you disaggreed with someone
+## Tell me about a time you showed leadership
+## Tell me about the project that you are most proud of 
+## Tell me about a time you failed or made a mistake
+## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
 # Do you have any questions for me?
 
-- Worked in China for 4 yrs, full stack. To seek more challenging opportunities, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYyNDcxMywtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbNzk4OTg5ODk5LC0xNTgxOTYwNDI5XX0=
 -->
