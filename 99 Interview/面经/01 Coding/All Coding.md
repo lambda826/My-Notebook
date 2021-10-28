@@ -56,6 +56,10 @@ Template
 
 <a id="Leetcode0088" href="https://leetcode.com/problems/merge-sorted-array/">[Leetcode 0088. Merge Sorted Array]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0088_Merge_Sorted_Array.java">**Solution**</a>
 
+## Counting Sort
+<a id="Leetcode0274" href="https://leetcode.com/problems/h-index/">[Leetcode 0274.  H-Index]</a> : <a href="XXX">**Solution**</a>
+
+
 
 # BFS
 # BFS & DFS
@@ -150,6 +154,6 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjEyNDg0NywtMTU0ODMyNTA1LC0xMD
+eyJoaXN0b3J5IjpbMjEwMTUzMzcxOSwtMTU0ODMyNTA1LC0xMD
 M3MjkzOTgwXX0=
 -->
