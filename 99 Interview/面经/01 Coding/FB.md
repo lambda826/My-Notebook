@@ -61,7 +61,9 @@
 <a id="Leetcode0297" href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">[Leetcode 0297. Serialize and Deserialize Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0297_Serialize_and_Deserialize_Binary_Tree.java">**Solution**</a>
 
 
+## Pre-order
 
+<a id="Leetcode0129" href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">[Leetcode 0129.  Sum Root to Leaf Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_0129_Sum_Root_to_Leaf_Numbers.java">**Solution**</a>
 
 
 # Graph
@@ -127,5 +129,5 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzQxNjddfQ==
+eyJoaXN0b3J5IjpbMjAwMzA2NjU4MSwyMDUzNDE2N119
 -->
