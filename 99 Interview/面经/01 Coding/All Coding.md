@@ -109,7 +109,8 @@ Template
 <a id="Leetcode0428" href="https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/">[Leetcode 0428. Serialize and Deserialize N-ary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0428_Serialize_and_Deserialize_N_ary_Tree.java">**Solution**</a>
 
 ## Pre-order
-<a id="LeetcodeXXXX" href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
+
+<a id="Leetcode0129" href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">[Leetcode 0129.  Sum Root to Leaf Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_0129_Sum_Root_to_Leaf_Numbers.java">**Solution**</a>
 
 
 
@@ -149,6 +150,6 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI5MTYzNDYsLTE1NDgzMjUwNSwtMT
-AzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbMTU4NjEyNDg0NywtMTU0ODMyNTA1LC0xMD
+M3MjkzOTgwXX0=
 -->
