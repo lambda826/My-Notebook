@@ -24,7 +24,6 @@
 <a id="Leetcode0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0146_LRU_Cache.java">**Solution**</a>
 
 
-
 # Binary Search
 # Sorting
 ## Quick Sort
@@ -133,6 +132,6 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NTM5MDU4LDIwMDMwNjY1ODEsMjA1Mz
-QxNjddfQ==
+eyJoaXN0b3J5IjpbLTEyOTkwNDYyNDAsNjc5NTM5MDU4LDIwMD
+MwNjY1ODEsMjA1MzQxNjddfQ==
 -->
