@@ -62,7 +62,7 @@ Template
 
 
 # BFS
-<a id="Leetcode0314" href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">[Leetcode 0314.  Binary Tree Vertical Order Traversal]</a> : <a href="XXX">**Solution**</a>
+<a id="Leetcode0314" href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">[Leetcode 0314.  Binary Tree Vertical Order Traversal]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_0314_Binary_Tree_Vertical_Order_Traversal.java">**Solution**</a>
 
 
 # BFS & DFS
@@ -158,6 +158,6 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTE1MzE4NiwxMjQ2MjY2ODA1LDEwOD
+eyJoaXN0b3J5IjpbMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEwOD
 c4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
 -->
