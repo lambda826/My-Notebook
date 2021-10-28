@@ -6,7 +6,6 @@ Template
 
 <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
 
-
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
@@ -145,5 +144,6 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbMTgyODY5MDAzNywtMTU0ODMyNTA1LC0xMD
+M3MjkzOTgwXX0=
 -->
