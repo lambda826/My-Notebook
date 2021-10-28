@@ -42,7 +42,27 @@
 
 # BFS
 # BFS & DFS
+
 # DFS & Backtracking
+## Combination
+### 1D
+<a id="Leetcode0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
+
+<a id="Leetcode0518" href="https://leetcode.com/problems/coin-change-2/">[Leetcode 0518. Coin Change 2]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0518_Coin_Change_2.java">**Solution**</a>
+
+<a id="Leetcode0039" href="https://leetcode.com/problems/combination-sum/">[Leetcode 0039. Combination Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0039_Combination_Sum.java">**Solution**</a>
+
+<a id="Leetcode0040" href="https://leetcode.com/problems/combination-sum-ii/">[Leetcode 0040. Combination Sum II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0040_Combination_Sum_II.java">**Solution**</a>
+
+<a id="Leetcode0377" href="https://leetcode.com/problems/combination-sum-iv/">[Leetcode 0377. Combination Sum IV]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0377_Combination_Sum_IV.java">**Solution**</a>
+
+<a id="Leetcode0216" href="https://leetcode.com/problems/combination-sum-iii//">[Leetcode 0216. Combination Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0216_Combination_Sum_III.java">**Solution**</a>
+
+<a id="Leetcode0241" href="https://leetcode.com/problems/different-ways-to-add-parentheses/">[Leetcode 0241. Different Ways to Add Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0241_Different_Ways_to_Add_Parentheses.java">**Solution**</a>
+
+
+<a id="Leetcode0017" href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">[Leetcode 0017.  Letter Combinations of a Phone Number]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0017_Letter_Combinations_of_a_Phone_Number.java">**Solution**</a>
+
 # Tree
 
 ## LCA (Lowest Common Ancestor)
@@ -132,6 +152,6 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，498，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkwNDYyNDAsNjc5NTM5MDU4LDIwMD
-MwNjY1ODEsMjA1MzQxNjddfQ==
+eyJoaXN0b3J5IjpbMTEwOTAzNzU5NCwtMTI5OTA0NjI0MCw2Nz
+k1MzkwNTgsMjAwMzA2NjU4MSwyMDUzNDE2N119
 -->
