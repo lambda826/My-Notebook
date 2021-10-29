@@ -174,12 +174,23 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 ## Questions for Interviewer
-How the performance is evaluated.
-What are the most populate used technologies used.
-
+-	How the performance is evaluated.
+-	What are the most populate used technologies used.
+-  What is the new-hire onboarding process?
+-  How and when are the performance reviews conducted?
+-  How are the performance bonuses and RSU refreshers decided?
+-	How long have you been with the company?
+-	What is your favorite part about working here?
+-	What are the current projects that you are working on?
+-	What are the biggest challenges that you have solved?
+-	What gets you most excited about the company's future?
+-	Do not reponse with a "No" to this question.
+-	Ask questions that show your are engaged and excited about the role your are applying for.
+-	You can ask questions related to the performance review process.
+-	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzU4MjM0NiwtOTk4NTEwNDk3LDg0Nz
-k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
-MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
-==
+eyJoaXN0b3J5IjpbLTE0NDU5NTIwODcsLTk5ODUxMDQ5Nyw4ND
+c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
+OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
+0=
 -->
