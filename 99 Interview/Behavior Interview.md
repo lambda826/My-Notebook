@@ -183,7 +183,7 @@ Promotion Shopping Page.
 
 
 ## Conflicting Priorities
-In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the designs
+In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engin
 
 
 ## Do you have any questions for me?
@@ -194,7 +194,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDgxNzEwOSwtMTgwMTY1MTc5OSwtMT
+eyJoaXN0b3J5IjpbLTQ5MTcwMjUwNiwtMTgwMTY1MTc5OSwtMT
 Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
 MTY2NSwtMTU4MTk2MDQyOV19
 -->
