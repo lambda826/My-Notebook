@@ -76,7 +76,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Be careful not to fall into the trap of underselling your role.
 
 
-## Tell me about the project that you are most proud of 
+## Most Proud Project
 -  **Evaluation**
 	-  Your core skills
 	-  Your work ethics
@@ -171,7 +171,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because we wanted to use this project to initiate that business domain. I proposed to take the responsibility to do the research and analysis. So I travelled to Beijing, worked and lived with our customers for about one month to get familiar with their workflow and domain philosophies. Specifically I talked to most of the experts to understand the the domain and documented everything, iterated with them to refine the requirements. I went back to company, hand in the reserches and eventually I was assigned to lead the my team for this project collaborating with another team who is building the data center for this project.
 
 
-## Tell me about the project that you are most proud of 
+## Most Proud Project
 Promotion Shopping Page.
 - First, the impact is pretty big. It's a customer facing project, which has a huge volumn of traffic.
 - Second, I led this project building from scratch, there were a lot of ambuiguities. We don't know what exact requirements were. I worked with managers, and PE, utilized my previous fullstack experience finalizing the requirements. I led the high level design, broke down to modules and assigned pieces to individuals which they were interested in.
@@ -182,8 +182,8 @@ Promotion Shopping Page.
 ## Tell me about a time you failed or made a mistake
 
 
-## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities
-In Disaster Point Emergency project, 
+## Conflicting Priorities
+In Disaster Point Emergency project, after I completed the requirement
 
 
 ## Do you have any questions for me?
@@ -194,7 +194,7 @@ In Disaster Point Emergency project,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUzODU5MTksLTE4MDE2NTE3OTksLT
-E2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4
-NjE2NjUsLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbODcwMTU2MzQ5LC0xODAxNjUxNzk5LC0xNj
+kzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwODYx
+NjY1LC0xNTgxOTYwNDI5XX0=
 -->
