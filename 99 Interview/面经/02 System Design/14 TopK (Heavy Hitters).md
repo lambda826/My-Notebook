@@ -7,7 +7,7 @@ Heavy Hitters
 Close Real Time
 Hashmap
 Heap
-
+### Count-min sketch
  
 # Requirements
 ## **Functional**
@@ -30,6 +30,6 @@ High accuracy
  
 # Follow-up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQxNjM4MDQsLTI3NDM3NjE1NCwtMT
-YyNTUxMDg5XX0=
+eyJoaXN0b3J5IjpbLTIxMjMyMDMwNzksLTEzMjQxNjM4MDQsLT
+I3NDM3NjE1NCwtMTYyNTUxMDg5XX0=
 -->
