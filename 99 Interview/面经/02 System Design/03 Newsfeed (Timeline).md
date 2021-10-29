@@ -39,6 +39,7 @@ Hotspot
 - Assume 1MB per Post
 
 # High Level Design
+
 [Draw IO source]()
 
 ---
@@ -48,5 +49,5 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjI1NzM1OF19
+eyJoaXN0b3J5IjpbNzgxNjU4NDI4LDIwNDYyNTczNThdfQ==
 -->
