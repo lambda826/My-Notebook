@@ -188,7 +188,12 @@ Promotion Shopping Page.
 ## Do you have any questions for me?
 
 
+## How do you manage dependencies on a project?
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMT
-E3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMT
+E5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5
+NjA0MjldfQ==
 -->
