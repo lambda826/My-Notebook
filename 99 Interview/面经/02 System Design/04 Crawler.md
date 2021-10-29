@@ -31,7 +31,7 @@ Highly scalable
 * Total storage 15B * 1MB = 15PB without replication
 
 # High Level Design
-![crawler](https://github.com/lambda826/My-Notebook/blob/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/Crawler.png)
+![crawler](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/Crawler.png)
 [Draw IO source](https://app.diagrams.net/#G1OHJKoBAQphtncRhJpp6ddwQFIVCf93BZ)
 
 
@@ -46,5 +46,5 @@ How do we avoid downloading duplicate documents
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzYyMTU5NF19
+eyJoaXN0b3J5IjpbLTEwNTA5NzgwNjZdfQ==
 -->
