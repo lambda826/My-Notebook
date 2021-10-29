@@ -8,6 +8,9 @@ Close Real Time
 
 # Requirements
 ## **Functional**
+Return TopK item of a specific time frame
+
+
 ## **Non-Functional**
  
 # Estimation
@@ -20,5 +23,6 @@ Close Real Time
  
 # Follow-up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDM3NjE1NCwtMTYyNTUxMDg5XX0=
+eyJoaXN0b3J5IjpbLTEyNjc1MjI2OTEsLTI3NDM3NjE1NCwtMT
+YyNTUxMDg5XX0=
 -->
