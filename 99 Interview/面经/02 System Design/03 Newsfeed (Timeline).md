@@ -40,6 +40,9 @@ Hotspot
 
 # High Level Design
 ![](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/News%20Feed.png)
+
+![](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/News%20Feed2.png)
+
 [Draw IO source]()
 
 ---
@@ -49,5 +52,6 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTg0OTY5MCwyMDQ2MjU3MzU4XX0=
+eyJoaXN0b3J5IjpbMjA4MDU0MDQ5OCwxMzE1ODQ5NjkwLDIwND
+YyNTczNThdfQ==
 -->
