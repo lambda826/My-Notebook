@@ -10,6 +10,9 @@ db.documents.find( { $or : [
      { groups : { $in : [list-of-X's-groups] } }
 ] } )
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5OTE2NzQ5LC01Nzg0MTY4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTgxMjQ1MDMsOTk5OTE2NzQ5LC01Nz
+g0MTY4NjVdfQ==
 -->
