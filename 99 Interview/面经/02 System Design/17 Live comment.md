@@ -12,11 +12,11 @@ write globally, read locally
 
 
 https://engineering.fb.com/2011/02/07/core-data/live-commenting-behind-the-scenes/
-
+https://dev.to/kutanti/designing-live-commenting-in-youtube-facebook-instagram-live-stream-video-4bec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY4NzI0NTAsLTQyNzc4MzY1MCwxOT
-cxODk3MjUxLDE5MzA5NDk0OTEsLTE4Njg4Nzk1MzIsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwOTkxNTUzMDksLTE5NDY4NzI0NTAsLT
+QyNzc4MzY1MCwxOTcxODk3MjUxLDE5MzA5NDk0OTEsLTE4Njg4
+Nzk1MzIsNzMwOTk4MTE2XX0=
 -->
