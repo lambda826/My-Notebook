@@ -57,6 +57,10 @@ Show that you proactively communicated the issue and its resolution to all the s
     -  Spend more time talking about the resolution.
 
 
+## [Pressure Handling](https://www.youtube.com/watch?v=LO_e3CDkPmM)
+
+## [Ambuiguity Handling]()
+
 ## Leadership
 -  **Evaluation**
 	-  Take responsibility
@@ -192,7 +196,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mjg4MTY0MSwtOTk4NTEwNDk3LDg0Nz
+eyJoaXN0b3J5IjpbMTgzMjI3OTU5MCwtOTk4NTEwNDk3LDg0Nz
 k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
 MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
 ==
