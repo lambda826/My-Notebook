@@ -47,7 +47,7 @@ https://blog.csdn.net/wdwyf999/article/details/89957490
 3. Low performance: O(N)
 
 ### Option 2: Grid
-![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI%20Grid.png)
+![POI Grid](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/POI%20Grid.png)
 1. Divide the whole map into grids.
 2. Group locations into grids.
 3. Based on given `Location` and `Radius`, find all neighbouring grids.
@@ -102,5 +102,5 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDkxNTU4OF19
+eyJoaXN0b3J5IjpbLTIxMzU1MjUyMDFdfQ==
 -->
