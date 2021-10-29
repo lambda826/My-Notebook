@@ -180,7 +180,7 @@ Promotion Shopping Page.
 
 
 ## Failed or Mistake
-
+There was once 
 
 
 ## Conflicting Priorities
@@ -195,7 +195,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODIyODE1Miw4NDc5NjkwLC0xODAxNj
-UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
-MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbLTE0ODk2ODk2NjAsODQ3OTY5MCwtMTgwMT
+Y1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1
+OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
