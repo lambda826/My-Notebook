@@ -159,8 +159,11 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 
 ## Pressure Handling
+When I just joined AWS RDS team, I didn't have much experience with AWS. My manger assigned me a task which has a pretty tight deadline. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that. I worked on weekends in order to catch up the timeline, but our use case was kinda very unique, there was no related document internal or external. The monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
+
 
 ## Ambuiguity Handling
+
 
 ## Quick Learning
 There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason. I didn't even hear of that technology before, everyone wasn't willing to take that ownership, but I stepped ahead. The timeline was pretty tight. I was not familiar with the system nor the languange. I basically spent one week on learning this language and ramping up with system. I delivered the migraiton before the deadline, and my manager told me that he was so impressed that I couldn't believe I got this done in such a short time, especially I had to learn a lot of stuff.
@@ -189,9 +192,6 @@ There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue,
 ## Conflicting Priorities
 In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engineer to make a static webpages with simulated functionalities and presented the demo to the customer. We had several iterations with the customer to finalize the UI.
 
-## Pressure Handling
-When I just joined AWS RDS team, I didn't have much experience with AWS. My manger assigned me a task which has a pretty tight deadline. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that. I worked on weekends in order to catch up the timeline, but our use case was kinda very unique, there was no related document internal or external. The monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
-
 
 ## Project Dependencies Management
 -	At high level design, I usually list out the different options of the building blocks and components of system, graph out the relation and dependencies among them. Analysis the trade offs. 
@@ -215,8 +215,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTI4MzMzOCwtOTk4NTEwNDk3LDg0Nz
-k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
-MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
-==
+eyJoaXN0b3J5IjpbMzE1ODcxOTg2LC05OTg1MTA0OTcsODQ3OT
+Y5MCwtMTgwMTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkz
+LDExMTcwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
