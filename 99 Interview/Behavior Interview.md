@@ -134,27 +134,6 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Focus on the business impact that you had on your company or team.
 
 
-## Do you have any questions for me?
--  **Evaluation**
-	-	Gauge your passion & interest in the current role you are applying for.
-	-	Gives you an opportunity to end the interview on a strong node.
-	-	Shows that you have done your homework about their company & culture.
--  **Keys**
-	-  What is the new-hire onboarding process?
-	-  How and when are the performance reviews conducted?
-		-  How are the performance bonuses and RSU refreshers decided?
-	-	How long have you been with the company?
-	-	What is your favorite part about working here?
-	-	What are the current projects that you are working on?
-	-	What are the biggest challenges that you have solved?
-	-	What gets you most excited about the company's future?
-	-	Do not reponse with a "No" to this question.
-	-	Ask questions that show your are engaged and excited about the role your are applying for.
-	-	Do not ask questions related to salary negotiations.
-		-	You can ask questions related to the performance review process.
-	-	Ask questions that get the interviewer to talk about their careers.
-
-
 # My Stories
 ## Introduction
 I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products. From technical perspective, I am super passionate about cutting technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
@@ -188,15 +167,18 @@ There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue,
 In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engineer to make a static webpages with simulated functionalities and presented the demo to the customer. We had several iterations with the customer to finalize the UI.
 
 
-## Questions for Interviewer
+
 
 
 ## Project Dependencies Management
 
 
+## Questions for Interviewer
+How the performance is evaluated.
+What are the most populate used technologies used.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDU2MTU4NSwtOTk4NTEwNDk3LDg0Nz
+eyJoaXN0b3J5IjpbMTM2MzU4MjM0NiwtOTk4NTEwNDk3LDg0Nz
 k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
 MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
 ==
