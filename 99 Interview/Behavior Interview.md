@@ -183,7 +183,7 @@ Promotion Shopping Page.
 
 
 ## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities
-In the Promotion Shopping Page project, 
+In the Promotion Shopping Page project, there was once that 
 
 
 ## Do you have any questions for me?
@@ -194,7 +194,7 @@ In the Promotion Shopping Page project,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTAxNTE5NiwtMTgwMTY1MTc5OSwtMT
+eyJoaXN0b3J5IjpbMTMyNjAwNzU5MywtMTgwMTY1MTc5OSwtMT
 Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
 MTY2NSwtMTU4MTk2MDQyOV19
 -->
