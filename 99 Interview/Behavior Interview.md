@@ -171,7 +171,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 
 
 ## Project Dependencies Management
-At high level design, I usually list out the different options of the building blocks and components of system, 
+At high level design, I usually list out the different options of the building blocks and components of system, graph out the relation and dependencies among them. Analysis the trade offs. For example, in the Promotion Shopping Page project, there were two services which could feed our products data. But neither of them fit our use case because we had lots of post process
 
 
 ## Questions for Interviewer
@@ -190,7 +190,7 @@ At high level design, I usually list out the different options of the building b
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc0MTkyNDgsLTk5ODUxMDQ5Nyw4ND
+eyJoaXN0b3J5IjpbLTE5MDc5NzMyODksLTk5ODUxMDQ5Nyw4ND
 c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
 OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
 0=
