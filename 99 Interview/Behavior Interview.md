@@ -160,7 +160,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 
 
 ## Why Leave
-I successfully built some cultures for the team, such as siWe just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
+I successfully built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater challenges of techinical leadership for my carreer. Specifically more about technical leadership and technical management.
 
 
 ## Confliction
@@ -194,7 +194,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTk1MjI4NSwtMTgwMTY1MTc5OSwtMT
+eyJoaXN0b3J5IjpbMjA5NjcwNTcwNywtMTgwMTY1MTc5OSwtMT
 Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
 MTY2NSwtMTU4MTk2MDQyOV19
 -->
