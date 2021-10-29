@@ -42,7 +42,7 @@ Highly available
 
 # High Level Design
 
-![search engine](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/search%20engine.png)
+![search engine](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Search%20Engine.png)
 [Draw IO source](https://app.diagrams.net/#G1nZpAJ1gY0EXcrLiRGmfU5tJI6XbDJo0V)
 
 
@@ -61,5 +61,5 @@ How do we rank results?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcxOTczNTFdfQ==
+eyJoaXN0b3J5IjpbLTU0NjQxNzkwOF19
 -->
