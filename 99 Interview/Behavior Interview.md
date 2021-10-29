@@ -65,6 +65,9 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 ## [Constructive Feedback Received](https://www.youtube.com/watch?v=3O2iJ9s_mKs)
 
+
+
+
 ## Leadership
 -  **Evaluation**
 	-  Take responsibility
@@ -155,6 +158,16 @@ I successfully built some cultures for the team, such as stick to highest standa
 At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
 
 
+## Pressure Handling
+
+## Ambuiguity Handling
+
+## Quick Learning
+
+## Constructive Feedback Received
+
+
+
 ## Leadership
 At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because we wanted to use this project to initiate that business domain. I proposed to take the responsibility to do the research and analysis. So I travelled to Beijing, worked and lived with our customers for about one month to get familiar with their workflow and domain philosophies. Specifically I talked to most of the experts to understand the the domain and documented everything, iterated with them to refine the requirements. I went back to company, hand in the reserches and eventually I was assigned to lead the my team for this project collaborating with another team who is building the data center for this project.
 
@@ -200,7 +213,8 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDg3MDYwLC05OTg1MTA0OTcsODQ3OT
-Y5MCwtMTgwMTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkz
-LDExMTcwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbLTIwMDUxMTI0NzUsLTk5ODUxMDQ5Nyw4ND
+c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
+OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
+0=
 -->
