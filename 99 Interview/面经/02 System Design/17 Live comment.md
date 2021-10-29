@@ -9,8 +9,11 @@ write locally, read globally
 write globally, read locally
 
 
+https://engineering.fb.com/2011/02/07/core-data/live-commenting-behind-the-scenes/
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTg5NzI1MSwxOTMwOTQ5NDkxLC0xOD
-Y4ODc5NTMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQyNzc4MzY1MCwxOTcxODk3MjUxLDE5Mz
+A5NDk0OTEsLTE4Njg4Nzk1MzIsNzMwOTk4MTE2XX0=
 -->
