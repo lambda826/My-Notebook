@@ -5,6 +5,7 @@ Do not sugarcoat your answer with irrelevant details.
 Briefly talk about the learnings you took from the situation. 
 Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
+
 # Sample Questions
 ## Introduction
 -  **Evaluation**
@@ -195,7 +196,8 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODUxMDQ5Nyw4NDc5NjkwLC0xODAxNj
-UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
-MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbMTEyMDU2MTU4NSwtOTk4NTEwNDk3LDg0Nz
+k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
+MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
+==
 -->
