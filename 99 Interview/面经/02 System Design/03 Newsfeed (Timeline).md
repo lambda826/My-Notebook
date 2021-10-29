@@ -49,9 +49,10 @@ Hotspot
 # Follow-up
 How to avoid querying full dataset from the database?
  - When making the `timeline` request, set a timestamp as a condition that only retrieve the createOn which is greater than this parameter.
+ - Offline 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDU0MDQ5OCwxMzE1ODQ5NjkwLDIwND
-YyNTczNThdfQ==
+eyJoaXN0b3J5IjpbMjAyMTMxNTIyOCwyMDgwNTQwNDk4LDEzMT
+U4NDk2OTAsMjA0NjI1NzM1OF19
 -->
