@@ -166,7 +166,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 
 ## Constructive Feedback Received
 -  The feedback was "Do not just criticize, but also propose the solution"
--  When I just joined the first team in Amazon
+-  When I just joined my first team in Amazon, I criticized a lot of artifacts built by my team. Such as coding styles, the coding standards, the abuse the duplicate code, absense of designs and docs. But my team member
 
 
 ## Leadership
@@ -214,8 +214,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTUyMTgwMSwtOTk4NTEwNDk3LDg0Nz
-k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
-MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
-==
+eyJoaXN0b3J5IjpbNTA3Mzk3NDgsLTk5ODUxMDQ5Nyw4NDc5Nj
+kwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMs
+MTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
