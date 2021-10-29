@@ -5,6 +5,9 @@
 ## Key Words
 Heavy Hitters
 Close Real Time
+Hashmap
+Heap
+
  
 # Requirements
 ## **Functional**
@@ -27,6 +30,6 @@ High accuracy
  
 # Follow-up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjY2MzU0MCwtMjc0Mzc2MTU0LC0xNj
-I1NTEwODldfQ==
+eyJoaXN0b3J5IjpbLTEzMjQxNjM4MDQsLTI3NDM3NjE1NCwtMT
+YyNTUxMDg5XX0=
 -->
