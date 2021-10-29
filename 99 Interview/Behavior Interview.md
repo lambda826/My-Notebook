@@ -99,7 +99,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Mention about cross-team collaborations that you did while working on the project.
 
 
-## Tell me about a time you failed or made a mistake
+## Failed or Mistake
 -  **Evaluation**
 	-  Maturity & personal accountability
 	-  Handle a setback
@@ -112,7 +112,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Explain the learnings you took from the sebback and how they helped you to avoid the same mistakes from happening again in the future.	
 
 
-## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+## Conflicting Priorities
 -  **Evaluation**
 	-  Manage time.
 	-  Good judgement & understanding.
@@ -179,22 +179,22 @@ Promotion Shopping Page.
 - I proactively devised a runtime debugging system, which was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and proposed to amazon internal framework.
 
 
-## Tell me about a time you failed or made a mistake
+## Failed or Mistake
 
 
 ## Conflicting Priorities
 In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engineer to make a static webpages with simulated functionalities and presented the demo to the customer. We had several iterations with the customer to finalize the UI.
 
 
-## Do you have any questions for me?
+## Questions for Interviewer
 
 
-## How do you manage dependencies on a project?
+## Project Dependencies Management
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY4MjEyOTgsLTE4MDE2NTE3OTksLT
+eyJoaXN0b3J5IjpbLTE2NjAxNDEwMjgsLTE4MDE2NTE3OTksLT
 E2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4
 NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
