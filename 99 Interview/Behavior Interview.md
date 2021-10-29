@@ -163,7 +163,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 ## Ambuiguity Handling
 
 ## Quick Learning
-There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason. I didn't even hear of that technology before, everyone wasn't willing to take that ownership, but I stepped ahead. The timeline was pretty tight. I was not familiar with the system nor the languange. I basically spent one week on learning this language and ramping up the 
+There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason. I didn't even hear of that technology before, everyone wasn't willing to take that ownership, but I stepped ahead. The timeline was pretty tight. I was not familiar with the system nor the languange. I basically spent one week on learning this language and ramping up with system. I delivered the migraiton before the deadline, and my manager told me that he was so impressed that I couldn't believe I got this done in such a short time, especially 
 
 
 ## Constructive Feedback Received
@@ -215,7 +215,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjQwNTM1OCwtOTk4NTEwNDk3LDg0Nz
+eyJoaXN0b3J5IjpbMjAyMzgzMjUyMiwtOTk4NTEwNDk3LDg0Nz
 k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
 MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
 ==
