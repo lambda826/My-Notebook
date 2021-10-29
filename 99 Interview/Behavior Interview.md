@@ -163,6 +163,7 @@ At very beginning of the Promotion Shopping Page Project, we were discussing wha
 ## Ambuiguity Handling
 
 ## Quick Learning
+There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason. I didn't even hear of that technology before
 
 ## Constructive Feedback Received
 -  When I just joined my first team in Amazon, I criticized a lot of artifacts built by my team. Such as coding styles, the coding standards, the abuse the duplicate code, absense of designs and docs. But my team members didn't buy it even though most of the time I was corrent. I received the feedback that "Do not just criticize, but also propose the solution". So I got it, I had to  earn trust first. For each item that I proposed, I did a lot of research both internally and externally. I also implemented my artifacts with best practice and got everyone aware. I also set up knowledge sharing sessions to share my solutions to those issues. After like one year, my team has been pretty willing to listen to my advices and they knew that I was just being passionate instead of being bitching.
@@ -213,7 +214,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDk2NDcwNywtOTk4NTEwNDk3LDg0Nz
+eyJoaXN0b3J5IjpbMjE0Njg3NDQ1MywtOTk4NTEwNDk3LDg0Nz
 k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
 MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
 ==
