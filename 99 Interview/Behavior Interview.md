@@ -171,7 +171,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 
 
 ## Project Dependencies Management
-At high level design, I usually list out the different options of the building blocks and components of system, graph out the relation and dependencies among them. Analysis the trade offs. For example, in the Promotion Shopping Page project, there were two services which could feed our products data. But neither of them fit our use case because we had lots of post processing logic around promotion. So I proposed to build our own, in that way, we can control the total number of products that we support, and we can also hanle the logic prior to the Promotion Shopping Page backend. During the development stage, I usually tend to set higher priorities to those underlying dependencies, and try to parallelize them 
+At high level design, I usually list out the different options of the building blocks and components of system, graph out the relation and dependencies among them. Analysis the trade offs. For example, in the Promotion Shopping Page project, there were two services which could feed our products data. But neither of them fit our use case because we had lots of post processing logic around promotion. So I proposed to build our own, in that way, we can control the total number of products that we support, and we can also hanle the logic prior to the Promotion Shopping Page backend. During the development stage, I usually tend to set higher priorities to those underlying dependencies, and try to parallelize them and distribute the modules to individuals.
 
 
 ## Questions for Interviewer
@@ -190,8 +190,8 @@ At high level design, I usually list out the different options of the building b
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk5NjMwNjUsLTk5ODUxMDQ5Nyw4ND
-c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
-OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
-0=
+eyJoaXN0b3J5IjpbLTYxNzEzNDk0MiwtOTk4NTEwNDk3LDg0Nz
+k2OTAsLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5
+MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ
+==
 -->
