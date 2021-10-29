@@ -6,7 +6,7 @@ Briefly talk about the learnings you took from the situation.
 Show that you proactively communicated the issue and its resolution to all the stakeholders.
 
 # Sample Questions
-## Tell me about yourself
+## Introduction
 -  **Evaluation**
 	-  Current & past experiences.
 	-  Your core strengths.
@@ -23,7 +23,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-  Be concise, honest, and engaging.
 
 
-## Why do you want to leave your current role? 
+## Why Leave
 - **Evaluation**
 	- Whether you are running away from something or running towards something.
 	- You are someone who looks forward with a positive attitude.
@@ -37,7 +37,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 	-	Familiarize yourself with the company's vision and its core values.
 
 
-## Tell me about a time you disaggreed with someone
+## Confliction
 -  **Evaluation**
 	-  Work in difficult situations.
 	-  Strong communication skills.
@@ -155,11 +155,11 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 
 # My Stories
-## Tell me about yourself
+## Introduction
 I worked in China for 4 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I have comparatively diverse experiences with building 2B and 2C systems, infrastrures and products. From technical perspective, I am super passionate about cutting technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
 
-## Why do you want to leave your current role?
+## Why Leave
 We just completed and launched the Promotion Shopping Page project world wide, and I am seeking for greater challenges for my carreer from leadership's perspective. Specifically more about technical leadership and technical management.
 
 
@@ -167,7 +167,7 @@ We just completed and launched the Promotion Shopping Page project world wide, a
 At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
 
 
-## Leadership
+## Confliction
 At the very beginning of the requirement stage of the Geo Disaster Emergency project, our manager suddenly quit to pursue his PHD study, and we were very short of human resources at that time. This project was very important to the company because we wanted to use this project to initiate that business domain. I proposed to take the responsibility to do the research and analysis. So I travelled to Beijing, worked and lived with our customers for about one month to get familiar with their workflow and domain philosophies. Specifically I talked to most of the experts to understand the the domain and documented everything, iterated with them to refine the requirements. I went back to company, hand in the reserches and eventually I was assigned to lead the my team for this project collaborating with another team who is building the data center for this project.
 
 
@@ -194,7 +194,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjkxNjY3NiwtMTgwMTY1MTc5OSwtMT
-Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
-MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbLTIwNDAzMjI3NDcsLTE4MDE2NTE3OTksLT
+E2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4
+NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
