@@ -167,10 +167,9 @@ There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue,
 In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engineer to make a static webpages with simulated functionalities and presented the demo to the customer. We had several iterations with the customer to finalize the UI.
 
 
-
-
-
 ## Project Dependencies Management
+
+
 
 
 ## Questions for Interviewer
@@ -189,7 +188,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU5NTIwODcsLTk5ODUxMDQ5Nyw4ND
+eyJoaXN0b3J5IjpbLTE4NDU1MjA2ODEsLTk5ODUxMDQ5Nyw4ND
 c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
 OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
 0=
