@@ -7,8 +7,8 @@ A web crawler is a software program which browses the World Wide Web in a method
  - It collects documents by recursively fetching links from a set of starting pages.
 
 ## Key Words
-URL Duplicates Handling
-Document Duplicates Handling
+URL Duplicates Handling - Timestamp
+Document Duplicates Handling - Checksum
 BFS vs. DFS
 Path-Ascending Crawling
 Robots.txt
@@ -46,5 +46,5 @@ How do we avoid downloading duplicate documents
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA5NzgwNjZdfQ==
+eyJoaXN0b3J5IjpbMTA2Njk0NTE4MywtMTA1MDk3ODA2Nl19
 -->
