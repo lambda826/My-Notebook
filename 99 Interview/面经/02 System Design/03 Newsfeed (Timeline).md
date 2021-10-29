@@ -43,6 +43,11 @@ Hotspot
 
 ![](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/News%20Feed2.png)
 
+1.  **"Pull" model or Fan-out-on-load:** This method involves keeping all the recent feed data in memory so that users can pull it from the server whenever they need it. Clients can pull the feed data on a regular basis or manually whenever they need it. Possible problems with this approach are a) New data might not be shown to the users until they issue a pull request, b) It’s hard to find the right pull cadence, as most of the time pull requests will result in an empty response if there is no new data, causing waste of resources.
+    
+2.  **"Push" model or Fan-out-on-write:**  For a push system, once a user has published a post, we can immediately push this post to all the followers. The advantage is that when fetching feed you don’t need to go through your friend’s list and get feeds for each of them. It significantly reduces read operations. To efficiently handle this, users have to maintain a [Long Poll](https://en.wikipedia.org/wiki/Push_technology#Long_polling) request with the server for receiving the updates. A possible problem with this approach is that when a user has millions of followers (a celebrity-user) the server has to push updates to a lot of people.
+
+
 [Draw IO source]()
 
 ---
@@ -53,6 +58,6 @@ How to avoid querying full dataset from the database?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMjk3NDA2LDIwODA1NDA0OTgsMTMxNT
-g0OTY5MCwyMDQ2MjU3MzU4XX0=
+eyJoaXN0b3J5IjpbNDUwMjk0NDM5LDcxMTI5NzQwNiwyMDgwNT
+QwNDk4LDEzMTU4NDk2OTAsMjA0NjI1NzM1OF19
 -->
