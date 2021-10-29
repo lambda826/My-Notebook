@@ -61,6 +61,10 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 ## [Ambuiguity Handling](https://www.youtube.com/watch?v=dh3dtK_FG1o)
 
+## [Quick Learning](https://www.youtube.com/watch?v=Bu3MsXzHEaM)
+
+## [Constructive Feedback Received](https://www.youtube.com/watch?v=3O2iJ9s_mKs)
+
 ## Leadership
 -  **Evaluation**
 	-  Take responsibility
@@ -196,8 +200,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc2NTYyNjAsLTk5ODUxMDQ5Nyw4ND
-c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
-OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
-0=
+eyJoaXN0b3J5IjpbNjY5NDg3MDYwLC05OTg1MTA0OTcsODQ3OT
+Y5MCwtMTgwMTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkz
+LDExMTcwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
