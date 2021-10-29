@@ -1,35 +1,9 @@
-# Reference
- 
-# Introduction
+Fast path
+- count-min sketch
 
-## Key Words
-Heavy Hitters
-Close Real Time
-Hashmap
-Heap
-Count-min sketch
- 
-# Requirements
-## **Functional**
-Return TopK item of a specific time frame
-
-
-## **Non-Functional**
-High scalability
-High availability
-High accuracy
-
- 
-# Estimation
-## **Traffic**
-## **Storage**
- 
-# High Level Design
-[Draw IO source]()
-
- 
-# Follow-up
+Slow path
+- map-reduce (spark)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ2MDc4NzYsLTEzMjQxNjM4MDQsLT
-I3NDM3NjE1NCwtMTYyNTUxMDg5XX0=
+eyJoaXN0b3J5IjpbNjYyMzIwMDIsLTEwOTQ2MDc4NzYsLTEzMj
+QxNjM4MDQsLTI3NDM3NjE1NCwtMTYyNTUxMDg5XX0=
 -->
