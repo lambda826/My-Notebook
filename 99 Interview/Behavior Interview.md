@@ -180,7 +180,7 @@ Promotion Shopping Page.
 
 
 ## Failed or Mistake
-There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue, the TT navigated me to the problem detail page where there was a button say "Click to fix", so I clicked the button, without understanding the effect. And later on our service started to throw exceptions. After investigation, I found that our authorization was reset and we lost our permission. So I tried to redemy this, I contacted AWS team because I believe on their side, they must have some logs of the modification. Eventually I fixed the issue based their log. This was a great lesson that w
+There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue, the TT navigated me to the problem detail page where there was a button say "Click to fix", so I clicked the button, without understanding the effect. And later on our service started to throw exceptions. After investigation, I found that our authorization was reset and we lost our permission. So I tried to redemy this, I contacted AWS team because I believe on their side, they must have some logs of the modification. Eventually I fixed the issue based their log. This was a great lesson that we shouldn't take any action without undwhich has an impact on production
 
 
 ## Conflicting Priorities
@@ -195,7 +195,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTgyNzU2MSw4NDc5NjkwLC0xODAxNj
+eyJoaXN0b3J5IjpbMTc3NDU1NTQ5MCw4NDc5NjkwLC0xODAxNj
 UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
 MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
