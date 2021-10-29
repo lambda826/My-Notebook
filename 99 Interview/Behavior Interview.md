@@ -199,6 +199,9 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	During the development stage, I usually tend to set higher priorities to those underlying dependencies, and try to parallelize them and distribute the modules to individuals.
 
 
+## Out of OKR
+
+
 ## Questions for Interviewer
 -	How the performance is evaluated.
 -	What are the most populate used technologies used.
@@ -215,7 +218,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODcxOTg2LC05OTg1MTA0OTcsODQ3OT
+eyJoaXN0b3J5IjpbNDU1NDI3MTQ1LC05OTg1MTA0OTcsODQ3OT
 Y5MCwtMTgwMTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkz
 LDExMTcwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
