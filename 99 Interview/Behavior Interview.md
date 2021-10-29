@@ -182,7 +182,8 @@ Promotion Shopping Page.
 ## Tell me about a time you failed or made a mistake
 
 
-## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities 
+## Tell me about a time you had to manage conflicting priorities With Special Case: Never Had Conflicting Priorities
+In the Promotion Shopping Page project, 
 
 
 ## Do you have any questions for me?
@@ -193,7 +194,7 @@ Promotion Shopping Page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE2NTE3OTksLTE2OTM3MjA2MDUsMT
-E5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUsLTE1ODE5
-NjA0MjldfQ==
+eyJoaXN0b3J5IjpbMTM3OTAxNTE5NiwtMTgwMTY1MTc5OSwtMT
+Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
+MTY2NSwtMTU4MTk2MDQyOV19
 -->
