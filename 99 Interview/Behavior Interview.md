@@ -162,6 +162,7 @@ I worked in China for 4 years as a fullstack engineer. To seek more challenging 
 ## Why Leave
 I successfully built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer. Specifically more about technical leadership and technical management.
 
+
 ## Confliction
 At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
 
@@ -194,7 +195,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTY5MCwtMTgwMTY1MTc5OSwtMTY5Mz
-cyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2MTY2
-NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbMTgyODIyODE1Miw4NDc5NjkwLC0xODAxNj
+UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
+MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
