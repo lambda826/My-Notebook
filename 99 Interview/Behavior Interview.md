@@ -167,7 +167,7 @@ There was once when I was oncall, I got a TT asking us to fix the AWS IAM issue,
 In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the architecture related design and switched to UI design. Even though I was experienced with front-end, since it's first impression for the customer, I chose to closly collaborate with our UI engineer to make a static webpages with simulated functionalities and presented the demo to the customer. We had several iterations with the customer to finalize the UI.
 
 ## Pressure Handling
-When I just joined AWS RDS team, I didn't have much experience with AWS. My manger assigned me a task which has a pretty tight deadline.
+When I just joined AWS RDS team, I didn't have much experience with AWS. My manger assigned me a task which has a pretty tight deadline. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that. 
 
 
 ## Project Dependencies Management
@@ -191,7 +191,7 @@ When I just joined AWS RDS team, I didn't have much experience with AWS. My mang
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAyMzU0MjcsLTk5ODUxMDQ5Nyw4ND
+eyJoaXN0b3J5IjpbLTExMTUxMjE1OTcsLTk5ODUxMDQ5Nyw4ND
 c5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3
 OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX
 0=
