@@ -59,7 +59,7 @@ Problem
 - This problem can be solved if we can dynamically adjust our grid size such that whenever we have a grid with a lot of places we break it down to create smaller grids.
 
 ### Option 3: QuadTree (Dynamic Size Grids)
-![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/08%20Distributed%20System/01%20System%20Design/02%20System%20Design%20Demos/resource/POI.png)
+![POI](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/POI.png)
 [Draw IO source](https://app.diagrams.net/#G1HA21GylJ42Z1oZyYARWOKjJJ4f9iuiUc)
 
 ![QuadTree](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/QuadTree.png)
@@ -102,5 +102,5 @@ For this approach, we make the `NearBy Aggregation Service` to store a `QuadTree
 How can we do a search and present the results on the map?
  - Build `inverted index` on top of the entities, whose `key` is the **key words** and `value` is the properties of the entities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTUxNjgxNV19
+eyJoaXN0b3J5IjpbLTQ0MDkxNTU4OF19
 -->
