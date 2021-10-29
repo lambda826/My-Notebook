@@ -2,7 +2,10 @@
  
 # Introduction
 ## Key Words
+Heavy Hitters
+Close Real Time
  
+
 # Requirements
 ## **Functional**
 ## **Non-Functional**
@@ -17,5 +20,5 @@
  
 # Follow-up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU1MTA4OV19
+eyJoaXN0b3J5IjpbLTI3NDM3NjE1NCwtMTYyNTUxMDg5XX0=
 -->
