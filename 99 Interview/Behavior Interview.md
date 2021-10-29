@@ -183,7 +183,7 @@ Promotion Shopping Page.
 
 
 ## Conflicting Priorities
-In Disaster Point Emergency project, after I completed the requirement
+In Disaster Point Emergency project, after I completed the requirements analysis, I started the high level design and domain designs. But our customer would like to see how the webpage is going to look like, what functions we are going to provide. So I have stop the designs
 
 
 ## Do you have any questions for me?
@@ -194,7 +194,7 @@ In Disaster Point Emergency project, after I completed the requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTU2MzQ5LC0xODAxNjUxNzk5LC0xNj
-kzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwODYx
-NjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbMTM5MDgxNzEwOSwtMTgwMTY1MTc5OSwtMT
+Y5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNjA1OTEsMjAwMDg2
+MTY2NSwtMTU4MTk2MDQyOV19
 -->
