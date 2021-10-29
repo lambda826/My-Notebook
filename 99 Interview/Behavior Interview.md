@@ -204,7 +204,6 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	In Promotion Shopping Page project, I proactively devised a runtime debugging system which we didn't plan during the design, this part was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and demoed to amazon internal framework
 
 
-
 ## Questions for Interviewer
 -	How the performance is evaluated.
 -	What are the most populate used technologies used.
@@ -221,8 +220,8 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODYzODgwNSw0NTU0MjcxNDUsLTk5OD
-UxMDQ5Nyw4NDc5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1
-LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNT
-gxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbOTU2MzExNzEsMTc4ODYzODgwNSw0NTU0Mj
+cxNDUsLTk5ODUxMDQ5Nyw4NDc5NjkwLC0xODAxNjUxNzk5LC0x
+NjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwOD
+YxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
