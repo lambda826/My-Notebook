@@ -38,9 +38,9 @@ In a chat system, clients can be either mobile applications or web applications.
 
 ![Chat Service](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service.png)
 
-![Chat Service](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service2.png)
+![Chat Service2](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service2.png)
 
-![Chat Service](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service3.png)
+![Chat Service3](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chat%20Service33.png)
 
 
 The chat service must support the following functions:
@@ -59,7 +59,7 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODI5MzE1LC0xNDI0MjUzODEwLDg4Mj
-U0NDI4Niw4MTgwMzY5NjYsLTU1MzE0Mjg1MSwxMDU3MDY3MDAz
-LC0xNTk2NzU4ODg3LC03MDc0MDExNzVdfQ==
+eyJoaXN0b3J5IjpbNDYzNDUxMSw1OTU4MjkzMTUsLTE0MjQyNT
+M4MTAsODgyNTQ0Mjg2LDgxODAzNjk2NiwtNTUzMTQyODUxLDEw
+NTcwNjcwMDMsLTE1OTY3NTg4ODcsLTcwNzQwMTE3NV19
 -->
