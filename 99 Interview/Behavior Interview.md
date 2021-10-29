@@ -200,8 +200,8 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 
 
 ## Out of OKR
--	In Promotion Shopping Page project, I proactively devised a runtime debugging system which we didn't plan during the design, this part was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and demo to amazon internal framework.
-
+-	In Promotion Shopping Page project, I proactively devised a runtime debugging system which we didn't plan during the design, this part was non-intrusive and allowed us to trace the status of the each request in production. This mechanism was highly praised by our PE and demoed to amazon internal framework
+-	Refactoring Promotion Discovery Authority Service, this was our main service. There were a lot of design issues and code issues in this system, which produced a lot of unexpected bugs and 
 
 
 ## Questions for Interviewer
@@ -220,7 +220,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjgxNjg5Nyw0NTU0MjcxNDUsLTk5OD
+eyJoaXN0b3J5IjpbMTMyNjIyODAzMiw0NTU0MjcxNDUsLTk5OD
 UxMDQ5Nyw4NDc5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1
 LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNT
 gxOTYwNDI5XX0=
