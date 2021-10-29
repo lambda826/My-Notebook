@@ -5,6 +5,8 @@
 [XMPP vs. WebSockets: Comparing Instant Messaging Protocols
 ](https://www.cometchat.com/blog/xmpp-vs-websockets-instant-messaging-protocol-comparison)
 
+https://systeminterview.com/design-a-chat-system.php
+
 
 # Introduction
 ## Key Words
@@ -51,7 +53,7 @@ The chat service must support the following functions:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNTQ0Mjg2LDgxODAzNjk2NiwtNTUzMT
-QyODUxLDEwNTcwNjcwMDMsLTE1OTY3NTg4ODcsLTcwNzQwMTE3
-NV19
+eyJoaXN0b3J5IjpbLTE0MjQyNTM4MTAsODgyNTQ0Mjg2LDgxOD
+AzNjk2NiwtNTUzMTQyODUxLDEwNTcwNjcwMDMsLTE1OTY3NTg4
+ODcsLTcwNzQwMTE3NV19
 -->
