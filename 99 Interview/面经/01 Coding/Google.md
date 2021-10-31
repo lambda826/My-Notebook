@@ -1,7 +1,47 @@
 # Array
-
 ## TwoSum
 <a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a>
+# String
+
+# Two Pointer
+
+# LinkedList
+
+# Binary Search
+
+# Sorting
+
+# BFS
+
+# BFS & DFS
+
+# DFS & Backtracking
+
+# Tree
+## LCA (Lowest Common Ancestor)
+
+# Graph
+
+# Dynamic Programming
+
+# Stack
+
+# Monotonic Stack
+
+# Heap
+
+# Greedy
+
+# Slide Window
+
+# Hash
+
+# Trie
+
+# Union Find
+
+
+
 
 
 霸丝伞 38
@@ -53,5 +93,5 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODUwNDA0NF19
+eyJoaXN0b3J5IjpbLTE2ODk5Njc4NjNdfQ==
 -->
