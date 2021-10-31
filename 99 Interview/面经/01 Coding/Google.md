@@ -45,8 +45,6 @@
 <a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
 
 
-
-霸丝伞 38
 依巫灵酒 37
 伞污久 29
 妻散污 29
@@ -95,5 +93,5 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODc1NTk1M119
+eyJoaXN0b3J5IjpbMTU4ODMwNTE4NV19
 -->
