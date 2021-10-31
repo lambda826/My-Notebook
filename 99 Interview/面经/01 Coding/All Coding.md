@@ -1,6 +1,6 @@
 Template
 <a id="LeetcodeXXXX" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
-<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="XXX">**Solution**</a>
+<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
 
 
 # Array
@@ -162,8 +162,11 @@ Template
 # Hash
 # Trie
 # Union Find
+
+# Others
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgzMzU0MCwxMjE3Mzc5Mzk4LDEyND
-YyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC0xMDM3Mjkz
-OTgwXX0=
+eyJoaXN0b3J5IjpbMTMyODM3MzMzNywtMTk0ODMzNTQwLDEyMT
+czNzkzOTgsMTI0NjI2NjgwNSwxMDg3ODk0MzIyLC0xNTQ4MzI1
+MDUsLTEwMzcyOTM5ODBdfQ==
 -->
