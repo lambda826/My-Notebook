@@ -1,5 +1,6 @@
 Template
 <a id="LeetcodeXXXX" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
+<a id="Leetcode0843" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
 
 
 # Array
@@ -162,7 +163,7 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4NDE5NjMsMTIxNzM3OTM5OCwxMj
-Q2MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5
-Mzk4MF19
+eyJoaXN0b3J5IjpbLTU2MTc0NjU3MywxMjE3Mzc5Mzk4LDEyND
+YyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC0xMDM3Mjkz
+OTgwXX0=
 -->
