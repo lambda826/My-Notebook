@@ -9,7 +9,9 @@ Template
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
-## Two
+## TwoSum
+
+<a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a>
 
 # String
 <a id="Leetcode0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0415_Add_Strings.java">**Solution**</a>
@@ -160,7 +162,7 @@ Template
 # Trie
 # Union Find
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI4MjU0ODIsMTIxNzM3OTM5OCwxMj
+eyJoaXN0b3J5IjpbLTE0OTE4NDE5NjMsMTIxNzM3OTM5OCwxMj
 Q2MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5
 Mzk4MF19
 -->
