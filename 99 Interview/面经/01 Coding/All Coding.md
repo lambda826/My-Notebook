@@ -1,7 +1,7 @@
 Template
 <a id="LeetcodeXXXX" href="XXXX">[Leetcode XXXX. XXXX]</a> : <a href="XXX">**Solution**</a>
 
-<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
+
 
 
 # Array
@@ -158,6 +158,9 @@ Template
 # Stack
 # Monotonic Stack
 # Heap
+1509.  Minimum Difference Between Largest and Smallest Value in Three Moves
+<a id="Leetcode1509" href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">[Leetcode 1509. Minimum Difference Between Largest and Smallest Value in Three Moves]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
+
 # Greedy
 # Slide Window
 # Hash
@@ -168,7 +171,7 @@ Template
 
 <a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQxMjY4MTUsLTE5NDgzMzU0MCwxMj
-E3Mzc5Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMy
-NTA1LC0xMDM3MjkzOTgwXX0=
+eyJoaXN0b3J5IjpbMTExMjU3Mzc2NCwtMTk0ODMzNTQwLDEyMT
+czNzkzOTgsMTI0NjI2NjgwNSwxMDg3ODk0MzIyLC0xNTQ4MzI1
+MDUsLTEwMzcyOTM5ODBdfQ==
 -->
