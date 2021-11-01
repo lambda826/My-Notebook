@@ -159,6 +159,7 @@ Template
 # Monotonic Stack
 # Heap
 1509.  Minimum Difference Between Largest and Smallest Value in Three Moves
+
 <a id="Leetcode1509" href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">[Leetcode 1509. Minimum Difference Between Largest and Smallest Value in Three Moves]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
 
 # Greedy
@@ -171,7 +172,7 @@ Template
 
 <a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjU3Mzc2NCwtMTk0ODMzNTQwLDEyMT
+eyJoaXN0b3J5IjpbMTMyMTI1MzAxNCwtMTk0ODMzNTQwLDEyMT
 czNzkzOTgsMTI0NjI2NjgwNSwxMDg3ODk0MzIyLC0xNTQ4MzI1
 MDUsLTEwMzcyOTM5ODBdfQ==
 -->
