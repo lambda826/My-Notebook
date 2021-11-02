@@ -19,7 +19,10 @@ BigTable is a **distributed** and **massively scalable** wide-column store. It i
 # BigTable Data Model
 ![BigTable Four Dimensional Data Model](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/BigTable%20Four%20Dimensional%20Data%20Model.png)
 Four-dimensional data model
-- Row Key
+- Row
+	- Every read or write of data under a single row is atomic.
+		- This also means that atomicity across rows is not guaranteed
+
 - Column Family
 - Column Name
 - Timestamp
@@ -37,6 +40,6 @@ Four-dimensional data model
  -  A 64-bit timestamp identifies each version that either represents real time or a custom value assigned by the client.
  -  While reading, if no timestamp is specified, BigTable returns the most recent version.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTY2NTMyOSwtMTc1NjMxNTMwOSwtMT
-QyNDM5NTMyNiwtMTI1MzA5ODMwXX0=
+eyJoaXN0b3J5IjpbLTI3NzExODM5MCwyMTI1NjY1MzI5LC0xNz
+U2MzE1MzA5LC0xNDI0Mzk1MzI2LC0xMjUzMDk4MzBdfQ==
 -->
