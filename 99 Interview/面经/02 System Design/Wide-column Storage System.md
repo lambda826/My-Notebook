@@ -30,10 +30,13 @@ Four-dimensional data model
 
 ## Columns
  -	 New columns can be added on the fly.
+ -	 Short column names are better as names are passed in each data transfer
+ -	 BigTable is quite suitable for **sparse data**.
+	 -	Empty columns are not stored.
 ## Timestamps
  -  A 64-bit timestamp identifies each version that either represents real time or a custom value assigned by the client.
  -  While reading, if no timestamp is specified, BigTable returns the most recent version.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1NjAzMSwtMTc1NjMxNTMwOSwtMT
+eyJoaXN0b3J5IjpbMjEyNTY2NTMyOSwtMTc1NjMxNTMwOSwtMT
 QyNDM5NTMyNiwtMTI1MzA5ODMwXX0=
 -->
