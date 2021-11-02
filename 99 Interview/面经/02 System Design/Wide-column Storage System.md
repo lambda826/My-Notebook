@@ -29,10 +29,11 @@ Four-dimensional data model
 ## Column Families
 
 ## Columns
-
+ -	 New columns can be added on the fly.
 ## Timestamps
-A 64-bit timestamp identifies each version that either represents real time or a custom value assigned by the client. While reading, if no timestamp is specified, BigTable returns the most recent version.
+ -  A 64-bit timestamp identifies each version that either represents real time or a custom value assigned by the client.
+ -  While reading, if no timestamp is specified, BigTable returns the most recent version.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTQ1NjA2MywtMTc1NjMxNTMwOSwtMT
+eyJoaXN0b3J5IjpbLTE4Mzc1NjAzMSwtMTc1NjMxNTMwOSwtMT
 QyNDM5NTMyNiwtMTI1MzA5ODMwXX0=
 -->
