@@ -17,11 +17,14 @@ BigTable is a **distributed** and **massively scalable** wide-column store. It i
  -  Financial Data: Often represented as time-series data
 
 # BigTable Data Model
+![BigTable Four Dimensional Data Model](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/BigTable%20Four%20Dimensional%20Data%20Model.png)
 Four-dimensional data model
 - Row Key
 - Column Family
 - Column Name
 - Timestamp
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMwOTgzMF19
+eyJoaXN0b3J5IjpbLTE0MjQzOTUzMjYsLTEyNTMwOTgzMF19
 -->
