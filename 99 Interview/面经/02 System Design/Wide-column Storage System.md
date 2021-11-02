@@ -24,7 +24,14 @@ Four-dimensional data model
 - Column Name
 - Timestamp
 
+## Rows
 
+## Column Families
+
+## Columns
+
+## Timestamps
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQzOTUzMjYsLTEyNTMwOTgzMF19
+eyJoaXN0b3J5IjpbLTE3NTYzMTUzMDksLTE0MjQzOTUzMjYsLT
+EyNTMwOTgzMF19
 -->
