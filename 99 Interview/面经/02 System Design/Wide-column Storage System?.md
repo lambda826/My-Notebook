@@ -11,7 +11,8 @@ BigTable is a **distributed** and **massively scalable** wide-column store. It i
  -	BigTable is suitable to store large datasets that are greater than one TB where each row is less than 10MB. Since BigTable does not provide ACID (atomicity, consistency, isolation, durability) properties or transaction support, Online Transaction Processing ([OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)) applications with transaction processes should not use BigTable.
  -	For BigTable, data should be structured in the form of key-value pairs or rows-columns. Non-structured data like images or movies should not be stored in BigTable.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyODkwMjcsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNTIzNjc4MjksLTE2NzEyODkwMjcsLT
+IwODg3NDY2MTJdfQ==
 -->
