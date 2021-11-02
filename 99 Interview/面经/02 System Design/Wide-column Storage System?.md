@@ -7,8 +7,10 @@ BigTable is a **distributed** and **massively scalable** wide-column store. It i
  -	BigTable can be used as an input source or output destination for [MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html) jobs.
 
 ## BigTable Use Cases
-
+ - Store large amounts of data and perform thousands of queries per second on that data.
+ -	BigTable is suitable to store large datasets that are greater than one TB where each row is less than 10MB. Since BigTable does not provide ACID (atomicity, consistency, isolation, durability) properties or transaction support, Online Transaction Processing ([OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)) applications with transaction processes should not use BigTable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTk2NTAzMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2Mzc0NTMxNjgsLTIwODg3NDY2MTJdfQ
+==
 -->
