@@ -17,7 +17,12 @@ BigTable is a **distributed** and **massively scalable** wide-column store. It i
  -  Financial Data: Often represented as time-series data
 
 # BigTable Data Model
+Four-dimensional data model
+- Row Key
+- Column Family
+- Column Name
+- Timestamp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMjYyODI5LC0xNjcxMjg5MDI3LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEyNTMwOTgzMCwyMjEyNjI4MjksLTE2Nz
+EyODkwMjcsLTIwODg3NDY2MTJdfQ==
 -->
