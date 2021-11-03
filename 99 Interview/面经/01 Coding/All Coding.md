@@ -183,8 +183,10 @@ Template
 # Others
 
 <a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
+
+<a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzY2MjM0NywxODA3MzE2MzczLC0xMz
+eyJoaXN0b3J5IjpbMTUwMDE1ODA3MSwxODA3MzE2MzczLC0xMz
 QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
 Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
 0xMDM3MjkzOTgwXX0=
