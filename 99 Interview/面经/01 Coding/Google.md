@@ -38,6 +38,8 @@
 
 # Hash
 
+<a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a>
+
 # Trie
 
 # Union Find
@@ -95,5 +97,6 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNzQ3MTMzLDE1ODgzMDUxODVdfQ==
+eyJoaXN0b3J5IjpbLTM3ODM4NzY5NSw5MjM3NDcxMzMsMTU4OD
+MwNTE4NV19
 -->
