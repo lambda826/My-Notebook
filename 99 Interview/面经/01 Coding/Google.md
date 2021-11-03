@@ -30,7 +30,7 @@
 
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
 
-# Monotonic Stack
+## Monotonic Stack
 
 # Heap
 
@@ -99,6 +99,6 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTk5OTkyOCwxMzMyNTAwNjgsOTIzNz
+eyJoaXN0b3J5IjpbLTIyNDE4NDU1MywxMzMyNTAwNjgsOTIzNz
 Q3MTMzLDE1ODgzMDUxODVdfQ==
 -->
