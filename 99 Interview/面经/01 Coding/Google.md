@@ -42,6 +42,8 @@
 
 <a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a>
 
+<a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
+
 # Trie
 
 # Union Find
@@ -54,7 +56,6 @@
 依巫灵酒 37
 
 
-1048  26
 依污儿巫 24
 依思儿伞 23
 刘舅陵 22
@@ -99,6 +100,6 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDM5NjAwLDEzMzI1MDA2OCw5MjM3ND
-cxMzMsMTU4ODMwNTE4NV19
+eyJoaXN0b3J5IjpbMTczNTExMTE3NSwxMzU0Mzk2MDAsMTMzMj
+UwMDY4LDkyMzc0NzEzMywxNTg4MzA1MTg1XX0=
 -->
