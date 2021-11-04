@@ -1,32 +1,4 @@
 
-# Array
-
-## TwoSum
-<a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a>
-
-# String
-
-# Two Pointer
-
-# LinkedList
-
-# Binary Search
-
-# Sorting
-
-# BFS
-
-# BFS & DFS
-
-# DFS & Backtracking
-
-# Tree
-## LCA (Lowest Common Ancestor)
-
-# Graph
-
-# Dynamic Programming
-
 # Stack
 
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
@@ -101,7 +73,7 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExOTE0ODA1LDE3MzUxMTExNzUsMTM1ND
-M5NjAwLDEzMzI1MDA2OCw5MjM3NDcxMzMsMTU4ODMwNTE4NV19
-
+eyJoaXN0b3J5IjpbMTY1MDk2NDkwMiwxNzM1MTExMTc1LDEzNT
+QzOTYwMCwxMzMyNTAwNjgsOTIzNzQ3MTMzLDE1ODgzMDUxODVd
+fQ==
 -->
