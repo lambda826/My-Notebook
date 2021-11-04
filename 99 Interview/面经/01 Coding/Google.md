@@ -1,20 +1,4 @@
 
-# Stack
-
-<a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
-
-## Monotonic Stack
-
-# Heap
-
-# Greedy
-
-# Slide Window
-
-# Hash
-
-<a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a>
-
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
 
 # Trie
@@ -73,7 +57,7 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDk2NDkwMiwxNzM1MTExMTc1LDEzNT
+eyJoaXN0b3J5IjpbLTc4OTQ0MjM4NCwxNzM1MTExMTc1LDEzNT
 QzOTYwMCwxMzMyNTAwNjgsOTIzNzQ3MTMzLDE1ODgzMDUxODVd
 fQ==
 -->
