@@ -164,7 +164,7 @@ Google, Amazon, Facebook
 # Stack
 
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
-- Google,
+- Google, 
 
 # Monotonic Stack
 # Heap
@@ -189,8 +189,8 @@ Google, Amazon, Facebook
 
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYxOTc5OTgsMTgwNzMxNjM3MywtMT
-M0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3
-OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNS
-wtMTAzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbLTY4MzA2ODQwOCwxODA3MzE2MzczLC0xMz
+QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
+Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
+0xMDM3MjkzOTgwXX0=
 -->
