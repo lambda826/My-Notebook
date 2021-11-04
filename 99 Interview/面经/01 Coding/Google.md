@@ -1,3 +1,5 @@
+Google, Amazon, Facebook
+
 # Array
 
 ## TwoSum
@@ -100,6 +102,7 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTExMTE3NSwxMzU0Mzk2MDAsMTMzMj
-UwMDY4LDkyMzc0NzEzMywxNTg4MzA1MTg1XX0=
+eyJoaXN0b3J5IjpbLTY4OTkzOTY1NiwxNzM1MTExMTc1LDEzNT
+QzOTYwMCwxMzMyNTAwNjgsOTIzNzQ3MTMzLDE1ODgzMDUxODVd
+fQ==
 -->
