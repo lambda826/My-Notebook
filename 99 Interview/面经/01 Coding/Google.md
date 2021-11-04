@@ -1,19 +1,7 @@
-
-<a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
-
-# Trie
-
-# Union Find
-
-# Others
-
-<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
-
-
 依巫灵酒 37
 
 
-依污儿巫 24
+1525 依污儿巫 24
 依思儿伞 23
 刘舅陵 22
 医耳企妻 20
@@ -57,7 +45,7 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTQ0MjM4NCwxNzM1MTExMTc1LDEzNT
+eyJoaXN0b3J5IjpbMTE2NjAxMDQyMSwxNzM1MTExMTc1LDEzNT
 QzOTYwMCwxMzMyNTAwNjgsOTIzNzQ3MTMzLDE1ODgzMDUxODVd
 fQ==
 -->
