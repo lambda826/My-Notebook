@@ -1,4 +1,3 @@
-Google, Amazon, Facebook
 
 # Array
 
@@ -102,7 +101,7 @@ Google, Amazon, Facebook
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTkzOTY1NiwxNzM1MTExMTc1LDEzNT
-QzOTYwMCwxMzMyNTAwNjgsOTIzNzQ3MTMzLDE1ODgzMDUxODVd
-fQ==
+eyJoaXN0b3J5IjpbOTExOTE0ODA1LDE3MzUxMTExNzUsMTM1ND
+M5NjAwLDEzMzI1MDA2OCw5MjM3NDcxMzMsMTU4ODMwNTE4NV19
+
 -->
