@@ -77,6 +77,10 @@ Google, Amazon, Facebook
 
 
 # BFS & DFS
+<a id="Leetcode0690" href="https://leetcode.com/problems/employee-importance/">[Leetcode 0690.  Employee Importance]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
+- Google,
+
+
 # DFS & Backtracking
 ## Combination
 ### 1D
@@ -200,7 +204,7 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjI3MzgzMywxODA3MzE2MzczLC0xMz
+eyJoaXN0b3J5IjpbLTk0OTUzMDI5MywxODA3MzE2MzczLC0xMz
 QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
 Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
 0xMDM3MjkzOTgwXX0=
