@@ -174,10 +174,10 @@ Google, Amazon, Facebook
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
 - Google, 
 
-<a id="Leetcode1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a>
+<a id="Leetcode1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a>
 - Google, 
 
-<a id="Leetcode0221" href="https://leetcode.com/problems/maximal-square/">[Leetcode 0221.  Maximal Square]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/_0221_Maximal_Square.java">**Solution**</a>
+<a id="Leetcode0221" href="https://leetcode.com/problems/maximal-square/">[Leetcode 0221.  Maximal Square]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_0221_Maximal_Square.java">**Solution**</a>
 
 
 # Monotonic Stack
@@ -211,9 +211,9 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMT
-U2NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMTMyMTI1
-MzAxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2NjgwNS
-wxMDg3ODk0MzIyLC0xNTQ4MzI1MDUsLTEwMzcyOTM5ODBdfQ==
-
+eyJoaXN0b3J5IjpbMTk0NzY4MTczLC02OTc1OTI4NTEsMTI2Nz
+k0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2MzczLC0xMzQxNjcw
+Mzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5Mzk4LD
+EyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC0xMDM3
+MjkzOTgwXX0=
 -->
