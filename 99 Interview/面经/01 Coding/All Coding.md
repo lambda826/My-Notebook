@@ -174,6 +174,11 @@ Google, Amazon, Facebook
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
 - Google, 
 
+<a id="Leetcode1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
+- Google, 
+
+
+
 # Monotonic Stack
 # Heap
 
@@ -205,8 +210,8 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkxNjY4NjMsLTExNTY2MTgyMzcsMT
-gwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4
-MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMj
-IsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbLTE0NzkwNzEzNSwtMTE1NjYxODIzNywxOD
+A3MzE2MzczLC0xMzQxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgz
+MzU0MCwxMjE3Mzc5Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMi
+wtMTU0ODMyNTA1LC0xMDM3MjkzOTgwXX0=
 -->
