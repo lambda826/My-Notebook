@@ -178,6 +178,11 @@ Google, Amazon, Facebook
 
 # Greedy
 # Slide Window
+
+<a id="Leetcode1423" href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">[Leetcode 1423.  Maximum Points You Can Obtain from Cards]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1423_Maximum_Points_You_Can_Obtain_from_Cards.java">**Solution**</a>
+- Google, 
+
+
 # Hash
 
 <a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a>
@@ -195,7 +200,7 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTM5MDMxNywxODA3MzE2MzczLC0xMz
+eyJoaXN0b3J5IjpbMTA5MjI3MzgzMywxODA3MzE2MzczLC0xMz
 QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
 Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
 0xMDM3MjkzOTgwXX0=
