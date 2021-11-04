@@ -1,12 +1,14 @@
 Template
 <a id="Leetcode1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
 
+Google, Amazon, Facebook
 
 
 
 # Array
 
 <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
+- Google
 
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
@@ -186,8 +188,8 @@ Template
 
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDE1ODA3MSwxODA3MzE2MzczLC0xMz
-QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
-Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
-0xMDM3MjkzOTgwXX0=
+eyJoaXN0b3J5IjpbLTEwNjg3NDQ3NzIsMTgwNzMxNjM3MywtMT
+M0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3
+OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNS
+wtMTAzNzI5Mzk4MF19
 -->
