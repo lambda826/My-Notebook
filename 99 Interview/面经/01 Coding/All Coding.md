@@ -178,7 +178,7 @@ Google, Amazon, Facebook
 - Google, 
 
 <a id="Leetcode0221" href="https://leetcode.com/problems/maximal-square/">[Leetcode 0221.  Maximal Square]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/_0221_Maximal_Square.java">**Solution**</a>
-- Google, 
+
 
 # Monotonic Stack
 # Heap
@@ -211,7 +211,7 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjA4NjQxMywxMjY3OTQxNzYyLC0xMT
+eyJoaXN0b3J5IjpbLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMT
 U2NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMTMyMTI1
 MzAxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2NjgwNS
 wxMDg3ODk0MzIyLC0xNTQ4MzI1MDUsLTEwMzcyOTM5ODBdfQ==
