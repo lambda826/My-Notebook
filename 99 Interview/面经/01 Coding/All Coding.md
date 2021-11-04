@@ -8,7 +8,7 @@ Google, Amazon, Facebook
 # Array
 
 <a id="Leetcode0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0560_Subarray_Sum_Equals_K.java">**Solution**</a>
-- Google
+- Google,
 
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
@@ -164,6 +164,7 @@ Google, Amazon, Facebook
 # Stack
 
 <a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
+- Google,
 
 # Monotonic Stack
 # Heap
@@ -188,7 +189,7 @@ Google, Amazon, Facebook
 
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg3NDQ3NzIsMTgwNzMxNjM3MywtMT
+eyJoaXN0b3J5IjpbLTEzNjYxOTc5OTgsMTgwNzMxNjM3MywtMT
 M0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3
 OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNS
 wtMTAzNzI5Mzk4MF19
