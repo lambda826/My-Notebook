@@ -76,7 +76,7 @@ Google, Amazon, Facebook
 
 <a id="Leetcode0314" href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">[Leetcode 0314.  Binary Tree Vertical Order Traversal]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_0314_Binary_Tree_Vertical_Order_Traversal.java">**Solution**</a>
 
-<a id="Leetcode1730" href="https://leetcode.com/problems/shortest-path-to-get-food/">[Leetcode 1730.  Shortest Path to Get Food]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_0314_Binary_Tree_Vertical_Order_Traversal.java">**Solution**</a>
+<a id="Leetcode1730" href="https://leetcode.com/problems/shortest-path-to-get-food/">[Leetcode 1730.  Shortest Path to Get Food]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1730_Shortest_Path_to_Get_Food.java">**Solution**</a>
 
 
 # BFS & DFS
@@ -218,9 +218,9 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAyOTQyNzMsMTk0NzY4MTczLC02OT
-c1OTI4NTEsMTI2Nzk0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2
-MzczLC0xMzQxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MC
-wxMjE3Mzc5Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0
-ODMyNTA1LC0xMDM3MjkzOTgwXX0=
+eyJoaXN0b3J5IjpbLTU3MDgwNTcyMywxOTQ3NjgxNzMsLTY5Nz
+U5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4MjM3LDE4MDczMTYz
+NzMsLTEzNDE2NzAzOTYsMTMyMTI1MzAxNCwtMTk0ODMzNTQwLD
+EyMTczNzkzOTgsMTI0NjI2NjgwNSwxMDg3ODk0MzIyLC0xNTQ4
+MzI1MDUsLTEwMzcyOTM5ODBdfQ==
 -->
