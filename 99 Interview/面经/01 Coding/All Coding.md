@@ -76,17 +76,13 @@ Google, Amazon, Facebook
 <a id="Leetcode0314" href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">[Leetcode 0314.  Binary Tree Vertical Order Traversal]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_0314_Binary_Tree_Vertical_Order_Traversal.java">**Solution**</a>
 
 <a id="Leetcode1730" href="https://leetcode.com/problems/shortest-path-to-get-food/">[Leetcode 1730.  Shortest Path to Get Food]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1730_Shortest_Path_to_Get_Food.java">**Solution**</a>
-
-<a id="Leetcode1293" href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">[Leetcode 1293.  Shortest Path in a Grid with Obstacles Elimination]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java">**Solution**</a>
- -  Google, 
+<a id="Leetcode1293" href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">[Leetcode 1293.  Shortest Path in a Grid with Obstacles Elimination]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java">**Solution**</a> - Google, 
 
 # BFS & DFS
 
-<a id="Leetcode0690" href="https://leetcode.com/problems/employee-importance/">[Leetcode 0690.  Employee Importance]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0690_Employee_Importance.java">**Solution**</a>
-- Google,
+<a id="Leetcode0690" href="https://leetcode.com/problems/employee-importance/">[Leetcode 0690.  Employee Importance]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0690_Employee_Importance.java">**Solution**</a> - Google,
 
-<a id="Leetcode0200" href="https://leetcode.com/problems/number-of-islands/">[Leetcode 0200.  Number of Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0200_Number_of_Islands.java">**Solution**</a>
-- Google,
+<a id="Leetcode0200" href="https://leetcode.com/problems/number-of-islands/">[Leetcode 0200.  Number of Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0200_Number_of_Islands.java">**Solution**</a> - Google,
 
 
 
@@ -179,11 +175,9 @@ Google, Amazon, Facebook
 # Dynamic Programming
 # Stack
 
-<a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a>
-- Google, 
+<a id="Leetcode0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> - Google, 
 
-<a id="Leetcode1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a>
-- Google, 
+<a id="Leetcode1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a> - Google, 
 
 <a id="Leetcode0221" href="https://leetcode.com/problems/maximal-square/">[Leetcode 0221.  Maximal Square]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_0221_Maximal_Square.java">**Solution**</a>
 
@@ -198,28 +192,24 @@ Google, Amazon, Facebook
 # Greedy
 # Slide Window
 
-<a id="Leetcode1423" href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">[Leetcode 1423.  Maximum Points You Can Obtain from Cards]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1423_Maximum_Points_You_Can_Obtain_from_Cards.java">**Solution**</a>
-- Google, 
+<a id="Leetcode1423" href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">[Leetcode 1423.  Maximum Points You Can Obtain from Cards]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1423_Maximum_Points_You_Can_Obtain_from_Cards.java">**Solution**</a> - Google, 
 
 
 # Hash
 
-<a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a>
-- Google, 
+<a id="Leetcode0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a> - Google, 
 
 # Trie
 # Union Find
 
 # Others
 
-<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a>
-- Google, 
+<a id="Leetcode0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
-<a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a>
-- Google, 
+<a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYxMTMxMTgsLTIwNDMyMzkxMywtNT
+eyJoaXN0b3J5IjpbLTE4MzU5NjU1MzgsLTIwNDMyMzkxMywtNT
 cwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3
 NjIsLTExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5Ni
 wxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2
