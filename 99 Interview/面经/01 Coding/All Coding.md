@@ -55,7 +55,7 @@ Google, Amazon, Facebook
 
 <a id="Leetcode0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0146_LRU_Cache.java">**Solution**</a>
 
-<a id="Leetcode0146" href="https://leetcode.com/problems/add-two-numbers/">[Leetcode 0002.  Add Two Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0002_Add_Two_Numbers.java">**Solution**</a> 
+<a id="Leetcode0146" href="https://leetcode.com/problems/add-two-numbers/">[Leetcode 0002.  Add Two Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0002_Add_Two_Numbers.java">**Solution**</a> - Google, 
 
 # Binary Search
 
@@ -216,7 +216,7 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA2NjU5MywtMTMwMzMxMjE5NiwyOD
+eyJoaXN0b3J5IjpbMTMyMTk4ODI4NywtMTMwMzMxMjE5NiwyOD
 k4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2ODE3
 MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgyMzcsMT
 gwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4
