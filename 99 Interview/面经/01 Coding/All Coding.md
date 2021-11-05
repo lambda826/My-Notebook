@@ -13,12 +13,16 @@ Google, Amazon, Facebook
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031. Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
-<a id="Leetcode1525" href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">[Leetcode 1525.  Number of Good Ways to Split a String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_1525_Number_of_Good_Ways_to_Split_a_String.java">**Solution**</a>
-- Google, 
+<a id="Leetcode1525" href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">[Leetcode 1525.  Number of Good Ways to Split a String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_1525_Number_of_Good_Ways_to_Split_a_String.java">**Solution**</a> - Google, 
 
 ## TwoSum
 
-<a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a>
+<a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a> - Google
+
+## Interval
+<a id="Leetcode1525" href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">[Leetcode 0056.  Merge Intervals]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_1525_Number_of_Good_Ways_to_Split_a_String.java">**Solution**</a> - Google, 
+
+
 
 # String
 <a id="Leetcode0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0415_Add_Strings.java">**Solution**</a>
@@ -209,10 +213,10 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU5NjU1MzgsLTIwNDMyMzkxMywtNT
-cwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3
-NjIsLTExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5Ni
-wxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2
-MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mz
-k4MF19
+eyJoaXN0b3J5IjpbNjA5ODEzNzQyLC0yMDQzMjM5MTMsLTU3MD
+gwNTcyMywxOTQ3NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYy
+LC0xMTU2NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMT
+MyMTI1MzAxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2
+NjgwNSwxMDg3ODk0MzIyLC0xNTQ4MzI1MDUsLTEwMzcyOTM5OD
+BdfQ==
 -->
