@@ -57,6 +57,10 @@ Google, Amazon, Facebook
 
 <a id="Leetcode0146" href="https://leetcode.com/problems/add-two-numbers/">[Leetcode 0002.  Add Two Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0002_Add_Two_Numbers.java">**Solution**</a> - Google, 
 
+
+<a id="Leetcode0445" href="https://leetcode.com/problems/add-two-numbers-ii/">[Leetcode 0445.  Add Two Numbers II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_04_linkedList/_0445_Add_Two_Numbers_II.java">**Solution**</a>
+
+
 # Binary Search
 
 # Sorting
@@ -216,10 +220,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTk4ODI4NywtMTMwMzMxMjE5NiwyOD
-k4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2ODE3
-MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgyMzcsMT
-gwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4
-MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMj
-IsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMT
+MwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1
+NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLT
+ExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIx
+MjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2OD
+A1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
+
 -->
