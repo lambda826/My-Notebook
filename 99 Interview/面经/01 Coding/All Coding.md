@@ -16,7 +16,6 @@ Google, Amazon, Facebook
 <a id="Leetcode1525" href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">[Leetcode 1525.  Number of Good Ways to Split a String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_1525_Number_of_Good_Ways_to_Split_a_String.java">**Solution**</a> - Google, 
 
 ## TwoSum
-
 <a id="Leetcode0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a> - Google, 
 
 ## Interval
@@ -213,10 +212,10 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MD
-gwNTcyMywxOTQ3NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYy
-LC0xMTU2NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMT
-MyMTI1MzAxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2
-NjgwNSwxMDg3ODk0MzIyLC0xNTQ4MzI1MDUsLTEwMzcyOTM5OD
-BdfQ==
+eyJoaXN0b3J5IjpbNTc3MzM5OTgwLDI4OTgzMzk3OCwtMjA0Mz
+IzOTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1OTI4NTEs
+MTI2Nzk0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2MzczLC0xMz
+QxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5
+Mzk4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC
+0xMDM3MjkzOTgwXX0=
 -->
