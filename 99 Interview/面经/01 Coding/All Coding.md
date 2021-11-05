@@ -77,6 +77,8 @@ Google, Amazon, Facebook
 
 <a id="Leetcode1730" href="https://leetcode.com/problems/shortest-path-to-get-food/">[Leetcode 1730.  Shortest Path to Get Food]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1730_Shortest_Path_to_Get_Food.java">**Solution**</a>
 
+<a id="Leetcode1293" href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">[Leetcode 1293.  Shortest Path in a Grid with Obstacles Elimination]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_07_bfs/_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java">**Solution**</a>
+ -  Google, 
 
 # BFS & DFS
 
@@ -217,9 +219,10 @@ Google, Amazon, Facebook
 - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5ND
-c2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgy
-MzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC
-0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEwODc4
-OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
+eyJoaXN0b3J5IjpbLTIwMjYxMTMxMTgsLTIwNDMyMzkxMywtNT
+cwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3
+NjIsLTExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5Ni
+wxMzIxMjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2
+MjY2ODA1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mz
+k4MF19
 -->
