@@ -97,6 +97,9 @@ Google, Amazon, Facebook
 
 <a id="Leetcode0695" href="https://leetcode.com/problems/max-area-of-island/">[Leetcode 0695.  Max Area of Island]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/_0695_Max_Area_of_Island.java">**Solution**</a> - Google,
 
+<a id="Leetcode0394" href="https://leetcode.com/problems/decode-string/">[Leetcode 0394.  Decode String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/_0394_Decode_String.java">**Solution**</a> - Google,
+
+
 
 ## Combination
 ### 1D
@@ -220,11 +223,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMT
-MwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1
-NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLT
-ExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIx
-MjUzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2OD
-A1LDEwODc4OTQzMjIsLTE1NDgzMjUwNSwtMTAzNzI5Mzk4MF19
-
+eyJoaXN0b3J5IjpbMTYzODQzNjkxMiwtMTUxODM5ODk3NCwxMz
+IxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwtMjA0MzIz
+OTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1OTI4NTEsMT
+I2Nzk0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2MzczLC0xMzQx
+NjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5Mz
+k4LDEyNDYyNjY4MDUsMTA4Nzg5NDMyMiwtMTU0ODMyNTA1LC0x
+MDM3MjkzOTgwXX0=
 -->
