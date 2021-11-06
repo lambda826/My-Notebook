@@ -1,3 +1,7 @@
+#: Importance
+*: Difficulty
+
+
 Template
 <a id="Leetcode1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
 
@@ -97,7 +101,8 @@ Google, Amazon, Facebook
 
 <a id="Leetcode0695" href="https://leetcode.com/problems/max-area-of-island/">[Leetcode 0695.  Max Area of Island]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/_0695_Max_Area_of_Island.java">**Solution**</a> - Google,
 
-<a id="Leetcode0394" href="https://leetcode.com/problems/decode-string/">[Leetcode 0394.  Decode String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/_0394_Decode_String.java">**Solution**</a> - Google,
+<a id="Leetcode0394" href="https://leetcode.com/problems/decode-string/">[Leetcode 0394.  Decode String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/_0394_Decode_String.java">**Solution**</a> - ##, * - Google,
+
 
 
 
@@ -223,7 +228,7 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODQzNjkxMiwtMTUxODM5ODk3NCwxMz
+eyJoaXN0b3J5IjpbMjAwNDE3NzExMSwtMTUxODM5ODk3NCwxMz
 IxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwtMjA0MzIz
 OTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1OTI4NTEsMT
 I2Nzk0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2MzczLC0xMzQx
