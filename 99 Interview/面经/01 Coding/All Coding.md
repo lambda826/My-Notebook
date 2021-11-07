@@ -6,7 +6,12 @@ Steps:
 2. Analysis the question to find solution
 	2.1. Break down the question into smaller ones
 	2.2. Define steps to solve the question
-3. 
+3. Write code, keep communicating with interviewer
+4. Double check code
+	4.1. Try to find any bugs
+	4.2. Corner cases
+5. Analysis complesity
+6. Run test case
 
 Template
 <a id="Leetcode1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
@@ -240,11 +245,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MzMyMjIzLC0xNjM2NDA3OTE4LC0xNj
-c5NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMz
-MTIxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMy
-wxOTQ3NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2
-NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMTMyMTI1Mz
-AxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2NjgwNSwx
-MDg3ODk0MzIyXX0=
+eyJoaXN0b3J5IjpbLTY2NzM2Mzk2OCwtMTYzNjQwNzkxOCwtMT
+Y3OTQ1MzU5OSwtMTUxODM5ODk3NCwxMzIxOTg4Mjg3LC0xMzAz
+MzEyMTk2LDI4OTgzMzk3OCwtMjA0MzIzOTEzLC01NzA4MDU3Mj
+MsMTk0NzY4MTczLC02OTc1OTI4NTEsMTI2Nzk0MTc2MiwtMTE1
+NjYxODIzNywxODA3MzE2MzczLC0xMzQxNjcwMzk2LDEzMjEyNT
+MwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5Mzk4LDEyNDYyNjY4MDUs
+MTA4Nzg5NDMyMl19
 -->
