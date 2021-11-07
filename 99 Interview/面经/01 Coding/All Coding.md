@@ -184,7 +184,6 @@ Target companies:
 
 
 #### Post-order
-
 <a id="Leetcode1110" href="https://leetcode.com/problems/delete-nodes-and-return-forest/">[Leetcode 1110.  Delete Nodes And Return Forest]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_1110_Delete_Nodes_And_Return_Forest.java">**Solution**</a> ***## - Google, 
 
 
@@ -229,11 +228,11 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk1NTEzMTIsOTA2ODQ2NjY5LC0xNz
-QxNTAyMzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5NDUz
-NTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMzMTIxOT
-YsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMywxOTQ3
-NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4Mj
-M3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMTMyMTI1MzAxNCwt
-MTk0ODMzNTQwXX0=
+eyJoaXN0b3J5IjpbMTg1MzM2MTg4Niw5MDY4NDY2NjksLTE3ND
+E1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1
+OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMxMjE5Ni
+wyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2
+ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgyMz
+csMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0x
+OTQ4MzM1NDBdfQ==
 -->
