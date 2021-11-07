@@ -17,7 +17,7 @@
 Target companies:
  -  Google
  -  Facebook
- -  Amazon,
+ -  Amazon
 
 
 
@@ -246,7 +246,7 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc0NTAwMDksMzY0NzcxNTEsLTE2Mz
+eyJoaXN0b3J5IjpbLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2Mz
 Y0MDc5MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4
 ODI4NywtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMy
 wtNTcwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5
