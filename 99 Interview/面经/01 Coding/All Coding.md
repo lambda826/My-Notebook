@@ -1,6 +1,12 @@
 *: Importance
 #: Difficulty
 
+Steps:
+1. Understand the question
+2. Analysis the question to find solution
+	2.1. Break down the question into smaller ones
+	2.2. Define steps to solve the question
+3. 
 
 Template
 <a id="Leetcode1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
@@ -234,11 +240,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLT
-E1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMxMjE5NiwyODk4
-MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2ODE3My
-wtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgyMzcsMTgw
-NzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0xOTQ4Mz
-M1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEwODc4OTQzMjIs
-LTE1NDgzMjUwNV19
+eyJoaXN0b3J5IjpbNzA0MzMyMjIzLC0xNjM2NDA3OTE4LC0xNj
+c5NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMz
+MTIxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMy
+wxOTQ3NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2
+NjE4MjM3LDE4MDczMTYzNzMsLTEzNDE2NzAzOTYsMTMyMTI1Mz
+AxNCwtMTk0ODMzNTQwLDEyMTczNzkzOTgsMTI0NjI2NjgwNSwx
+MDg3ODk0MzIyXX0=
 -->
