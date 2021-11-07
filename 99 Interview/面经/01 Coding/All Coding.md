@@ -185,28 +185,9 @@ Target companies:
 
 ## Post-order
 
-<a id="Leetcode124" href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">[Leetcode 124].</a> Binary Tree Maximum Path Sum
+<a id="Leetcode1110" href="https://leetcode.com/problems/delete-nodes-and-return-forest/">[Leetcode 1110.  Delete Nodes And Return Forest]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_1110_Delete_Nodes_And_Return_Forest.java">**Solution**</a> ***## - Google, 
 
-```java
-    // Post-order
-    public int maxPathSum(TreeNode root) {
-        int[] max = { root.val };
-        postOrder(root, max);
-        return max[0];
-    }
 
-    private int postOrder(TreeNode node, int[] max) {
-        if (node != null) {
-            int left = Math.max(0, postOrder(node.left, max));
-            int right = Math.max(0, postOrder(node.right, max));
-            int val = node.val + Math.max(left, right);
-            max[0] = Math.max(max[0], node.val + left + right);
-            return val;
-        } else {
-            return 0;
-        }
-    }
-```
 
 # Graph
 # Dynamic Programming
@@ -248,11 +229,11 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2ODQ2NjY5LC0xNzQxNTAyMzIzLDM2ND
-c3MTUxLC0xNjM2NDA3OTE4LC0xNjc5NDUzNTk5LC0xNTE4Mzk4
-OTc0LDEzMjE5ODgyODcsLTEzMDMzMTIxOTYsMjg5ODMzOTc4LC
-0yMDQzMjM5MTMsLTU3MDgwNTcyMywxOTQ3NjgxNzMsLTY5NzU5
-Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4MjM3LDE4MDczMTYzNz
-MsLTEzNDE2NzAzOTYsMTMyMTI1MzAxNCwtMTk0ODMzNTQwLDEy
-MTczNzkzOThdfQ==
+eyJoaXN0b3J5IjpbNTEzMDgwMDQ4LDkwNjg0NjY2OSwtMTc0MT
+UwMjMyMywzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5
+OSwtMTUxODM5ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LD
+I4OTgzMzk3OCwtMjA0MzIzOTEzLC01NzA4MDU3MjMsMTk0NzY4
+MTczLC02OTc1OTI4NTEsMTI2Nzk0MTc2MiwtMTE1NjYxODIzNy
+wxODA3MzE2MzczLC0xMzQxNjcwMzk2LDEzMjEyNTMwMTQsLTE5
+NDgzMzU0MF19
 -->
