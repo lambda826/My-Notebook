@@ -14,10 +14,10 @@
 5. Analysis complesity.
 6. Run test cases.
 
-Template
-<a id="Leetcode1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
-
-Google, Amazon, Facebook
+Target companies:
+ -  Google
+ - Facebook
+ - Amazon,
 
 
 
@@ -246,11 +246,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nz
-k0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMx
-MjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLD
-E5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2
-MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMD
-E0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEw
-ODc4OTQzMjJdfQ==
+eyJoaXN0b3J5IjpbMTAzMDUzMTE1MywzNjQ3NzE1MSwtMTYzNj
+QwNzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5ODk3NCwxMzIxOTg4
+Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwtMjA0MzIzOTEzLC
+01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1OTI4NTEsMTI2Nzk0
+MTc2MiwtMTE1NjYxODIzNywxODA3MzE2MzczLC0xMzQxNjcwMz
+k2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwxMjE3Mzc5Mzk4LDEy
+NDYyNjY4MDVdfQ==
 -->
