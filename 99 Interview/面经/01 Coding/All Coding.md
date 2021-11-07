@@ -177,12 +177,14 @@ Target companies:
 
 <a id="Leetcode0428" href="https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/">[Leetcode 0428. Serialize and Deserialize N-ary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/serialization/_0428_Serialize_and_Deserialize_N_ary_Tree.java">**Solution**</a>
 
-## Pre-order
+## Traversal
+### Ordered Traversal
+### Pre-order
 
 <a id="Leetcode0129" href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">[Leetcode 0129.  Sum Root to Leaf Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_0129_Sum_Root_to_Leaf_Numbers.java">**Solution**</a>
 
 
-## Post-order
+### Post-order
 
 <a id="Leetcode1110" href="https://leetcode.com/problems/delete-nodes-and-return-forest/">[Leetcode 1110.  Delete Nodes And Return Forest]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_10_tree/traversal/ordered/_1110_Delete_Nodes_And_Return_Forest.java">**Solution**</a> ***## - Google, 
 
@@ -228,7 +230,7 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDU4NDM4Miw5MDY4NDY2NjksLTE3ND
+eyJoaXN0b3J5IjpbLTc3MDQzMzMwNiw5MDY4NDY2NjksLTE3ND
 E1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1
 OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMxMjE5Ni
 wyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2
