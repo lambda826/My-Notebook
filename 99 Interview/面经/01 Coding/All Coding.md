@@ -1,3 +1,4 @@
+**Remark**:
 *: Importance
 #: Difficulty
 
@@ -245,11 +246,11 @@ Google, Amazon, Facebook
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQwMTA4OTcsLTE2MzY0MDc5MTgsLT
-E2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMw
-MzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1Nz
-IzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTEx
-NTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMj
-UzMDE0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1
-LDEwODc4OTQzMjJdfQ==
+eyJoaXN0b3J5IjpbMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nz
+k0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMx
+MjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLD
+E5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2
+MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMD
+E0LC0xOTQ4MzM1NDAsMTIxNzM3OTM5OCwxMjQ2MjY2ODA1LDEw
+ODc4OTQzMjJdfQ==
 -->
