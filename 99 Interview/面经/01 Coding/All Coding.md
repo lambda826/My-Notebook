@@ -231,7 +231,7 @@ Target companies:
 
 <a id="Leetcode1423" href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">[Leetcode 1423.  Maximum Points You Can Obtain from Cards]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1423_Maximum_Points_You_Can_Obtain_from_Cards.java">**Solution**</a> - Google, 
 
-<a id="Leetcode1610" href="https://leetcode.com/problems/maximum-number-of-visible-points/">[Leetcode 1610.  Maximum Number of Visible Points]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1610_Maximum_Number_of_Visible_Points.java">**Solution**</a> - Google, 
+<a id="Leetcode1610" href="https://leetcode.com/problems/maximum-number-of-visible-points/">[Leetcode 1610.  Maximum Number of Visible Points]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1610_Maximum_Number_of_Visible_Points.java">**Solution**</a> **## - Google, 
 
 
 # Hash
@@ -248,7 +248,7 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzE1MTUxMCwtMTc0MTUwMjMyMywzNj
+eyJoaXN0b3J5IjpbLTM4NDA0NzcwNCwtMTc0MTUwMjMyMywzNj
 Q3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5
 ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OC
 wtMjA0MzIzOTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1
