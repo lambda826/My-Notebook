@@ -231,7 +231,7 @@ Target companies:
 
 <a id="Leetcode1423" href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">[Leetcode 1423.  Maximum Points You Can Obtain from Cards]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1423_Maximum_Points_You_Can_Obtain_from_Cards.java">**Solution**</a> - Google, 
 
-<a id="Leetcode1610" href="https://leetcode.com/problems/maximum-number-of-visible-points/">[Leetcode 1610.  Maximum Number of Visible Points]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1610_Maximum_Number_of_Visible_Points.java">**Solution**</a> **##### - Google, 
+<a id="Leetcode1610" href="https://leetcode.com/problems/maximum-number-of-visible-points/">[Leetcode 1610.  Maximum Number of Visible Points]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_17_slidingWindow/_1610_Maximum_Number_of_Visible_Points.java">**Solution**</a> **### - Google, 
 
 
 # Hash
@@ -248,11 +248,11 @@ Target companies:
 <a id="Leetcode1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzgxMDQ3NywtMTc0MTUwMjMyMywzNj
-Q3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5
-ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OC
-wtMjA0MzIzOTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02OTc1
-OTI4NTEsMTI2Nzk0MTc2MiwtMTE1NjYxODIzNywxODA3MzE2Mz
-czLC0xMzQxNjcwMzk2LDEzMjEyNTMwMTQsLTE5NDgzMzU0MCwx
-MjE3Mzc5Mzk4XX0=
+eyJoaXN0b3J5IjpbOTA2ODQ2NjY5LC0xNzQxNTAyMzIzLDM2ND
+c3MTUxLC0xNjM2NDA3OTE4LC0xNjc5NDUzNTk5LC0xNTE4Mzk4
+OTc0LDEzMjE5ODgyODcsLTEzMDMzMTIxOTYsMjg5ODMzOTc4LC
+0yMDQzMjM5MTMsLTU3MDgwNTcyMywxOTQ3NjgxNzMsLTY5NzU5
+Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4MjM3LDE4MDczMTYzNz
+MsLTEzNDE2NzAzOTYsMTMyMTI1MzAxNCwtMTk0ODMzNTQwLDEy
+MTczNzkzOThdfQ==
 -->
