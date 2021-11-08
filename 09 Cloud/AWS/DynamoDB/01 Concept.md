@@ -68,8 +68,13 @@ Each stream record also contains the name of the table, the event timestamp, and
 -  Creating Data
 	-  `PutItem`
 	-  `BatchWriteItem`
-- Reading Data
+-  Reading Data
+	- `GetItem`
+	- `BatchGetItem`
+	- `Query`
+	- `Scan`
 -  Updating Data
+	- 
 -  Deleting Data
 
 ## DynamoDB Streams
@@ -77,6 +82,6 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk1NTIwNTgsLTg3NDg2NzU1OSwxMT
+eyJoaXN0b3J5IjpbLTE2NjIzOTY1NTgsLTg3NDg2NzU1OSwxMT
 c1MDI0ODYxXX0=
 -->
