@@ -33,9 +33,9 @@ An _attribute_ is a fundamental data element, something that does not need to be
 
 
 ## Secondary Indexes
-
+A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the primary key.
 
 ## DynamoDB Streams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTAyNDg2MV19
+eyJoaXN0b3J5IjpbMjYyMzA4NDU3LDExNzUwMjQ4NjFdfQ==
 -->
