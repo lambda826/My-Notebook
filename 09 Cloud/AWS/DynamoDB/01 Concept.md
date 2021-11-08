@@ -63,6 +63,9 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 ## [Data Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.DataPlane)
 ### PartiQL - A SQL-Compatible Query Language
+-  `ExecuteStatement`
+-  `BatchExecuteStatement`
+
 
 ### Classic APIs
 -  Creating Data
@@ -90,10 +93,13 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 
 ## DynamoDB Streams
-
+-  `ListStreams`
+-  `DescribeStream`
+-  `GetShardIterator`
+-  `GetRecords`
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NTgwMDY1LC04NzQ4Njc1NTksMTE3NT
-AyNDg2MV19
+eyJoaXN0b3J5IjpbLTE0NDk5MDUzMTcsLTg3NDg2NzU1OSwxMT
+c1MDI0ODYxXX0=
 -->
