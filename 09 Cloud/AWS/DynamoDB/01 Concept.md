@@ -93,14 +93,20 @@ Each stream record also contains the name of the table, the event timestamp, and
 	-  `BatchWriteItem`
 
 
-## DynamoDB Streams
+## [DynamoDB Streams](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.Streams)
 -  `ListStreams`
 -  `DescribeStream`
 -  `GetShardIterator`
 -  `GetRecords`
 
-## Transactions
+## [Transactions](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.Transactions)
+### PartiQL - A SQL-Compatible Query Language
+-  `ExecuteTransaction`
+### Classic APIs
+-  `TransactWriteItems`
+-  `TransactGetItems`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM2ODI4MDgsLTg3NDg2NzU1OSwxMT
+eyJoaXN0b3J5IjpbLTE3NzI4ODM3NzIsLTg3NDg2NzU1OSwxMT
 c1MDI0ODYxXX0=
 -->
