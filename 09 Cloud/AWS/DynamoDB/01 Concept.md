@@ -62,10 +62,11 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 
 ## [Data Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.DataPlane)
+
 ### PartiQL - A SQL-Compatible Query Language
 -  `ExecuteStatement`
+	-  Reads multiple items from a table. You can also write or update a single item from a table.
 -  `BatchExecuteStatement`
-
 
 ### Classic APIs
 -  Creating Data
@@ -100,6 +101,6 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk5MDUzMTcsLTg3NDg2NzU1OSwxMT
+eyJoaXN0b3J5IjpbLTE3MDM2ODI4MDgsLTg3NDg2NzU1OSwxMT
 c1MDI0ODYxXX0=
 -->
