@@ -18,9 +18,15 @@ Amazon DynamoDB is a fully managed NoSQL database service that provides fast and
 -  Each item in the table has a unique identifier, or primary key, that distinguishes the item from all of the others in the table.
 -  Other than the primary key, table is schemaless
 	-  Neither the attributes nor their data types need to be defined beforehand. Each item can have its own distinct attributes.
+
 ## Attributes
 An _attribute_ is a fundamental data element, something that does not need to be broken down any further.
 
+
+## Primary Key
+-  Uniquely identifies each item in the table, so that no two items can have the same key.
+-  DynamoDB supports two different kinds of primary keys:
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM3NzkyMzhdfQ==
+eyJoaXN0b3J5IjpbMzEzMTY0NjYxXX0=
 -->
