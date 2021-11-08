@@ -72,25 +72,27 @@ Each stream record also contains the name of the table, the event timestamp, and
 		- Writes up to 25 items to a table.
 		- You can also use `BatchWriteItem` for deleting multiple items from one or more tables.
 -  Reading Data
-	- `GetItem`
+	-  `GetItem`
 		- Retrieves a single item from a table. You must specify the primary key for the item that you want.
-	- `BatchGetItem`
+	-  `BatchGetItem`
 		- Retrieves up to 100 items from one or more tables.
-	- `Query`
+	-  `Query`
 		- Retrieves all items that have a specific partition key. You must specify the partition key value.
 		- Optionally, you can apply a condition to the sort key values so that you only retrieve a subset of the data that has the same partition key.
-	- `Scan`
+	-  `Scan`
 		- Retrieves all items in the specified table or index.
 		- Optionally, you can apply a filtering condition to return only the values that you are interested in and discard the rest.
 -  Updating Data
-	- 
+	-  `UpdateItem`
 -  Deleting Data
+	-  `DeleteItem`
+	-  `BatchWriteItem`
 
 ## DynamoDB Streams
 
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMTM1NzkzLC04NzQ4Njc1NTksMTE3NT
+eyJoaXN0b3J5IjpbOTU2Mzc0MjU5LC04NzQ4Njc1NTksMTE3NT
 AyNDg2MV19
 -->
