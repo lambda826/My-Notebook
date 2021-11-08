@@ -67,10 +67,15 @@ Each stream record also contains the name of the table, the event timestamp, and
 ### Classic APIs
 -  Creating Data
 	-  `PutItem`
+		- Writes a single item to a table.
 	-  `BatchWriteItem`
+		- Writes up to 25 items to a table.
+		- You can also use `BatchWriteItem` for deleting multiple items from one or more tables.
 -  Reading Data
 	- `GetItem`
+		- Retrieves a single item from a table. You must specify the primary key for the item that you want.
 	- `BatchGetItem`
+		- Retrieves up to 100 items from one or more tables.
 	- `Query`
 		- Retrieves all items that have a specific partition key. You must specify the partition key value.
 		- Optionally, you can apply a condition to the sort key values so that you only retrieve a subset of the data that has the same partition key.
@@ -86,6 +91,6 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTEyMTUyOSwtODc0ODY3NTU5LDExNz
-UwMjQ4NjFdfQ==
+eyJoaXN0b3J5IjpbMzMxMTM1NzkzLC04NzQ4Njc1NTksMTE3NT
+AyNDg2MV19
 -->
