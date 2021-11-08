@@ -40,6 +40,15 @@ An _attribute_ is a fundamental data element, something that does not need to be
 
 
 ## DynamoDB Streams
+DynamoDB Streams is an optional feature that captures data modification events in DynamoDB tables. The data about these events appear in the stream in near-real time, and in the order that the events occurred.
+
+Each event is represented by a  _stream record_. If you enable a stream on a table, DynamoDB Streams writes a stream record whenever one of the following events occurs:
+-  A new item is added to the table: The stream captures an image of the entire item, including all of its attributes.
+-  An item is updated: The stream captures the "before" and "after" image of any attributes that were modified in the item.
+-  An item is deleted from the table: The stream captures an image of the entire item before it was deleted.
+
+Each stream record also contains the name of the table, the event timestamp, and other metadata. Stream records have a lifetime of 24 hours; after that, they are automatically removed from the stream.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDg2NzU1OSwxMTc1MDI0ODYxXX0=
+eyJoaXN0b3J5IjpbLTExNzQzNTI4NzEsLTg3NDg2NzU1OSwxMT
+c1MDI0ODYxXX0=
 -->
