@@ -48,7 +48,21 @@ Each event is represented by a  _stream record_. If you enable a stream on a tab
 -  An item is deleted from the table: The stream captures an image of the entire item before it was deleted.
 
 Each stream record also contains the name of the table, the event timestamp, and other metadata. Stream records have a lifetime of 24 hours; after that, they are automatically removed from the stream.
+
+
+# [DynamoDB API](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html)
+
+## Control Plane
+
+
+
+## Data Plane
+
+## DynamoDB Streams
+
+
+## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQzNTI4NzEsLTg3NDg2NzU1OSwxMT
+eyJoaXN0b3J5IjpbLTEyMTE5MjA2MTksLTg3NDg2NzU1OSwxMT
 c1MDI0ODYxXX0=
 -->
