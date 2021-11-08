@@ -6,6 +6,15 @@ Amazon DynamoDB is a fully managed NoSQL database service that provides fast and
 -  Delete expired items from tables automatically.
 -	High Availability and Durability.
 	-	DynamoDB automatically spreads the data and traffic for your tables over a sufficient number of servers to handle your throughput and storage requirements, while maintaining consistent and fast performance.
+
+
+# [Core Components of Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
+## Tables
+
+## Items
+
+## Attributes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzExNDIzMzRdfQ==
+eyJoaXN0b3J5IjpbMTg2NTQ3MTg5NF19
 -->
