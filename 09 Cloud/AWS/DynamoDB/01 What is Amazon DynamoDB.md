@@ -10,11 +10,14 @@ Amazon DynamoDB is a fully managed NoSQL database service that provides fast and
 
 # [Core Components of Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
 ## Tables
+A _table_ is a collection of data.
 
 ## Items
+An _item_ is a group of attributes that is uniquely identifiable among all of the other items.
 
 ## Attributes
+An _attribute_ is a fundamental data element, something that does not need to be broken down any further.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTQ3MTg5NF19
+eyJoaXN0b3J5IjpbLTE4ODUxNTE5NjhdfQ==
 -->
