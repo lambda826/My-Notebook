@@ -26,7 +26,13 @@ An _attribute_ is a fundamental data element, something that does not need to be
 ## Primary Key
 -  Uniquely identifies each item in the table, so that no two items can have the same key.
 -  DynamoDB supports two different kinds of primary keys:
-	- 
+	- **Partition key**
+	- **Partition key and sort key**
+
+
+## Secondary Indexes
+
+## DynamoDB Streams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMTY0NjYxXX0=
+eyJoaXN0b3J5IjpbLTYxNzY1Nzg0NV19
 -->
