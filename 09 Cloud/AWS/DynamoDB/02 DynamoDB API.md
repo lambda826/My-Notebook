@@ -48,10 +48,11 @@
 ## [Transactions](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.Transactions)
 ### PartiQL - A SQL-Compatible Query Language
 -  `ExecuteTransaction`
+
 ### Classic APIs
 -  `TransactWriteItems`
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkzMTEwODFdfQ==
+eyJoaXN0b3J5IjpbLTE4MTcwMjA0NzVdfQ==
 -->
