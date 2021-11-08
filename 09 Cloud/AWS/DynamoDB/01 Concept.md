@@ -72,7 +72,11 @@ Each stream record also contains the name of the table, the event timestamp, and
 	- `GetItem`
 	- `BatchGetItem`
 	- `Query`
+		- Retrieves all items that have a specific partition key. You must specify the partition key value.
+		- Optionally, you can apply a condition to the sort key values so that you only retrieve a subset of the data that has the same partition key.
 	- `Scan`
+		- Retrieves all items in the specified table or index.
+		- Optionally, you can apply a filtering condition to return only the values that you are interested in and discard the rest.
 -  Updating Data
 	- 
 -  Deleting Data
@@ -82,6 +86,6 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzOTY1NTgsLTg3NDg2NzU1OSwxMT
-c1MDI0ODYxXX0=
+eyJoaXN0b3J5IjpbMTkyOTEyMTUyOSwtODc0ODY3NTU5LDExNz
+UwMjQ4NjFdfQ==
 -->
