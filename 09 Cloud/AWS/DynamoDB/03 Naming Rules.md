@@ -1,5 +1,4 @@
 # [Naming Rules](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.NamingRulesDataTypes.html#HowItWorks.NamingRules)
-
 ## Rules
 -   All names must be encoded using UTF-8, and are case-sensitive.
 -   Table names and index names must be between 3 and 255 characters long, and can contain only the following characters:
@@ -19,5 +18,5 @@
 ## [Reserved Words and Special Characters](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ReservedWords.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2Mzg0OTc1XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ1NTE5OV19
 -->
