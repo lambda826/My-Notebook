@@ -14,6 +14,8 @@
 	    -   The names of any user-specified projected attributes (applicable only to local secondary indexes).
 
 
+Reserved Words and Special Characters
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ReservedWords.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzIyMTAxXX0=
+eyJoaXN0b3J5IjpbLTE1MTg5Njc1MV19
 -->
