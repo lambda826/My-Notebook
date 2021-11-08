@@ -62,15 +62,21 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 
 ## [Data Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.DataPlane)
+### PartiQL - A SQL-Compatible Query Language
 
-
-
+### Classic APIs
+-  Creating Data
+	-  `PutItem`
+	-  `BatchWriteItem`
+- Reading Data
+-  Updating Data
+-  Deleting Data
 
 ## DynamoDB Streams
 
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjQyMTk3NiwtODc0ODY3NTU5LDExNz
-UwMjQ4NjFdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjk1NTIwNTgsLTg3NDg2NzU1OSwxMT
+c1MDI0ODYxXX0=
 -->
