@@ -33,9 +33,13 @@ An _attribute_ is a fundamental data element, something that does not need to be
 
 
 ## Secondary Indexes
-A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the primary key.
+-  A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the primary key.
+-  DynamoDB supports two kinds of indexes:
+	-  Global secondary index – An index with a partition key and sort key that can be different from those on the table.
+	-  Local secondary index – An index that has the same partition key as the table, but a different sort key.
+
 
 ## DynamoDB Streams
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMzA4NDU3LDExNzUwMjQ4NjFdfQ==
+eyJoaXN0b3J5IjpbLTg3NDg2NzU1OSwxMTc1MDI0ODYxXX0=
 -->
