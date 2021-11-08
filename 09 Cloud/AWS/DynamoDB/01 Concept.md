@@ -52,17 +52,25 @@ Each stream record also contains the name of the table, the event timestamp, and
 
 # [DynamoDB API](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html)
 
-## Control Plane
+## [Control Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.ControlPlane)
+
+`CreateTable`
+`DescribeTable`
+`ListTables`
+`UpdateTable`
+`DeleteTable`
+
+
+## [Data Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.DataPlane)
 
 
 
-## Data Plane
 
 ## DynamoDB Streams
 
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE5MjA2MTksLTg3NDg2NzU1OSwxMT
-c1MDI0ODYxXX0=
+eyJoaXN0b3J5IjpbLTQyNjQyMTk3NiwtODc0ODY3NTU5LDExNz
+UwMjQ4NjFdfQ==
 -->
