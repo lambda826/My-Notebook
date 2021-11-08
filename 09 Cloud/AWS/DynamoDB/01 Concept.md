@@ -88,11 +88,12 @@ Each stream record also contains the name of the table, the event timestamp, and
 	-  `DeleteItem`
 	-  `BatchWriteItem`
 
+
 ## DynamoDB Streams
 
 
 ## Transactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2Mzc0MjU5LC04NzQ4Njc1NTksMTE3NT
+eyJoaXN0b3J5IjpbNDA2NTgwMDY1LC04NzQ4Njc1NTksMTE3NT
 AyNDg2MV19
 -->
