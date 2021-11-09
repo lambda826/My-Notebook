@@ -2,11 +2,9 @@ Dynamic Connectivity Problem
 -   The input is a sequence of pairs of integers
 	-   Where each integer represents an object of some type and we are to interpret the pair p q as meaning “p is connected to q” 
 	-   We assume that “is connected to” is an equivalence relation, which means that it is
-		- -   Reflexive
-    
--   Symmetric
-    
--   Transitive
+		-  Reflexive
+		-  Symmetric
+		-  Transitive
     
 
   
@@ -70,5 +68,5 @@ Operations
     
 -   Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTM4MDY1OV19
+eyJoaXN0b3J5IjpbMjExMzM2MzUzOF19
 -->
