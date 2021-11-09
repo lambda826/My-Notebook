@@ -5,12 +5,13 @@
 		-  Reflexive
 		-  Symmetric
 		-  Transitive
-    
+
+
 # Applications
 -   Networks
 -   Variable-name equivalence
 -   Mathematical sets
-    
+
 
 # Implementations
 ![Union Find](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Union%20Find.png)
@@ -22,15 +23,18 @@
 		-   To implement path compression, **we just add another loop to find() that sets the id[] entry corresponding to each node encountered along the way to link directly to the root**
 			-   The net result is to flatten the trees almost completely, approximating the ideal achieved by the quick-find algorithm
 
+
 ## Data Structure
 -   int[] root (index is subtree, value is root)
 -   int[] size
 -   Map<Integer, Integer> root
 -   Map<Integer, Integer> size
 
+
 ## Operations
 -   Find(index)
 -   Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMDc5NjEzLDE5ODQwNjc3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzg5NTI1Myw5NDEwNzk2MTMsMTk4ND
+A2Nzc3OF19
 -->
