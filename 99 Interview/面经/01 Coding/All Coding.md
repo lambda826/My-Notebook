@@ -229,14 +229,14 @@ Target companies:
 
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
-<a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
+<a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> *###- Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNT
-A5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC0xNzQxNTAy
-MzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5NDUzNTk5LC
-0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMzMTIxOTYsMjg5
-ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMywxOTQ3NjgxNz
-MsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4MjM3LDE4
-MDczMTYzNzNdfQ==
+eyJoaXN0b3J5IjpbMTY5NjE1OTA4MCwyMDA0MzgzMDUsLTEzNj
+czNjIyODYsLTE1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2
+NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLT
+E2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMw
+MzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1Nz
+IzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTEx
+NTY2MTgyMzddfQ==
 -->
