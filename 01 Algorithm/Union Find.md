@@ -33,10 +33,10 @@
 
 ## Operations
 -  Find(index)
-	- Returns an integer component identifier for a given site
+	- Returns an integer component identifier for a given site.
 -  Union(index1, index2)
-	- Merges two components if the two sites are in different components
+	- Merges two components if the two sites are in different components.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODgxMTI1LC0xMDg0NjMyMTYyLC03MD
-k5ODE3MTksOTQxMDc5NjEzLDE5ODQwNjc3NzhdfQ==
+eyJoaXN0b3J5IjpbLTkyMzUzNTMxOSwtMTA4NDYzMjE2MiwtNz
+A5OTgxNzE5LDk0MTA3OTYxMywxOTg0MDY3Nzc4XX0=
 -->
