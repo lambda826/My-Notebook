@@ -1,40 +1,40 @@
 # Dynamic Connectivity Problem
--   The input is a sequence of pairs of integers
-	-   Where each integer represents an object of some type and we are to interpret the pair p q as meaning “p is connected to q” 
-	-   We assume that “is connected to” is an equivalence relation, which means that it is
+-  The input is a sequence of pairs of integers
+	-  Where each integer represents an object of some type and we are to interpret the pair p q as meaning “p is connected to q” 
+	-  We assume that “is connected to” is an equivalence relation, which means that it is
 		-  Reflexive
 		-  Symmetric
 		-  Transitive
 
 
 # Applications
--   Networks
--   Variable-name equivalence
--   Mathematical sets
+-  Networks
+-  Variable-name equivalence
+-  Mathematical sets
 
 
 # Implementations
 ![Union Find](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Union%20Find.png)
--   **Weighted quick-union**
-	-   Rather than arbitrarily connecting the second tree to the first for union()
--   **We keep track of the size of each tree and always connect the smaller tree to the larger**
--   **Optimal algorithms (path compression)**
-	-   Ideally, we would like every node to link directly to the root of its tree, but we do not want to pay the price of changing a large number of links, as we did in the quick-find algorithm
-		-   To implement path compression, **we just add another loop to find() that sets the id[] entry corresponding to each node encountered along the way to link directly to the root**
-			-   The net result is to flatten the trees almost completely, approximating the ideal achieved by the quick-find algorithm
+-  **Weighted quick-union**
+	-  Rather than arbitrarily connecting the second tree to the first for union()
+-  **We keep track of the size of each tree and always connect the smaller tree to the larger**
+-  **Optimal algorithms (path compression)**
+	-  Ideally, we would like every node to link directly to the root of its tree, but we do not want to pay the price of changing a large number of links, as we did in the quick-find algorithm
+		-  To implement path compression, **we just add another loop to find() that sets the id[] entry corresponding to each node encountered along the way to link directly to the root**
+			-  The net result is to flatten the trees almost completely, approximating the ideal achieved by the quick-find algorithm
 
 
 ## Data Structure
--   int[] root (index is subtree, value is root)
--   int[] size
--   Map<Integer, Integer> root
--   Map<Integer, Integer> size
+-  int[] root (index is subtree, value is root)
+-  int[] size
+-  Map<Integer, Integer> root
+-  Map<Integer, Integer> size
 
 
 ## Operations
--   Find(index)
--   Union(index1, index2)
+-  Find(index)
+-  Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg5NTI1Myw5NDEwNzk2MTMsMTk4ND
+eyJoaXN0b3J5IjpbLTcwOTk4MTcxOSw5NDEwNzk2MTMsMTk4ND
 A2Nzc3OF19
 -->
