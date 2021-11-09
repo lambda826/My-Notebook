@@ -112,7 +112,7 @@ Target companies:
 
 # BFS & DFS
 
-<a id="Leetcode 0690" href="https://leetcode.com/problems/employee-importance/">[Leetcode 0690.  Employee Importance]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0690_Employee_Importance.java">**Solution**</a> - Google,
+<a id="Leetcode 0690" href="https://leetcode.com/problems/employee-importance/">[Leetcode 0690.  Employee Importance]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0690_Employee_Importance.java">**Solution**</a>  # - Google,
 
 <a id="Leetcode 0200" href="https://leetcode.com/problems/number-of-islands/">[Leetcode 0200.  Number of Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_08_bfs_dfs/_0200_Number_of_Islands.java">**Solution**</a> - Google,
 
@@ -232,11 +232,11 @@ Target companies:
 <a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjczNjIyODYsLTE1MDkyNDUwMDIsMT
-Y1MTkyNzE4MCw5MDY4NDY2NjksLTE3NDE1MDIzMjMsMzY0Nzcx
-NTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5Nz
-QsMTMyMTk4ODI4NywtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIw
-NDMyMzkxMywtNTcwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyOD
-UxLDEyNjc5NDE3NjIsLTExNTY2MTgyMzcsMTgwNzMxNjM3Mywt
-MTM0MTY3MDM5Nl19
+eyJoaXN0b3J5IjpbMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNT
+A5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC0xNzQxNTAy
+MzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5NDUzNTk5LC
+0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMzMTIxOTYsMjg5
+ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMywxOTQ3NjgxNz
+MsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0xMTU2NjE4MjM3LDE4
+MDczMTYzNzNdfQ==
 -->
