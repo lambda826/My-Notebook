@@ -222,7 +222,6 @@ Target companies:
 
 <a id="Leetcode 0359" href="https://leetcode.com/problems/logger-rate-limiter/">[Leetcode 0359.  Logger Rate Limiter]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_0359_Logger_Rate_Limiter.java">**Solution**</a> - Google, 
 
-
 <a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> *###- Google, 
 
 
@@ -234,11 +233,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYzOTkxNjQsMjAwNDM4MzA1LC0xMz
-Y3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2
-NjY5LC0xNzQxNTAyMzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC
-0xNjc5NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEz
-MDMzMTIxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNT
-cyMywxOTQ3NjgxNzMsLTY5NzU5Mjg1MSwxMjY3OTQxNzYyLC0x
-MTU2NjE4MjM3XX0=
+eyJoaXN0b3J5IjpbMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNj
+czNjIyODYsLTE1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2
+NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLT
+E2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMw
+MzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1Nz
+IzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTEx
+NTY2MTgyMzddfQ==
 -->
