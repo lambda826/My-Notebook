@@ -1,4 +1,4 @@
-Dynamic Connectivity Problem
+# Dynamic Connectivity Problem
 -   The input is a sequence of pairs of integers
 	-   Where each integer represents an object of some type and we are to interpret the pair p q as meaning “p is connected to q” 
 	-   We assume that “is connected to” is an equivalence relation, which means that it is
@@ -6,15 +6,14 @@ Dynamic Connectivity Problem
 		-  Symmetric
 		-  Transitive
     
-Applications
+# Applications
 -   Networks
 -   Variable-name equivalence
 -   Mathematical sets
     
 
-  
+# Implementations
 ![Union Find](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Union%20Find.png)
-Implementations
 -   **Weighted quick-union**
 	-   Rather than arbitrarily connecting the second tree to the first for union()
 -   **We keep track of the size of each tree and always connect the smaller tree to the larger**
@@ -23,15 +22,15 @@ Implementations
 		-   To implement path compression, **we just add another loop to find() that sets the id[] entry corresponding to each node encountered along the way to link directly to the root**
 			-   The net result is to flatten the trees almost completely, approximating the ideal achieved by the quick-find algorithm
 
-Data Structure
+## Data Structure
 -   int[] root (index is subtree, value is root)
 -   int[] size
 -   Map<Integer, Integer> root
 -   Map<Integer, Integer> size
 
-Operations
+## Operations
 -   Find(index)
 -   Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDA2Nzc3OF19
+eyJoaXN0b3J5IjpbOTQxMDc5NjEzLDE5ODQwNjc3NzhdfQ==
 -->
