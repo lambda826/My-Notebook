@@ -1,6 +1,6 @@
 # Dynamic Connectivity Problem
 -  The input is a sequence of pairs of integers
-	-  Where each integer represents an object of some type and we are to interpret the pair p q as meaning “p is connected to q” 
+	-  Where each integer represents an object of some type and we are to interpret the pair p q as meaning "p is connected to q".
 	-  We assume that “is connected to” is an equivalence relation, which means that it is
 		-  Reflexive
 		-  Symmetric
@@ -35,6 +35,6 @@
 -  Find(index)
 -  Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTk4MTcxOSw5NDEwNzk2MTMsMTk4ND
-A2Nzc3OF19
+eyJoaXN0b3J5IjpbLTEwODQ2MzIxNjIsLTcwOTk4MTcxOSw5ND
+EwNzk2MTMsMTk4NDA2Nzc3OF19
 -->
