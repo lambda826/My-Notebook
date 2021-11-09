@@ -13,7 +13,7 @@ Applications
     
 
   
-
+![Union Find](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Union%20Find.png)
 Implementations
 -   **Weighted quick-union**
 	-   Rather than arbitrarily connecting the second tree to the first for union()
@@ -33,5 +33,5 @@ Operations
 -   Find(index)
 -   Union(index1, index2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg0MTYzODNdfQ==
+eyJoaXN0b3J5IjpbMTk4NDA2Nzc3OF19
 -->
