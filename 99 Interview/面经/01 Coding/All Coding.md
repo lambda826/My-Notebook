@@ -58,7 +58,7 @@ Target companies:
 
 <a id="Leetcode 1216" href="https://leetcode.com/problems/valid-palindrome-iii/">[Leetcode 1216. Valid Palindrome III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_1216_Valid_Palindrome_III.java">**Solution**</a>
 
-<a id="Leetcode 0005" href="https://leetcode.com/problems/longest-palindromic-substring/">[Leetcode 0005. Longest Palindromic Substring]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0005_Longest_Palindromic_Substring.java">**Solution**</a>
+<a id="Leetcode 0005" href="https://leetcode.com/problems/longest-palindromic-substring/">[Leetcode 0005. Longest Palindromic Substring]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/palindrome/_0005_Longest_Palindromic_Substring.java">**Solution**</a> **###- Google
 
 ## Parentheses
 * <a id="Leetcode 0020" href="https://leetcode.com/problems/valid-parentheses/">[Leetcode 0020. Valid Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/parentheses/_0020_Valid_Parentheses.java">**Solution**</a>
@@ -230,11 +230,11 @@ Target companies:
 <a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTkyNzE4MCw5MDY4NDY2NjksLTE3ND
-E1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1
-OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMxMjE5Ni
-wyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1NzIzLDE5NDc2
-ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTExNTY2MTgyMz
-csMTgwNzMxNjM3MywtMTM0MTY3MDM5NiwxMzIxMjUzMDE0LC0x
-OTQ4MzM1NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjA2NzA4ODMsMTY1MTkyNzE4MCw5MD
+Y4NDY2NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5
+MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4Ny
+wtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcw
+ODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3Nj
+IsLTExNTY2MTgyMzcsMTgwNzMxNjM3MywtMTM0MTY3MDM5Niwx
+MzIxMjUzMDE0XX0=
 -->
