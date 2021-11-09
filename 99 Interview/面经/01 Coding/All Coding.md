@@ -196,7 +196,7 @@ Target companies:
 # Dynamic Programming
 # Stack
 
-<a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> - Google, 
+<a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> **## - Google, 
 
 <a id="Leetcode 1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a> - Google, 
 
@@ -233,11 +233,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNj
-czNjIyODYsLTE1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2
-NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLT
-E2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMw
-MzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMzkxMywtNTcwODA1Nz
-IzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEyNjc5NDE3NjIsLTEx
-NTY2MTgyMzddfQ==
+eyJoaXN0b3J5IjpbLTE0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMD
+A0MzgzMDUsLTEzNjczNjIyODYsLTE1MDkyNDUwMDIsMTY1MTky
+NzE4MCw5MDY4NDY2NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLT
+E2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMy
+MTk4ODI4NywtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMz
+kxMywtNTcwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEy
+Njc5NDE3NjJdfQ==
 -->
