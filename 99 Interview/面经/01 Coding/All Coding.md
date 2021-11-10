@@ -83,6 +83,11 @@ Target companies:
 # Binary Search
 
 # Sorting
+
+<a id="Leetcode 0792" href="https://leetcode.com/problems/number-of-matching-subsequences/">[Leetcode 0792.  Number of Matching Subsequences]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0021_Merge_Two_Sorted_Lists.java">**Solution**</a>
+
+
+
 ## Quick Sort
 
 ## Merge Sort
@@ -233,11 +238,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMD
-A0MzgzMDUsLTEzNjczNjIyODYsLTE1MDkyNDUwMDIsMTY1MTky
-NzE4MCw5MDY4NDY2NjksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLT
-E2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5NzQsMTMy
-MTk4ODI4NywtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIwNDMyMz
-kxMywtNTcwODA1NzIzLDE5NDc2ODE3MywtNjk3NTkyODUxLDEy
-Njc5NDE3NjJdfQ==
+eyJoaXN0b3J5IjpbMTA1Njk4MDkyOCwtMTQ1MzAwMTk2NiwxNz
+QwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0
+NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMy
+wzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUx
+ODM5ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMz
+k3OCwtMjA0MzIzOTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02
+OTc1OTI4NTFdfQ==
 -->
