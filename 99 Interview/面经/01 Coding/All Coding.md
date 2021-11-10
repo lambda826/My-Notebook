@@ -234,7 +234,7 @@ Target companies:
 # Prefix Sum
 
 <a id="Leetcode 0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/_0560_Subarray_Sum_Equals_K.java">**Solution**</a> ****## - Google,
-<a id="Lintcode 1844" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Lintcode 1844 · subarray sum equals to k II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/__1844_Subarray_Sum_Equals_To_K_II.java">**Solution**</a> ****## - Google,
+<a id="Lintcode 1844" href="https://www.lintcode.com/problem/1844/description?utm_source=sc-libao-zyq">[Lintcode 1844 · subarray sum equals to k II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/__1844_Subarray_Sum_Equals_To_K_II.java">**Solution**</a> ****## - Google,
 
 <a id="Leetcode 0437" href="https://leetcode.com/problems/path-sum-iii/">[Leetcode 0437.  Path Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/_0437_Path_Sum_III.java">**Solution**</a> ****### - Google, 
 
@@ -247,11 +247,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyMTgxODUsNjUwMjAyMTA5LDE3Nz
-AwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNzQwNTQ3
-MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0NTAwMi
-wxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMywzNjQ3
-NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5OD
-k3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwt
-MjA0MzIzOTEzXX0=
+eyJoaXN0b3J5IjpbNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcwMD
+Y3NjM3LDE1NTgxOTA4MzgsLTE0NTMwMDE5NjYsMTc0MDU0NzAz
+MCwyMDA0MzgzMDUsLTEzNjczNjIyODYsLTE1MDkyNDUwMDIsMT
+Y1MTkyNzE4MCw5MDY4NDY2NjksLTE3NDE1MDIzMjMsMzY0Nzcx
+NTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLTE1MTgzOTg5Nz
+QsMTMyMTk4ODI4NywtMTMwMzMxMjE5NiwyODk4MzM5NzgsLTIw
+NDMyMzkxM119
 -->
