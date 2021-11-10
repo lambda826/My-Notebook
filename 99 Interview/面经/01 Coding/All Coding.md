@@ -103,9 +103,11 @@ Target companies:
 
 <a id="Leetcode 0853" href="https://leetcode.com/problems/car-fleet/">[Leetcode 0853.  Car Fleet]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0088_Merge_Sorted_Array.java">**Solution**</a> **## - Google, 
 
+<a id="Leetcode 0792" href="https://leetcode.com/problems/number-of-matching-subsequences/">[Leetcode 0792.  Number of Matching Subsequences]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/bucketSorting/_0347_Top_K_Frequent_Elements.java">**Solution**</a> **### - Google,
+
 
 ## Counting Sort
-<a id="Leetcode 0274" href="https://leetcode.com/problems/h-index/">[Leetcode 0274.  H-Index]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/countSort/_0274_H_Index.java">**Solution**</a>
+<a id="Leetcode 0347" href="https://leetcode.com/problems/top-k-frequent-elements/">[Leetcode 0347.  Top K Frequent Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/countSort/_0274_H_Index.java">**Solution**</a>
 
 
 # BFS
@@ -238,11 +240,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNz
-QwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0
-NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMy
-wzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUx
-ODM5ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMz
-k3OCwtMjA0MzIzOTEzLC01NzA4MDU3MjMsMTk0NzY4MTczLC02
-OTc1OTI4NTFdfQ==
+eyJoaXN0b3J5IjpbLTY5Mjc0MTg2MCwxNTU4MTkwODM4LC0xND
+UzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC0xMzY3MzYy
+Mjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC
+0xNzQxNTAyMzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5
+NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMzMT
+IxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMywx
+OTQ3NjgxNzNdfQ==
 -->
