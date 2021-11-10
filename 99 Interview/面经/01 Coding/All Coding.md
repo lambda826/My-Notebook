@@ -197,7 +197,7 @@ Target companies:
 
 
 # Graph
-
+## Topological Sort
 <a id="Leetcode 0207" href="https://leetcode.com/problems/course-schedule/">[Leetcode 0207.  Course Schedule]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_11_graph/topologicalSort/_0207_Course_Schedule.java">**Solution**</a> *****## - Google, 
 
 # Dynamic Programming
@@ -250,11 +250,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjM4OTk3MCw2NzE4MjQ2ODcsNjUwMj
-AyMTA5LDE3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAwMTk2
-NiwxNzQwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMT
-UwOTI0NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUw
-MjMyMywzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OS
-wtMTUxODM5ODk3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4
-OTgzMzk3OF19
+eyJoaXN0b3J5IjpbLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MD
+IwMjEwOSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLTE0NTMwMDE5
+NjYsMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjczNjIyODYsLT
+E1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2NjksLTE3NDE1
+MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1OT
+ksLTE1MTgzOTg5NzQsMTMyMTk4ODI4NywtMTMwMzMxMjE5Niwy
+ODk4MzM5NzhdfQ==
 -->
