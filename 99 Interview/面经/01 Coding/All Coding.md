@@ -234,17 +234,21 @@ Target companies:
 
 # Trie
 # Union Find
+# Prefix Sum
+
+<a id="Leetcode 0437" href="https://leetcode.com/problems/path-sum-iii/">[Leetcode 0437.  Path Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/_0437_Path_Sum_III.java">**Solution**</a> - ****###Google, 
+
 
 # Others
 
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDA2NzYzNywxNTU4MTkwODM4LC0xND
-UzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC0xMzY3MzYy
-Mjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC
-0xNzQxNTAyMzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5
-NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5ODgyODcsLTEzMDMzMT
-IxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMsLTU3MDgwNTcyMywx
-OTQ3NjgxNzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDg1MTgzOTYsMTc3MDA2NzYzNywxNT
+U4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4
+MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxOD
+AsOTA2ODQ2NjY5LC0xNzQxNTAyMzIzLDM2NDc3MTUxLC0xNjM2
+NDA3OTE4LC0xNjc5NDUzNTk5LC0xNTE4Mzk4OTc0LDEzMjE5OD
+gyODcsLTEzMDMzMTIxOTYsMjg5ODMzOTc4LC0yMDQzMjM5MTMs
+LTU3MDgwNTcyM119
 -->
