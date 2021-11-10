@@ -84,7 +84,7 @@ Target companies:
 
 # Sorting
 
-<a id="Leetcode 0792" href="https://leetcode.com/problems/number-of-matching-subsequences/">[Leetcode 0792.  Number of Matching Subsequences]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/mergeSort/_0021_Merge_Two_Sorted_Lists.java">**Solution**</a>
+<a id="Leetcode 0792" href="https://leetcode.com/problems/number-of-matching-subsequences/">[Leetcode 0792.  Number of Matching Subsequences]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_06_sorting/_0792_Number_of_Matching_Subsequences.java">**Solution**</a> **### - Google,
 
 
 
@@ -238,7 +238,7 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Njk4MDkyOCwtMTQ1MzAwMTk2NiwxNz
+eyJoaXN0b3J5IjpbMTU1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNz
 QwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0
 NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMy
 wzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUx
