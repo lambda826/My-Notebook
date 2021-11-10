@@ -234,8 +234,12 @@ Target companies:
 # Prefix Sum
 
 <a id="Leetcode 0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/_0560_Subarray_Sum_Equals_K.java">**Solution**</a> ****## - Google,
+<a id="Lintcode 1844" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Lintcode 1844 · subarray sum equals to k II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/__1844_Subarray_Sum_Equals_To_K_II.java">**Solution**</a> ****## - Google,
 
 <a id="Leetcode 0437" href="https://leetcode.com/problems/path-sum-iii/">[Leetcode 0437.  Path Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_22_prefixSum/_0437_Path_Sum_III.java">**Solution**</a> ****### - Google, 
+
+
+
 
 
 # Others
@@ -243,11 +247,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMjAyMTA5LDE3NzAwNjc2MzcsMTU1OD
-E5MDgzOCwtMTQ1MzAwMTk2NiwxNzQwNTQ3MDMwLDIwMDQzODMw
-NSwtMTM2NzM2MjI4NiwtMTUwOTI0NTAwMiwxNjUxOTI3MTgwLD
-kwNjg0NjY2OSwtMTc0MTUwMjMyMywzNjQ3NzE1MSwtMTYzNjQw
-NzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5ODk3NCwxMzIxOTg4Mj
-g3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwtMjA0MzIzOTEzLC01
-NzA4MDU3MjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTAyMTgxODUsNjUwMjAyMTA5LDE3Nz
+AwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNzQwNTQ3
+MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0NTAwMi
+wxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMywzNjQ3
+NzE1MSwtMTYzNjQwNzkxOCwtMTY3OTQ1MzU5OSwtMTUxODM5OD
+k3NCwxMzIxOTg4Mjg3LC0xMzAzMzEyMTk2LDI4OTgzMzk3OCwt
+MjA0MzIzOTEzXX0=
 -->
