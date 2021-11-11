@@ -29,7 +29,7 @@ Target companies:
 
 <a id="Leetcode 1525" href="https://leetcode.com/problems/number-of-good-ways-to-split-a-string/">[Leetcode 1525.  Number of Good Ways to Split a String]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_1525_Number_of_Good_Ways_to_Split_a_String.java">**Solution**</a> - Google, 
 
-<a id="Leetcode 0299" href="https://leetcode.com/problems/bulls-and-cows/">[Leetcode 0299.  Bulls and Cows]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0299_Bulls_and_Cows.java">**Solution**</a> *##- Google, 
+<a id="Leetcode 0299" href="https://leetcode.com/problems/bulls-and-cows/">[Leetcode 0299.  Bulls and Cows]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0299_Bulls_and_Cows.java">**Solution**</a> *## - Google, 
 
 ## TwoSum
 <a id="Leetcode 0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a> - Google, 
@@ -253,7 +253,7 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTAyNjg3MywxNTgwNzYzMzM2LC0xOT
+eyJoaXN0b3J5IjpbMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOT
 k3MDUzODc5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYz
 NywxNTU4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMj
 AwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2NTE5
