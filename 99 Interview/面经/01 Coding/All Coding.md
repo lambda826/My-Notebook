@@ -207,11 +207,11 @@ Target companies:
 
 # Dynamic Programming
 
-<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
+<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/oneDimension/_0322_Coin_Change.java">**Solution**</a>
 
 # Stack
 
-<a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/oneDimension/_0322_Coin_Change.java">**Solution**</a> **## - Google, 
+<a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> **## - Google, 
 
 <a id="Leetcode 1277" href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">[Leetcode 1277.  Count Square Submatrices with All Ones]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/twoDimension/optimized/_1277_Count_Square_Submatrices_with_All_Ones.java">**Solution**</a> - Google, 
 
@@ -258,11 +258,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjQxMTQzMSwtODAzMzI2MDk5LDEzOT
-EzNzkzMDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2
-ODcsNjUwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMT
-Q1MzAwMTk2NiwxNzQwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2
-MjI4NiwtMTUwOTI0NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OS
-wtMTc0MTUwMjMyMywzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3
-OTQ1MzU5OV19
+eyJoaXN0b3J5IjpbLTE1NjkxMjg4NDUsLTgwMzMyNjA5OSwxMz
+kxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcwNTM4NzksNjcxODI0
+Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLT
+E0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjcz
+NjIyODYsLTE1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2Nj
+ksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2
+Nzk0NTM1OTldfQ==
 -->
