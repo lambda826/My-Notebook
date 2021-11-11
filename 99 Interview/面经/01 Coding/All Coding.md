@@ -1,5 +1,3 @@
-
-
 **Remark**:
 *: Importance
 #: Difficulty
@@ -259,11 +257,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM0MzM3MDMsLTcxODc1MTQ0NywtOD
-AzMzI2MDk5LDEzOTEzNzkzMDksMTU4MDc2MzMzNiwtMTk5NzA1
-Mzg3OSw2NzE4MjQ2ODcsNjUwMjAyMTA5LDE3NzAwNjc2MzcsMT
-U1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNzQwNTQ3MDMwLDIwMDQz
-ODMwNSwtMTM2NzM2MjI4NiwtMTUwOTI0NTAwMiwxNjUxOTI3MT
-gwLDkwNjg0NjY2OSwtMTc0MTUwMjMyMywzNjQ3NzE1MSwtMTYz
-NjQwNzkxOF19
+eyJoaXN0b3J5IjpbMTk4ODQxMzM3MywtMTAzMzQzMzcwMywtNz
+E4NzUxNDQ3LC04MDMzMjYwOTksMTM5MTM3OTMwOSwxNTgwNzYz
+MzM2LC0xOTk3MDUzODc5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMT
+c3MDA2NzYzNywxNTU4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1
+NDcwMzAsMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MD
+AyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC0xNzQxNTAyMzIzLDM2
+NDc3MTUxXX0=
 -->
