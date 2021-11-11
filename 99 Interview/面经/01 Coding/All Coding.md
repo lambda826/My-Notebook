@@ -207,7 +207,7 @@ Target companies:
 
 # Dynamic Programming
 
-<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/oneDimension/_0322_Coin_Change.java">**Solution**</a>
+<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_12_dynamicProgramming/oneDimension/_0322_Coin_Change.java">**Solution**</a> ***## - Google,
 
 # Stack
 
@@ -258,11 +258,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkxMjg4NDUsLTgwMzMyNjA5OSwxMz
-kxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcwNTM4NzksNjcxODI0
-Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLT
-E0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjcz
-NjIyODYsLTE1MDkyNDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2Nj
-ksLTE3NDE1MDIzMjMsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2
-Nzk0NTM1OTldfQ==
+eyJoaXN0b3J5IjpbLTcxODc1MTQ0NywtODAzMzI2MDk5LDEzOT
+EzNzkzMDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2
+ODcsNjUwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMT
+Q1MzAwMTk2NiwxNzQwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2
+MjI4NiwtMTUwOTI0NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OS
+wtMTc0MTUwMjMyMywzNjQ3NzE1MSwtMTYzNjQwNzkxOCwtMTY3
+OTQ1MzU5OV19
 -->
