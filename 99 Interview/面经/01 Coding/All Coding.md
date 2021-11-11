@@ -135,7 +135,6 @@ Target companies:
 
 ## Combination
 ### 1D
-<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
 
 <a id="Leetcode 0518" href="https://leetcode.com/problems/coin-change-2/">[Leetcode 0518. Coin Change 2]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0518_Coin_Change_2.java">**Solution**</a>
 
@@ -207,6 +206,9 @@ Target companies:
 <a id="Leetcode 0210" href="https://leetcode.com/problems/course-schedule-ii/">[Leetcode 0210.  Course Schedule II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_11_graph/topologicalSort/_0210_Course_Schedule_II.java">**Solution**</a> *****##
 
 # Dynamic Programming
+
+<a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_09_dfs_backtracking/combination/_1d/_0322_Coin_Change.java">**Solution**</a>
+
 # Stack
 
 <a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> **## - Google, 
@@ -256,11 +258,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzMyNjA5OSwxMzkxMzc5MzA5LDE1OD
-A3NjMzMzYsLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MDIwMjEw
-OSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLTE0NTMwMDE5NjYsMT
-c0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjczNjIyODYsLTE1MDky
-NDUwMDIsMTY1MTkyNzE4MCw5MDY4NDY2NjksLTE3NDE1MDIzMj
-MsMzY0NzcxNTEsLTE2MzY0MDc5MTgsLTE2Nzk0NTM1OTksLTE1
-MTgzOTg5NzRdfQ==
+eyJoaXN0b3J5IjpbMzM0NzAzMDExLC04MDMzMjYwOTksMTM5MT
+M3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LDY3MTgyNDY4
+Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkwODM4LC0xND
+UzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC0xMzY3MzYy
+Mjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC
+0xNzQxNTAyMzIzLDM2NDc3MTUxLC0xNjM2NDA3OTE4LC0xNjc5
+NDUzNTk5XX0=
 -->
