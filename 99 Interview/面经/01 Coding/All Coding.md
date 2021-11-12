@@ -39,11 +39,17 @@ Target companies:
 
 
 # String
+
+<a id="Leetcode 0293" href="https://leetcode.com/problems/flip-game/">[Leetcode 0293.  Flip Game]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_02_string/_0293_Flip_Game.java">**Solution**</a> **# - Google,
+
 <a id="Leetcode 0415" href="https://leetcode.com/problems/add-strings/">[Leetcode 0415. Add Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_02_string/_0415_Add_Strings.java">**Solution**</a>
 
 <a id="Leetcode 0043" href="https://leetcode.com/problems/multiply-strings/">[Leetcode 0043. Multiply Strings]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_02_string/_0043_Multiply_Strings.java">**Solution**</a>
 
 <a id="Leetcode 0008" href="https://leetcode.com/problems/string-to-integer-atoi/">[Leetcode 0008. String to Integer (atoi)]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_02_string/_0008_String_to_Integer_atoi.java">**Solution**</a>
+
+
+
 
 ## Palindrome
 
@@ -257,11 +263,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODQxMzM3MywtMTAzMzQzMzcwMywtNz
-E4NzUxNDQ3LC04MDMzMjYwOTksMTM5MTM3OTMwOSwxNTgwNzYz
-MzM2LC0xOTk3MDUzODc5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMT
-c3MDA2NzYzNywxNTU4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1
-NDcwMzAsMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MD
-AyLDE2NTE5MjcxODAsOTA2ODQ2NjY5LC0xNzQxNTAyMzIzLDM2
-NDc3MTUxXX0=
+eyJoaXN0b3J5IjpbMzk0MDU0MTQ1LDE5ODg0MTMzNzMsLTEwMz
+M0MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2MDk5LDEzOTEzNzkz
+MDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2ODcsNj
+UwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAw
+MTk2NiwxNzQwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4Ni
+wtMTUwOTI0NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0
+MTUwMjMyM119
 -->
