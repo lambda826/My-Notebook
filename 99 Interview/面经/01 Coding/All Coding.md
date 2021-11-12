@@ -30,6 +30,11 @@ Target companies:
 
 <a id="Leetcode 0299" href="https://leetcode.com/problems/bulls-and-cows/">[Leetcode 0299.  Bulls and Cows]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_01_array/_0299_Bulls_and_Cows.java">**Solution**</a> *## - Google, 
 
+
+<a id="Leetcode 0422" href="https://leetcode.com/problems/valid-word-square/">[Leetcode 0422.  Valid Word Square]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_01_array/_0422_Valid_Word_Square.java">**Solution**</a> *# - Google, 
+
+
+
 ## TwoSum
 <a id="Leetcode 0001" href="https://leetcode.com/problems/two-sum/">[Leetcode 0001.  Two Sum]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_01_array/twoSum/_0001_Two_Sum.java">**Solution**</a> - Google, 
 
@@ -263,11 +268,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MDU0MTQ1LDE5ODg0MTMzNzMsLTEwMz
-M0MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2MDk5LDEzOTEzNzkz
-MDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2ODcsNj
-UwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAw
-MTk2NiwxNzQwNTQ3MDMwLDIwMDQzODMwNSwtMTM2NzM2MjI4Ni
-wtMTUwOTI0NTAwMiwxNjUxOTI3MTgwLDkwNjg0NjY2OSwtMTc0
-MTUwMjMyM119
+eyJoaXN0b3J5IjpbMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4OD
+QxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYw
+OTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LD
+Y3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkw
+ODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC
+0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2
+ODQ2NjY5XX0=
 -->
