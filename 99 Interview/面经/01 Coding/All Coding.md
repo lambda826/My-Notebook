@@ -20,6 +20,8 @@ Target companies:
  -  Amazon
 
 
+Review at 100/200/500
+
 
 # Array
 
@@ -268,11 +270,11 @@ Target companies:
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4OD
-QxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYw
-OTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LD
-Y3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkw
-ODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC
-0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2NTE5MjcxODAsOTA2
-ODQ2NjY5XX0=
+eyJoaXN0b3J5IjpbLTE1MjY2NDU2MTMsMTk5Nzk0MTE5OCwzOT
+QwNTQxNDUsMTk4ODQxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUx
+NDQ3LC04MDMzMjYwOTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC
+0xOTk3MDUzODc5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2
+NzYzNywxNTU4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMz
+AsMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2
+NTE5MjcxODBdfQ==
 -->
