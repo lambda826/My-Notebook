@@ -221,6 +221,10 @@ Review at 100/200/500
 
 <a id="Leetcode 0322" href="https://leetcode.com/problems/coin-change/">[Leetcode 0322. Coin Change]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_12_dynamicProgramming/oneDimension/_0322_Coin_Change.java">**Solution**</a> ***## - Google,
 
+<a id="Leetcode 0276" href="https://leetcode.com/problems/paint-fence/">[Leetcode 0276.  Paint Fence]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_12_dynamicProgramming/oneDimension/optimized/_0276_Paint_Fence.java">**Solution**</a> ***### - Google,
+
+
+
 # Stack
 
 <a id="Leetcode 0735" href="https://leetcode.com/problems/asteroid-collision/">[Leetcode 0735. Asteroid Collision]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_13_stack/_0735_Asteroid_Collision.java">**Solution**</a> **## - Google, 
@@ -270,11 +274,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2NDU2MTMsMTk5Nzk0MTE5OCwzOT
-QwNTQxNDUsMTk4ODQxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUx
-NDQ3LC04MDMzMjYwOTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC
-0xOTk3MDUzODc5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2
-NzYzNywxNTU4MTkwODM4LC0xNDUzMDAxOTY2LDE3NDA1NDcwMz
-AsMjAwNDM4MzA1LC0xMzY3MzYyMjg2LC0xNTA5MjQ1MDAyLDE2
-NTE5MjcxODBdfQ==
+eyJoaXN0b3J5IjpbLTg3MjI4OTUxOSwtMTUyNjY0NTYxMywxOT
+k3OTQxMTk4LDM5NDA1NDE0NSwxOTg4NDEzMzczLC0xMDMzNDMz
+NzAzLC03MTg3NTE0NDcsLTgwMzMyNjA5OSwxMzkxMzc5MzA5LD
+E1ODA3NjMzMzYsLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MDIw
+MjEwOSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLTE0NTMwMDE5Nj
+YsMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjczNjIyODYsLTE1
+MDkyNDUwMDJdfQ==
 -->
