@@ -258,6 +258,10 @@ Review at 100/200/500
 
 # Trie
 # Union Find
+
+# Math
+<a id="Leetcode 0066" href="https://leetcode.com/problems/plus-one/">[Leetcode 0066.  Plus One]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_22_prefixSum/_0560_Subarray_Sum_Equals_K.java">**Solution**</a> ****## - Google,
+
 # Prefix Sum
 
 <a id="Leetcode 0560" href="https://leetcode.com/problems/subarray-sum-equals-k/">[Leetcode 0560. Subarray Sum Equals K]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_22_prefixSum/_0560_Subarray_Sum_Equals_K.java">**Solution**</a> ****## - Google,
@@ -274,11 +278,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjI4OTUxOSwtMTUyNjY0NTYxMywxOT
-k3OTQxMTk4LDM5NDA1NDE0NSwxOTg4NDEzMzczLC0xMDMzNDMz
-NzAzLC03MTg3NTE0NDcsLTgwMzMyNjA5OSwxMzkxMzc5MzA5LD
-E1ODA3NjMzMzYsLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MDIw
-MjEwOSwxNzcwMDY3NjM3LDE1NTgxOTA4MzgsLTE0NTMwMDE5Nj
-YsMTc0MDU0NzAzMCwyMDA0MzgzMDUsLTEzNjczNjIyODYsLTE1
-MDkyNDUwMDJdfQ==
+eyJoaXN0b3J5IjpbMjk1MjM4Nzc5LC04NzIyODk1MTksLTE1Mj
+Y2NDU2MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4ODQxMzM3
+MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYwOTksMT
+M5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LDY3MTgy
+NDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkwODM4LC
+0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC0xMzY3
+MzYyMjg2XX0=
 -->
