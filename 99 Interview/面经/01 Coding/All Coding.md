@@ -260,7 +260,7 @@ Review at 100/200/500
 # Union Find
 
 # Math
-<a id="Leetcode 0066" href="https://leetcode.com/problems/plus-one/">[Leetcode 0066.  Plus One]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_22_prefixSum/_0560_Subarray_Sum_Equals_K.java">**Solution**</a> ****## - Google,
+<a id="Leetcode 0066" href="https://leetcode.com/problems/plus-one/">[Leetcode 0066.  Plus One]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_21_math/_0066_Plus_One.java">**Solution**</a> ***### - Google,
 
 # Prefix Sum
 
@@ -278,7 +278,7 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MjM4Nzc5LC04NzIyODk1MTksLTE1Mj
+eyJoaXN0b3J5IjpbNzQ4NTgyMDExLC04NzIyODk1MTksLTE1Mj
 Y2NDU2MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4ODQxMzM3
 MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYwOTksMT
 M5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LDY3MTgy
