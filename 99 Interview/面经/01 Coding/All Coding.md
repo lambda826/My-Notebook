@@ -126,7 +126,7 @@ Review at 100/200/500
 <a id="Leetcode 0314" href="https://leetcode.com/problems/binary-tree-vertical-order-traversal/">[Leetcode 0314.  Binary Tree Vertical Order Traversal]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/_0314_Binary_Tree_Vertical_Order_Traversal.java">**Solution**</a>
 
 <a id="Leetcode 1730" href="https://leetcode.com/problems/shortest-path-to-get-food/">[Leetcode 1730.  Shortest Path to Get Food]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/_1730_Shortest_Path_to_Get_Food.java">**Solution**</a>
-<a id="Leetcode 1293" href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">[Leetcode 1293.  Shortest Path in a Grid with Obstacles Elimination]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java">**Solution**</a> - Google, 
+<a id="Leetcode 1293" href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">[Leetcode 1293.  Shortest Path in a Grid with Obstacles Elimination]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java">**Solution**</a> **#### - Google, 
 
 # BFS & DFS
 
@@ -278,11 +278,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTgyMDExLC04NzIyODk1MTksLTE1Mj
-Y2NDU2MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4ODQxMzM3
-MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYwOTksMT
-M5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LDY3MTgy
-NDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkwODM4LC
-0xNDUzMDAxOTY2LDE3NDA1NDcwMzAsMjAwNDM4MzA1LC0xMzY3
-MzYyMjg2XX0=
+eyJoaXN0b3J5IjpbMTQ3MzU0OTkxNSw3NDg1ODIwMTEsLTg3Mj
+I4OTUxOSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LDM5NDA1NDE0
+NSwxOTg4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3NTE0NDcsLT
+gwMzMyNjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcw
+NTM4NzksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LD
+E1NTgxOTA4MzgsLTE0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMDA0
+MzgzMDVdfQ==
 -->
