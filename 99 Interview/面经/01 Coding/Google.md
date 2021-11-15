@@ -19,18 +19,18 @@
 792 其舅尔 14
 3 傘 13
 4 丝 13
-6柳罢 13
-尔舅舅 13
+68 柳罢 13
+299 尔舅舅 13
 
-依丝酒久 13
-依妻其溜 13
-司医罢 12
-巴傘伞 12
-姨吴儿溜 12
-散尔久 11
-企耳久 11
-耳姨铃 10
-罢其吴 10
+1499 依丝酒久 13
+1776 依妻其溜 13
+418 司医罢 12
+233 巴傘伞 12
+1526 姨吴儿溜 12
+329 散尔久 11
+729 企耳久 11
+210 耳姨铃 10
+875 罢其吴 10
 酒吴依 10
 
 酒巴‍‌‍‌‌‍‍‍‍‌‌‌‍‍‌‍‍‍‍医 10
@@ -49,7 +49,7 @@
 司巴久 8
 伞巫司 8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1NTc0MTgsMjQwMzM1NjE5LDE3NT
+eyJoaXN0b3J5IjpbLTEyMjk0ODE0OTYsMjQwMzM1NjE5LDE3NT
 I1NjEyMTAsLTczNzg4MTczLDE0MzU0MzMwODUsMTk4NDQ3OTQ3
 NSwtMTc4MjE1MTM1LDE3NjcwNjE0MDksLTEyNzQyMTk5MTcsLT
 E3MTY3NjU4NTEsMTEwMDgzMjgxNCwxOTU5NTczMTc1LC0yMDA2
