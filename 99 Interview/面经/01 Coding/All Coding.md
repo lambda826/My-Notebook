@@ -18,7 +18,7 @@ Target companies:
  -  Google
  -  Facebook
  -  Amazon
-
+ -  Airtable
 
 Review at 100/200/500
 
@@ -278,11 +278,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU0OTkxNSw3NDg1ODIwMTEsLTg3Mj
-I4OTUxOSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LDM5NDA1NDE0
-NSwxOTg4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3NTE0NDcsLT
-gwMzMyNjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcw
-NTM4NzksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LD
-E1NTgxOTA4MzgsLTE0NTMwMDE5NjYsMTc0MDU0NzAzMCwyMDA0
-MzgzMDVdfQ==
+eyJoaXN0b3J5IjpbMTAxNzA1MTY1OCwxNDczNTQ5OTE1LDc0OD
+U4MjAxMSwtODcyMjg5NTE5LC0xNTI2NjQ1NjEzLDE5OTc5NDEx
+OTgsMzk0MDU0MTQ1LDE5ODg0MTMzNzMsLTEwMzM0MzM3MDMsLT
+cxODc1MTQ0NywtODAzMzI2MDk5LDEzOTEzNzkzMDksMTU4MDc2
+MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2ODcsNjUwMjAyMTA5LD
+E3NzAwNjc2MzcsMTU1ODE5MDgzOCwtMTQ1MzAwMTk2NiwxNzQw
+NTQ3MDMwXX0=
 -->
