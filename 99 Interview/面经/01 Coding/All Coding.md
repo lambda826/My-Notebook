@@ -24,6 +24,7 @@ Target companies:
 - Confluent
 - Roblox
 - Stripe
+- Robinhood
 
 Review at 100/200/500
 
@@ -283,11 +284,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMDU5MDA2LC0yMTQzNjI3MzUsMTAxNz
-A1MTY1OCwxNDczNTQ5OTE1LDc0ODU4MjAxMSwtODcyMjg5NTE5
-LC0xNTI2NjQ1NjEzLDE5OTc5NDExOTgsMzk0MDU0MTQ1LDE5OD
-g0MTMzNzMsLTEwMzM0MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2
-MDk5LDEzOTEzNzkzMDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OS
-w2NzE4MjQ2ODcsNjUwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5
-MDgzOF19
+eyJoaXN0b3J5IjpbLTE5NDY2MzYzMzksLTIxNDM2MjczNSwxMD
+E3MDUxNjU4LDE0NzM1NDk5MTUsNzQ4NTgyMDExLC04NzIyODk1
+MTksLTE1MjY2NDU2MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMT
+k4ODQxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMz
+MjYwOTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzOD
+c5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4
+MTkwODM4XX0=
 -->
