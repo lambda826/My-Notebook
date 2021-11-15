@@ -21,6 +21,9 @@ Target companies:
 - Airtable
 - Databricks
 - Snowflake
+- Confluent
+- Roblox
+- Stripe
 
 Review at 100/200/500
 
@@ -280,11 +283,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTA2NDU5MCwtMjE0MzYyNzM1LDEwMT
-cwNTE2NTgsMTQ3MzU0OTkxNSw3NDg1ODIwMTEsLTg3MjI4OTUx
-OSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LDM5NDA1NDE0NSwxOT
-g4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3NTE0NDcsLTgwMzMy
-NjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcwNTM4Nz
-ksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LDE1NTgx
-OTA4MzhdfQ==
+eyJoaXN0b3J5IjpbNTUyMDU5MDA2LC0yMTQzNjI3MzUsMTAxNz
+A1MTY1OCwxNDczNTQ5OTE1LDc0ODU4MjAxMSwtODcyMjg5NTE5
+LC0xNTI2NjQ1NjEzLDE5OTc5NDExOTgsMzk0MDU0MTQ1LDE5OD
+g0MTMzNzMsLTEwMzM0MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2
+MDk5LDEzOTEzNzkzMDksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OS
+w2NzE4MjQ2ODcsNjUwMjAyMTA5LDE3NzAwNjc2MzcsMTU1ODE5
+MDgzOF19
 -->
