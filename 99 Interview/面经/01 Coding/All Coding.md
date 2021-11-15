@@ -20,6 +20,7 @@ Target companies:
 - Amazon
 - Airtable
 - Databricks
+- Snowflake
 
 Review at 100/200/500
 
@@ -279,11 +280,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM2MjczNSwxMDE3MDUxNjU4LDE0Nz
-M1NDk5MTUsNzQ4NTgyMDExLC04NzIyODk1MTksLTE1MjY2NDU2
-MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMTk4ODQxMzM3MywtMT
-AzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMzMjYwOTksMTM5MTM3
-OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzODc5LDY3MTgyNDY4Ny
-w2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4MTkwODM4LC0xNDUz
-MDAxOTY2XX0=
+eyJoaXN0b3J5IjpbMTAwOTA2NDU5MCwtMjE0MzYyNzM1LDEwMT
+cwNTE2NTgsMTQ3MzU0OTkxNSw3NDg1ODIwMTEsLTg3MjI4OTUx
+OSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LDM5NDA1NDE0NSwxOT
+g4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3NTE0NDcsLTgwMzMy
+NjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMzYsLTE5OTcwNTM4Nz
+ksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcwMDY3NjM3LDE1NTgx
+OTA4MzhdfQ==
 -->
