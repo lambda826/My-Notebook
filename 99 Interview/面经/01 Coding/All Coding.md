@@ -15,10 +15,10 @@
 6. Run test cases.
 
 Target companies:
- -  Google
- -  Facebook
- -  Amazon
- -  Airtable
+ - Google
+ - Facebook
+ - Amazon
+ - Airtable
  - Databricks
 
 Review at 100/200/500
@@ -279,7 +279,7 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0NzQwMTEsMTAxNzA1MTY1OCwxND
+eyJoaXN0b3J5IjpbLTIwNjg5MjA1NjEsMTAxNzA1MTY1OCwxND
 czNTQ5OTE1LDc0ODU4MjAxMSwtODcyMjg5NTE5LC0xNTI2NjQ1
 NjEzLDE5OTc5NDExOTgsMzk0MDU0MTQ1LDE5ODg0MTMzNzMsLT
 EwMzM0MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2MDk5LDEzOTEz
