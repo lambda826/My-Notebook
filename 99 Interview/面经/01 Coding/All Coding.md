@@ -232,7 +232,7 @@ Review at 100/200/500
 
 <a id="Leetcode 0276" href="https://leetcode.com/problems/paint-fence/">[Leetcode 0276.  Paint Fence]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_12_dynamicProgramming/oneDimension/optimized/_0276_Paint_Fence.java">**Solution**</a> ***### - Google,
 
-
+<a id="Leetcode 0837" href="https://leetcode.com/problems/new-21-game/">[Leetcode 0837.  New 21 Game]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_12_dynamicProgramming/oneDimension/_0837_New_21_Game.java">**Solution**</a> ***### - Google,
 
 # Stack
 
@@ -287,7 +287,7 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODcxOTY3MSwtMTk0NjYzNjMzOSwtMj
+eyJoaXN0b3J5IjpbLTk1MjI3ODExNCwtMTk0NjYzNjMzOSwtMj
 E0MzYyNzM1LDEwMTcwNTE2NTgsMTQ3MzU0OTkxNSw3NDg1ODIw
 MTEsLTg3MjI4OTUxOSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LD
 M5NDA1NDE0NSwxOTg4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3
