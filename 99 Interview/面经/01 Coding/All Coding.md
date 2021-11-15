@@ -25,6 +25,9 @@ Target companies:
 - Roblox
 - Stripe
 - Robinhood
+- Compass
+- Zillow
+- Redfin
 
 Review at 100/200/500
 
@@ -284,11 +287,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY2MzYzMzksLTIxNDM2MjczNSwxMD
-E3MDUxNjU4LDE0NzM1NDk5MTUsNzQ4NTgyMDExLC04NzIyODk1
-MTksLTE1MjY2NDU2MTMsMTk5Nzk0MTE5OCwzOTQwNTQxNDUsMT
-k4ODQxMzM3MywtMTAzMzQzMzcwMywtNzE4NzUxNDQ3LC04MDMz
-MjYwOTksMTM5MTM3OTMwOSwxNTgwNzYzMzM2LC0xOTk3MDUzOD
-c5LDY3MTgyNDY4Nyw2NTAyMDIxMDksMTc3MDA2NzYzNywxNTU4
-MTkwODM4XX0=
+eyJoaXN0b3J5IjpbMTAyODcxOTY3MSwtMTk0NjYzNjMzOSwtMj
+E0MzYyNzM1LDEwMTcwNTE2NTgsMTQ3MzU0OTkxNSw3NDg1ODIw
+MTEsLTg3MjI4OTUxOSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LD
+M5NDA1NDE0NSwxOTg4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3
+NTE0NDcsLTgwMzMyNjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMz
+YsLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcw
+MDY3NjM3XX0=
 -->
