@@ -10,7 +10,7 @@
 - Distributed locking mechanism
 	- ![Chubby Distributed Locking Service.png](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chubby%20Distributed%20Locking%20Service.png)
 - Leader/master election
-	- 
+	- ![Chubby Leader Election.png](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chubby%20Leader%20Election.png)
 - Nameing service (like DNS)
 	- ![Chubby DNS.png](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chubby%20DNS.png)
 - Storage (small objects that rarely change)
@@ -18,6 +18,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxOTI0NDAxLDEwMDI1MDk3NTUsLTE2Nz
-AxNzcwMjldfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ2ODM1OTIsNzIxOTI0NDAxLDEwMD
+I1MDk3NTUsLTE2NzAxNzcwMjldfQ==
 -->
