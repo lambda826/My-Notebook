@@ -3,7 +3,6 @@
 <a id="Leetcode0031" href="https://leetcode.com/problems/next-permutation/">[Leetcode 0031.  Next Permutation]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_01_array/_0031_Next_Permutation.java">**Solution**</a>
 
 
-
 # String
 
 <a id="Leetcode0008" href="https://leetcode.com/problems/string-to-integer-atoi/">[Leetcode 0008. String to Integer (atoi)]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/coding/leetcode/_02_string/_0008_String_to_Integer_atoi.java">**Solution**</a>
@@ -157,7 +156,7 @@ Behaviour Question
 5，10，27，29，32，38，39，40，52，56*，57，67，69，88，92，98，114，125，126，127，130，136，138，139，140，154，155，163，173，200，210，235，239，246，273，278，297，301，322，333，378，408，415，468，485，528，540，547，621，637，674，680，766，778, 785，824，919，921，940，958，973，977，986，987，1004，1026，1029，1123，1197，1574
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMzNDM5NTksNjI4OTYxNzMwLC0xNj
-kxMjIyNzUzLDE2NDMxNTE2MzYsLTEyOTkwNDYyNDAsNjc5NTM5
-MDU4LDIwMDMwNjY1ODEsMjA1MzQxNjddfQ==
+eyJoaXN0b3J5IjpbMzc2NTk4MzMxLC0yMDUzMzQzOTU5LDYyOD
+k2MTczMCwtMTY5MTIyMjc1MywxNjQzMTUxNjM2LC0xMjk5MDQ2
+MjQwLDY3OTUzOTA1OCwyMDAzMDY2NTgxLDIwNTM0MTY3XX0=
 -->
