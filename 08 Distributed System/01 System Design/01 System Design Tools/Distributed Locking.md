@@ -8,12 +8,12 @@
 
 ## Chubby Use Casees
 - Distributed locking mechanism
-	- []
+	- ![Chubby Distributed Locking Service.png](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chubby%20Distributed%20Locking%20Service.png)
 - Leader/master election
 - Nameing service (like DNS)
 - Storage (small objects that rarely change)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzkwODI5MiwtMTY3MDE3NzAyOV19
+eyJoaXN0b3J5IjpbMjAyOTA1MjY0OCwtMTY3MDE3NzAyOV19
 -->
