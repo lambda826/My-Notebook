@@ -21,7 +21,16 @@
 -   Data update rate is high.
 -   Locks are acquired/released frequently.
 -   Usage is more like a publish/subscribe model.
+
+
+## Terms
+Cell
+Server
+Client Library
+APIs
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mjg5OTc4Myw3MjE5MjQ0MDEsMTAwMj
-UwOTc1NSwtMTY3MDE3NzAyOV19
+eyJoaXN0b3J5IjpbNjcxMzI0NDQyLDE2NTI4OTk3ODMsNzIxOT
+I0NDAxLDEwMDI1MDk3NTUsLTE2NzAxNzcwMjldfQ==
 -->
