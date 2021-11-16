@@ -16,8 +16,12 @@
 - Storage (small objects that rarely change)
 	- ![Chubby Storage Service for Small Objects.png](https://raw.githubusercontent.com/lambda826/My-Notebook/master/999%20Resource/Chubby%20Storage%20Service%20for%20Small%20Objects.png)
 
-
+## When not to use Chubby
+-   Bulk storage is needed.
+-   Data update rate is high.
+-   Locks are acquired/released frequently.
+-   Usage is more like a publish/subscribe model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ2ODM1OTIsNzIxOTI0NDAxLDEwMD
-I1MDk3NTUsLTE2NzAxNzcwMjldfQ==
+eyJoaXN0b3J5IjpbMTY1Mjg5OTc4Myw3MjE5MjQ0MDEsMTAwMj
+UwOTc1NSwtMTY3MDE3NzAyOV19
 -->
