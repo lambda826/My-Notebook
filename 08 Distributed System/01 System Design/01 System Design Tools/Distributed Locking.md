@@ -12,8 +12,9 @@
 - Leader/master election
 - Nameing service (like DNS)
 - Storage (small objects that rarely change)
+	- ![]()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTA1MjY0OCwtMTY3MDE3NzAyOV19
+eyJoaXN0b3J5IjpbLTY0NjE4ODc3MSwtMTY3MDE3NzAyOV19
 -->
