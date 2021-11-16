@@ -8,11 +8,12 @@
 
 ## Chubby Use Casees
 - Distributed locking mechanism
+	- []
 - Leader/master election
 - Nameing service (like DNS)
 - Storage (small objects that rarely change)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAxNzcwMjldfQ==
+eyJoaXN0b3J5IjpbLTcwMzkwODI5MiwtMTY3MDE3NzAyOV19
 -->
