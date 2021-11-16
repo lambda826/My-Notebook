@@ -182,6 +182,9 @@ Review at 100/200/500
 
 <a id="Leetcode 1448" href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">[Leetcode 1448.  Count Good Nodes in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_10_tree/_1448_Count_Good_Nodes_in_Binary_Tree.java">**Solution**</a>
 
+<a id="Leetcode 0863" href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">[Leetcode 0863.  All Nodes Distance K in Binary Tree]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_10_tree/traversal/ordered/_0863_All_Nodes_Distance_K_in_Binary_Tree.java">**Solution**</a>
+
+
 
 ## LCA (Lowest Common Ancestor)
 
@@ -287,11 +290,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzYyMDI4NiwtMTk0NjYzNjMzOSwtMj
-E0MzYyNzM1LDEwMTcwNTE2NTgsMTQ3MzU0OTkxNSw3NDg1ODIw
-MTEsLTg3MjI4OTUxOSwtMTUyNjY0NTYxMywxOTk3OTQxMTk4LD
-M5NDA1NDE0NSwxOTg4NDEzMzczLC0xMDMzNDMzNzAzLC03MTg3
-NTE0NDcsLTgwMzMyNjA5OSwxMzkxMzc5MzA5LDE1ODA3NjMzMz
-YsLTE5OTcwNTM4NzksNjcxODI0Njg3LDY1MDIwMjEwOSwxNzcw
-MDY3NjM3XX0=
+eyJoaXN0b3J5IjpbLTQ4NDI1NzU4MCwxNTI3NjIwMjg2LC0xOT
+Q2NjM2MzM5LC0yMTQzNjI3MzUsMTAxNzA1MTY1OCwxNDczNTQ5
+OTE1LDc0ODU4MjAxMSwtODcyMjg5NTE5LC0xNTI2NjQ1NjEzLD
+E5OTc5NDExOTgsMzk0MDU0MTQ1LDE5ODg0MTMzNzMsLTEwMzM0
+MzM3MDMsLTcxODc1MTQ0NywtODAzMzI2MDk5LDEzOTEzNzkzMD
+ksMTU4MDc2MzMzNiwtMTk5NzA1Mzg3OSw2NzE4MjQ2ODcsNjUw
+MjAyMTA5XX0=
 -->
