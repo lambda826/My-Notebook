@@ -9,6 +9,8 @@ Trie
 
 # Requirements
 ## Functional
+- The service should suggest top 10 terms starting with whatever the user has typed.
+
 ## Non-functional
 - Low latency (deliver the suggestions in **real-time**).
 - High scalability (scale to a large number of requests).
@@ -27,5 +29,6 @@ Trie
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMjc2ODA1LC05NTE1NzgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzI5NDAxOTAsNTczMjc2ODA1LC05NT
+E1NzgyNTZdfQ==
 -->
