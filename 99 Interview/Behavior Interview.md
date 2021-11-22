@@ -167,7 +167,12 @@ I worked in China for 3 years as a fullstack engineer. To seek more challenging 
 
 
 ## Pressure Handling
-When I just joined AWS RDS team, I didn't have much experience with AWS. My manger assigned me a task which has a pretty tight deadline. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that. I worked on weekends in order to catch up the timeline, but our use case was kinda very unique, there was no related document internal or external. The monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
+1. When I just joined AWS RDS team, I didn't have much experience with AWS.
+2. My manger assigned me a task which has a pretty tight deadline.
+3. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task.
+4. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that.
+5. I worked on weekends in order to catch up the deadline, I had to, but our use case was kinda very unique, there was no related document internal or external.
+6. The monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
 
 
 ## Ambuiguity Handling
@@ -228,9 +233,9 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcxMzM1OTUsOTI1MTIyMTY1LDE1OT
-Q4Nzc4NjQsOTU2MzExNzEsMTc4ODYzODgwNSw0NTU0MjcxNDUs
-LTk5ODUxMDQ5Nyw4NDc5NjkwLC0xODAxNjUxNzk5LC0xNjkzNz
-IwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1
-LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbMTk4Mzk0NzkxNCwtMTMxNzEzMzU5NSw5Mj
+UxMjIxNjUsMTU5NDg3Nzg2NCw5NTYzMTE3MSwxNzg4NjM4ODA1
+LDQ1NTQyNzE0NSwtOTk4NTEwNDk3LDg0Nzk2OTAsLTE4MDE2NT
+E3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkx
+LDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
