@@ -147,11 +147,11 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 # My Stories
 ## Introduction
-I worked in China for 3 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I am self-motivated and passionate about learning cutting edges technologies, and I like deep dive. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
+I worked in China for 3 years as a fullstack engineer. To seek more challenging opportunities, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I am self-motivated and passionate about learning cutting edges technologies, and I like deep dive. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
 
 ## Why Leave
-I successfully built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer.
+I successfully delivere built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer.
 
 
 ## Confliction
@@ -220,9 +220,9 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MTIyMTY1LDE1OTQ4Nzc4NjQsOTU2Mz
-ExNzEsMTc4ODYzODgwNSw0NTU0MjcxNDUsLTk5ODUxMDQ5Nyw4
-NDc5NjkwLC0xODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2Nj
-I3OTMsMTExNzA2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5
-XX0=
+eyJoaXN0b3J5IjpbMTg5MTkxMjY1Nyw5MjUxMjIxNjUsMTU5ND
+g3Nzg2NCw5NTYzMTE3MSwxNzg4NjM4ODA1LDQ1NTQyNzE0NSwt
+OTk4NTEwNDk3LDg0Nzk2OTAsLTE4MDE2NTE3OTksLTE2OTM3Mj
+A2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUs
+LTE1ODE5NjA0MjldfQ==
 -->
