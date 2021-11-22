@@ -10,6 +10,7 @@ Trie
 # Requirements
 ## Functional
 ## Non-functional
+- Low latency. (Deliver the suggestions in real-time)
 
 
 
@@ -23,5 +24,5 @@ Trie
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MjcyODEyLC05NTE1NzgyNTZdfQ==
+eyJoaXN0b3J5IjpbMjQxNDE4MDgwLC05NTE1NzgyNTZdfQ==
 -->
