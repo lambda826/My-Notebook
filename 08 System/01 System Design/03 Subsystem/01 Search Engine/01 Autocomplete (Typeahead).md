@@ -31,6 +31,9 @@ How to find top suggestions?
 	- Store top suggestions with each node.
 	- Problem:
 		- Trade extra storage for query speed.
+	- Optimization
+			- We can optimize our storage by storing only references of the terminal nodes rather than storing the entire phrase.
+			- To find the suggested terms we need to traverse back using the parent reference from the terminal node.
 
 How to deal case sensitivity?
 How to deal with different languages?
@@ -44,6 +47,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njk0NzUwLC03NzE3NDE5MTgsNTczMj
-c2ODA1LC05NTE1NzgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTg1NDQ3MzM5MiwtNzcxNzQxOTE4LDU3Mz
+I3NjgwNSwtOTUxNTc4MjU2XX0=
 -->
