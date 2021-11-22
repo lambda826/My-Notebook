@@ -29,6 +29,8 @@ How to find top suggestions?
 		- Time consuming due to large number of branches and depths.
 - Options 2:
 	- Store top suggestions with each node.
+	- Problem:
+		- This can surely speed up our searches but will require a lot of extra storage.
 
 How to deal case sensitivity?
 How to deal with different languages?
@@ -42,6 +44,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTA2MTgwMiwtNzcxNzQxOTE4LDU3Mz
+eyJoaXN0b3J5IjpbLTE5NzczMTkzNywtNzcxNzQxOTE4LDU3Mz
 I3NjgwNSwtOTUxNTc4MjU2XX0=
 -->
