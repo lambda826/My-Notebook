@@ -19,8 +19,9 @@ Large scale
 	- Assume 10 billion queries per day.
 - Highly available.
 
+# Architecture
 
-# Follow up questions
+
 How to find top suggestions?
 - Option 1:
 	- One simple solution could be to store the count of searches that terminated at each node.
@@ -37,6 +38,10 @@ How to find top suggestions?
 
 How to build this tree?
 
+# Follow up questions
+
+
+
 
 How to deal case sensitivity?
 How to deal with different languages?
@@ -50,6 +55,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIxNjU0ODQsLTc3MTc0MTkxOCw1Nz
+eyJoaXN0b3J5IjpbLTE5MjU4MDU1NzIsLTc3MTc0MTkxOCw1Nz
 MyNzY4MDUsLTk1MTU3ODI1Nl19
 -->
