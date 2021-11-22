@@ -151,7 +151,8 @@ I worked in China for 3 years as a fullstack engineer. To seek more challenging 
 
 
 ## Why Leave
-I successfully delivere built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer.
+I successfully delivered several projects and built some cultures for the team. I made a lot of contribution to ensure the quality of the product that we built and the process of our working rational.
+We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer.
 
 
 ## Confliction
@@ -220,7 +221,7 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTkxMjY1Nyw5MjUxMjIxNjUsMTU5ND
+eyJoaXN0b3J5IjpbLTQ3NDYyNjUxOCw5MjUxMjIxNjUsMTU5ND
 g3Nzg2NCw5NTYzMTE3MSwxNzg4NjM4ODA1LDQ1NTQyNzE0NSwt
 OTk4NTEwNDk3LDg0Nzk2OTAsLTE4MDE2NTE3OTksLTE2OTM3Mj
 A2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkxLDIwMDA4NjE2NjUs
