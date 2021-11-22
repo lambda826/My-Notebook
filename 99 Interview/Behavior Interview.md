@@ -188,7 +188,12 @@ I worked in China for 3 years as a fullstack engineer. To seek more challenging 
 
 
 ## Constructive Feedback Received
--  When I just joined my first team in Amazon, I criticized a lot of artifacts built by my team. Such as coding styles, the coding standards, the abuse the duplicate code, absense of designs and docs. But my team members didn't buy it even though most of the time I was corrent. I received the feedback that "Do not just criticize, but also propose the solution". So I got it, I had to  earn trust first. For each item that I proposed, I did a lot of research both internally and externally. I also implemented my artifacts with best practice and got everyone aware. I also set up knowledge sharing sessions to share my solutions to those issues. After like one year, my team has been pretty willing to listen to my advices and they knew that I was just being passionate instead of being bitching.
+- When I just joined my first team in Amazon, I criticized a lot of artifacts built by my team
+- Such as coding styles, the coding standards, the abuse the duplicate code, absense of designs and docs.
+- But my team members didn't buy it even though most of the time I was corrent. I received the feedback that "Do not just criticize, but also propose the solution".
+- So I got it, I had to  earn trust first. For each item that I proposed, I did a lot of research both internally and externally.
+- I also implemented my artifacts with best practice and got everyone aware. I also set up knowledge sharing sessions to share my solutions to those issues.
+- After like one year, my team has been pretty willing to listen to my advices and they knew that I was just being passionate instead of being bitching.
 
 
 ## Leadership
@@ -238,9 +243,9 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ2OTE4OTAsLTEzMTcxMzM1OTUsOT
-I1MTIyMTY1LDE1OTQ4Nzc4NjQsOTU2MzExNzEsMTc4ODYzODgw
-NSw0NTU0MjcxNDUsLTk5ODUxMDQ5Nyw4NDc5NjkwLC0xODAxNj
-UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
-MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbNjQ0NzYwNjE1LC0xNTY0NjkxODkwLC0xMz
+E3MTMzNTk1LDkyNTEyMjE2NSwxNTk0ODc3ODY0LDk1NjMxMTcx
+LDE3ODg2Mzg4MDUsNDU1NDI3MTQ1LC05OTg1MTA0OTcsODQ3OT
+Y5MCwtMTgwMTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkz
+LDExMTcwNjA1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
