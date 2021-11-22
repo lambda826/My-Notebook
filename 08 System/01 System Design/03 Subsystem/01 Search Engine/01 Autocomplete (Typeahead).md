@@ -6,6 +6,8 @@
 
 # Keyword
 Trie
+Realtime
+Large scale
 
 # Requirements
 ## Functional
@@ -29,6 +31,6 @@ Trie
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI5NDAxOTAsNTczMjc2ODA1LC05NT
-E1NzgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTc3MTc0MTkxOCw1NzMyNzY4MDUsLTk1MT
+U3ODI1Nl19
 -->
