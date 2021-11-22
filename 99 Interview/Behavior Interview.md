@@ -147,7 +147,7 @@ Show that you proactively communicated the issue and its resolution to all the s
 
 # My Stories
 ## Introduction
-I worked in China for 3 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I am passionate about cutting 4technologies, and I like dive deep. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
+I worked in China for 3 years as a fullstack engineer. To seek more challenging opportunity, I quit and came to U.S. to purse my master degree, and then Joined Amazon. I have been working at Amazon for 2 and half years. My first team was under e-commerce, and current team is under AWS RDS. I am self-motivated and passionate about learning cutting edges technologies, and I like deep dive. And I am very willing to share or transfer my knowledge to my teams and help the whole team growth.
 
 
 ## Why Leave
@@ -220,8 +220,8 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU0Mjg4NDksOTU2MzExNzEsMTc4OD
-YzODgwNSw0NTU0MjcxNDUsLTk5ODUxMDQ5Nyw4NDc5NjkwLC0x
-ODAxNjUxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNz
-A2MDU5MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
+eyJoaXN0b3J5IjpbOTQ3NzY0NjA4LDk1NjMxMTcxLDE3ODg2Mz
+g4MDUsNDU1NDI3MTQ1LC05OTg1MTA0OTcsODQ3OTY5MCwtMTgw
+MTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNj
+A1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
 -->
