@@ -5,7 +5,11 @@
 	- A query that has been searched several times will appear among the top suggestions.
 
 # Keyword
+Trie
 
+# Requirements
+## Functional
+## Non-functional
 
 
 
@@ -19,5 +23,5 @@
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDQxMzk3NSwtOTUxNTc4MjU2XX0=
+eyJoaXN0b3J5IjpbNzg0MjcyODEyLC05NTE1NzgyNTZdfQ==
 -->
