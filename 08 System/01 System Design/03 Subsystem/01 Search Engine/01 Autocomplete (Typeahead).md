@@ -11,7 +11,8 @@ Trie
 ## Functional
 ## Non-functional
 - Low latency (deliver the suggestions in **real-time**).
-- Scale to a large number of requests.
+- High scalability (scale to a large number of requests).
+- Highly available
 
 
 
@@ -25,5 +26,5 @@ Trie
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAxMTQwNzYsLTk1MTU3ODI1Nl19
+eyJoaXN0b3J5IjpbLTUzMzExMDM3OSwtOTUxNTc4MjU2XX0=
 -->
