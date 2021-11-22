@@ -151,11 +151,11 @@ I worked in China for 3 years as a fullstack engineer. To seek more challenging 
 
 
 ## Why Leave
-I successfully built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer. Specifically more about technical leadership and technical management.
+I successfully built some cultures for the team, such as stick to highest standards, code qualities, code review process, knowledge transferring. We just completed and launched the Promotion Shopping Page project world wide, so I am seeking for greater leadership challenges for my carreer.
 
 
 ## Confliction
-At very beginning of the Promotion Shopping Page Project, we were discussing what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
+At very beginning of the Promotion Shopping Page Project, we were discussing about what tech stack that we should use. Since my team was more about backend, we don't have much fullstack exprience before. For front end, what we own is a promotion widget on Amazon retail website which is written in JSP. So my PE proposed to keep using JSP cause eveyrone should be more familiar with it, while my proposal was to use other client side rendering stack such as react. My arguments were, it's better performance, more reusable, front back end separation. But other members stuck to JSP. This debate lasted for a while and we didn't make any progress. So eventually I comprised to using JSP but I introduced a plug in to make JSP precompiled in order to improve the performance. And I avoided using any business logic in JSP, bascially I used it as pure HTML tags. It turned out not that bad. We successfully delivered the project.
 
 
 ## Pressure Handling
@@ -220,8 +220,8 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NzY0NjA4LDk1NjMxMTcxLDE3ODg2Mz
-g4MDUsNDU1NDI3MTQ1LC05OTg1MTA0OTcsODQ3OTY5MCwtMTgw
-MTY1MTc5OSwtMTY5MzcyMDYwNSwxMTkzNjYyNzkzLDExMTcwNj
-A1OTEsMjAwMDg2MTY2NSwtMTU4MTk2MDQyOV19
+eyJoaXN0b3J5IjpbMTU5NDg3Nzg2NCw5NTYzMTE3MSwxNzg4Nj
+M4ODA1LDQ1NTQyNzE0NSwtOTk4NTEwNDk3LDg0Nzk2OTAsLTE4
+MDE2NTE3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MD
+YwNTkxLDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
 -->
