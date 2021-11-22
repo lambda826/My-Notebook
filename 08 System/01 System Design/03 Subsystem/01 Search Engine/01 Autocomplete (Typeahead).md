@@ -35,6 +35,9 @@ How to find top suggestions?
 		- We can optimize our storage by storing only references of the terminal nodes rather than storing the entire phrase.
 		- To find the suggested terms we need to traverse back using the parent reference from the terminal node to the root.
 
+How to build this tree?
+
+
 How to deal case sensitivity?
 How to deal with different languages?
 
@@ -47,6 +50,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTYyMjU1NCwtNzcxNzQxOTE4LDU3Mz
-I3NjgwNSwtOTUxNTc4MjU2XX0=
+eyJoaXN0b3J5IjpbLTE4NjIxNjU0ODQsLTc3MTc0MTkxOCw1Nz
+MyNzY4MDUsLTk1MTU3ODI1Nl19
 -->
