@@ -12,7 +12,8 @@ Trie
 ## Non-functional
 - Low latency (deliver the suggestions in **real-time**).
 - High scalability (scale to a large number of requests).
-- Highly available
+	- Assume 10 billion queries per day.
+- Highly available.
 
 
 
@@ -26,5 +27,5 @@ Trie
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzExMDM3OSwtOTUxNTc4MjU2XX0=
+eyJoaXN0b3J5IjpbNTczMjc2ODA1LC05NTE1NzgyNTZdfQ==
 -->
