@@ -21,7 +21,7 @@ Large scale
 
 
 # Follow up questions
-- **How to find top suggestion?**
+- How to find top suggestion
 - Case sensitive
 - Handle different language
 
@@ -34,6 +34,6 @@ Large scale
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUyNjY5NTgsLTc3MTc0MTkxOCw1Nz
-MyNzY4MDUsLTk1MTU3ODI1Nl19
+eyJoaXN0b3J5IjpbMTEzMzk1OTA5OSwtNzcxNzQxOTE4LDU3Mz
+I3NjgwNSwtOTUxNTc4MjU2XX0=
 -->
