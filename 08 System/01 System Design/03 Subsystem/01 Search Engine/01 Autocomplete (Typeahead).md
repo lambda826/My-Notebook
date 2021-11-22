@@ -27,6 +27,8 @@ How to find top suggestions?
 	- To find the top suggestions for a given prefix, we can traverse the sub-tree under it.
 	- Problem:
 		- Time consuming due to large number of branches and depths.
+- Options 2:
+	- **store top suggestions with each node**
 
 How to deal case sensitivity?
 How to deal with different languages?
@@ -40,6 +42,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcwNjEyNTYsLTc3MTc0MTkxOCw1Nz
-MyNzY4MDUsLTk1MTU3ODI1Nl19
+eyJoaXN0b3J5IjpbLTM0NTMyNzA2MiwtNzcxNzQxOTE4LDU3Mz
+I3NjgwNSwtOTUxNTc4MjU2XX0=
 -->
