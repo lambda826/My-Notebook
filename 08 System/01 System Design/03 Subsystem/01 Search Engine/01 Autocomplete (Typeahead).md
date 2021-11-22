@@ -30,7 +30,7 @@ How to find top suggestions?
 - Options 2:
 	- Store top suggestions with each node.
 	- Problem:
-		- Trade extra storage for search speed.
+		- Trade extra storage for query speed.
 
 How to deal case sensitivity?
 How to deal with different languages?
@@ -44,6 +44,6 @@ How to deal with different languages?
 - [System Design Interview: Autocomplete/Type-ahead System for a Search Box](https://medium.com/double-pointer/system-design-interview-autocomplete-type-ahead-system-for-a-search-box-1ac968f9f121)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzE3NTQ3MCwtNzcxNzQxOTE4LDU3Mz
-I3NjgwNSwtOTUxNTc4MjU2XX0=
+eyJoaXN0b3J5IjpbLTI3Njk0NzUwLC03NzE3NDE5MTgsNTczMj
+c2ODA1LC05NTE1NzgyNTZdfQ==
 -->
