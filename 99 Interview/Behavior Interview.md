@@ -172,14 +172,19 @@ I worked in China for 3 years as a fullstack engineer. To seek more challenging 
 3. I did my best to learn the related AWS knowledge and our specific business domain which was related to that task.
 4. I was not familiar with the developing and testing process of the team, so I involved other team members showing me how to do that.
 5. I worked on weekends in order to catch up the deadline, I had to, but our use case was kinda very unique, there was no related document internal or external.
-6. The monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
+6. On the next Monday I told my manager about my difficulties, she basically gave me some contacts that I should ask for help.
+7. After some chat and iteration, we concluded that the issue was not on our side, and we were not about to fix it. So I involved the team who was running campaign and let them know the issue. After some investigation, they fixed it.
 
 
 ## Ambuiguity Handling
 
 
 ## Quick Learning
-There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason. I didn't even hear of that technology before, everyone wasn't willing to take that ownership, but I stepped ahead. The timeline was pretty tight. I was not familiar with the system nor the languange. I basically spent one week on learning this language and ramping up with system. I delivered the migraiton before the deadline, and my manager told me that he was so impressed that I couldn't believe I got this done in such a short time, especially I had to learn a lot of stuff.
+1. There was a migration project which asked us to migrate our service off from a very old technology, which was written by Mason.
+2. I didn't even hear of that technology before, everyone wasn't willing to take that ownership, but I stepped ahead.
+3. The timeline was pretty tight. I was not familiar with the system nor the languange.
+4. I basically spent one week on learning this language and ramping up with system.
+5. I delivered the migraiton before the deadline, and my manager told me that he was so impressed that I couldn't believe I got this done in such a short time, especially I had to learn a lot of stuff.
 
 
 ## Constructive Feedback Received
@@ -233,9 +238,9 @@ In Disaster Point Emergency project, after I completed the requirements analysis
 -	You can ask questions related to the performance review process.
 -	Ask questions that get the interviewer to talk about their careers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mzk0NzkxNCwtMTMxNzEzMzU5NSw5Mj
-UxMjIxNjUsMTU5NDg3Nzg2NCw5NTYzMTE3MSwxNzg4NjM4ODA1
-LDQ1NTQyNzE0NSwtOTk4NTEwNDk3LDg0Nzk2OTAsLTE4MDE2NT
-E3OTksLTE2OTM3MjA2MDUsMTE5MzY2Mjc5MywxMTE3MDYwNTkx
-LDIwMDA4NjE2NjUsLTE1ODE5NjA0MjldfQ==
+eyJoaXN0b3J5IjpbLTE1NjQ2OTE4OTAsLTEzMTcxMzM1OTUsOT
+I1MTIyMTY1LDE1OTQ4Nzc4NjQsOTU2MzExNzEsMTc4ODYzODgw
+NSw0NTU0MjcxNDUsLTk5ODUxMDQ5Nyw4NDc5NjkwLC0xODAxNj
+UxNzk5LC0xNjkzNzIwNjA1LDExOTM2NjI3OTMsMTExNzA2MDU5
+MSwyMDAwODYxNjY1LC0xNTgxOTYwNDI5XX0=
 -->
