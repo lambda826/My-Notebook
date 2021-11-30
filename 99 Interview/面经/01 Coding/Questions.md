@@ -270,6 +270,8 @@ Review at 100/200/500
 <a id="Leetcode 1048" href="https://leetcode.com/problems/longest-string-chain/">[Leetcode 1048.  Longest String Chain]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> *###- Google, 
 
 
+<a id="Leetcode 0128" href="https://leetcode.com/problems/longest-consecutive-sequence/">[Leetcode 0128.  Longest Consecutive Sequence]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_18_hash/_1048_Longest_String_Chain.java">**Solution**</a> *###- Google, 
+
 # Trie
 # Union Find
 
@@ -292,5 +294,5 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDAzMDQ0XX0=
+eyJoaXN0b3J5IjpbNTMwOTg2Mzg2LDMyMTAwMzA0NF19
 -->
