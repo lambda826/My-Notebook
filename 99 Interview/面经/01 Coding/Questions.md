@@ -15,16 +15,18 @@
 6. Run test cases.
 
 Target companies:
+- Airbnb
+- Stripe
 - Google
 - Facebook
 - Amazon
-- Airbnb
+- Twitter
+- Snap
 - Airtable
 - Databricks
 - Snowflake
 - Confluent
 - Roblox
-- Stripe
 - Robinhood
 - Compass
 - Zillow
@@ -295,6 +297,6 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDYyNjU2NiwxMDQ1ODU2MjQ3LDE1ND
-M0MzUyODEsMzIxMDAzMDQ0XX0=
+eyJoaXN0b3J5IjpbLTExMTY2NDY4MTEsMTA0NTg1NjI0NywxNT
+QzNDM1MjgxLDMyMTAwMzA0NF19
 -->
