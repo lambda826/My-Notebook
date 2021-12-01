@@ -25,6 +25,7 @@ Target companies:
 - Uber
 - Airtable
 - Databricks
+- Dropbox
 - Snowflake
 - Confluent
 - Roblox
@@ -298,6 +299,6 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1MzYyNiwxMDQ1ODU2MjQ3LDE1ND
-M0MzUyODEsMzIxMDAzMDQ0XX0=
+eyJoaXN0b3J5IjpbMTM2NTc3OTcxMSwtMTE4ODUzNjI2LDEwND
+U4NTYyNDcsMTU0MzQzNTI4MSwzMjEwMDMwNDRdfQ==
 -->
