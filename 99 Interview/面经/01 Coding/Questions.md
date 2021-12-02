@@ -158,7 +158,7 @@ Review at 100/200/500
 
 <a id="Leetcode 0130" href="https://leetcode.com/problems/surrounded-regions/">[Leetcode 0130.  Surrounded Regions]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_09_dfs_backtracking/_0130_Surrounded_Regions.java">**Solution**</a> ***##  - Google,
 
-<a id="Leetcode 1254" href="https://leetcode.com/problems/number-of-closed-islands/">[Leetcode 1254.  Number of Closed Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_09_dfs_backtracking/_0130_Surrounded_Regions.java">**Solution**</a> ***##  - Google,
+<a id="Leetcode 1254" href="https://leetcode.com/problems/number-of-closed-islands/">[Leetcode 1254.  Number of Closed Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_09_dfs_backtracking/_1254_Number_of_Closed_Islands.java">**Solution**</a> ***##  - Google,
 
 
 
@@ -302,7 +302,7 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjM5NTc1MywxMzY1Nzc5NzExLC0xMT
+eyJoaXN0b3J5IjpbLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC0xMT
 g4NTM2MjYsMTA0NTg1NjI0NywxNTQzNDM1MjgxLDMyMTAwMzA0
 NF19
 -->
