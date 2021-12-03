@@ -149,7 +149,7 @@ Review at 100/200/500
 <a id="Leetcode 0200" href="https://leetcode.com/problems/number-of-islands/">[Leetcode 0200.  Number of Islands]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_08_bfs_dfs/_0200_Number_of_Islands.java">**Solution**</a> - Google,
 
 ## PriorityQueue
-<a id="Leetcode 1631" href="https://leetcode.com/problems/path-with-minimum-effort/">[Leetcode 1631.  Path With Minimum Effort]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/priorityQueue/_1631_Path_With_Minimum_Effort.java">**Solution**</a> - Google,
+<a id="Leetcode 1631" href="https://leetcode.com/problems/path-with-minimum-effort/">[Leetcode 1631.  Path With Minimum Effort]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_07_bfs/priorityQueue/_1631_Path_With_Minimum_Effort.java">**Solution**</a> ***##
 
 
 
@@ -305,7 +305,7 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzI4MjAxLC0xMzE2MTk0OTUsMTM2NT
+eyJoaXN0b3J5IjpbNTE1MTIyNzUxLC0xMzE2MTk0OTUsMTM2NT
 c3OTcxMSwtMTE4ODUzNjI2LDEwNDU4NTYyNDcsMTU0MzQzNTI4
 MSwzMjEwMDMwNDRdfQ==
 -->
