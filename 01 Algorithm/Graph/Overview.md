@@ -4,7 +4,18 @@
 ## Breadth-First Search
 ## Depth-First Search
 ## 
-
+Topological Sort
+Implementation
+* DFS
+  * Iterate every node in the Graph
+  * For each node, if it's not visited, mark it as visited, recursively DFS visit every neighbour of current node
+  * After the visiting each neighbour, add current node to head of the order list.
+* BFS
+  * Additional data structure to store the indegree of each node
+  * Enqueue all nodes which have zero indegree
+  * Dequeue the current node and add it into the orderList
+  * Update indegree of the neighbours of the current node
+    * Enqueue if the beighbour node has zero indegree
 ## Connectivity
 ### Properties
 Strong connectivity in digraphs
@@ -151,5 +162,5 @@ Properties of shortest paths and relaxation
 
 ## Maximum Flow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTU2NjA0Nl19
+eyJoaXN0b3J5IjpbMTA3MDM4MjI2OCwxNjA1NTY2MDQ2XX0=
 -->
