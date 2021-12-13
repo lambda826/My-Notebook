@@ -105,7 +105,6 @@ Review at 100/200/500
 
 
 <a id="Leetcode 0237" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *##
-
 <a id="Leetcode 0203" href="https://leetcode.com/problems/delete-node-in-a-linked-list/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
 
 <a id="Leetcode 1836" href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">[Leetcode 1836.  Remove Duplicates From an Unsorted Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java">**Solution**</a> *##
@@ -317,10 +316,9 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE3NjE3NzQsNjI5MDMyMDY0LDE0Mz
-c3NDg0MDYsLTIwMTM1NTQ0MzksNTA1MDAzOTM2LDEwNjE1NDk4
-MzEsMTk1MTk3NjI2LDExNTQyNzEzMzAsLTE1MzMxMTU5NjQsNT
-E1MTIyNzUxLC0xMzE2MTk0OTUsMTM2NTc3OTcxMSwtMTE4ODUz
-NjI2LDEwNDU4NTYyNDcsMTU0MzQzNTI4MSwzMjEwMDMwNDRdfQ
-==
+eyJoaXN0b3J5IjpbLTczNzg3MzA1Miw2MjkwMzIwNjQsMTQzNz
+c0ODQwNiwtMjAxMzU1NDQzOSw1MDUwMDM5MzYsMTA2MTU0OTgz
+MSwxOTUxOTc2MjYsMTE1NDI3MTMzMCwtMTUzMzExNTk2NCw1MT
+UxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC0xMTg4NTM2
+MjYsMTA0NTg1NjI0NywxNTQzNDM1MjgxLDMyMTAwMzA0NF19
 -->
