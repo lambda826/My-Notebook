@@ -104,7 +104,7 @@ Review at 100/200/500
 <a id="Leetcode 0445" href="https://leetcode.com/problems/add-two-numbers-ii/">[Leetcode 0445.  Add Two Numbers II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0445_Add_Two_Numbers_II.java">**Solution**</a>
 
 
-<a id="Leetcode 0237" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *#
+<a id="Leetcode 0237" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *##
 
 <a id="Leetcode 0203" href="https://leetcode.com/problems/delete-node-in-a-linked-list/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
 
@@ -317,9 +317,10 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MTA1MTUsNjI5MDMyMDY0LDE0Mzc3ND
-g0MDYsLTIwMTM1NTQ0MzksNTA1MDAzOTM2LDEwNjE1NDk4MzEs
-MTk1MTk3NjI2LDExNTQyNzEzMzAsLTE1MzMxMTU5NjQsNTE1MT
-IyNzUxLC0xMzE2MTk0OTUsMTM2NTc3OTcxMSwtMTE4ODUzNjI2
-LDEwNDU4NTYyNDcsMTU0MzQzNTI4MSwzMjEwMDMwNDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzE3NjE3NzQsNjI5MDMyMDY0LDE0Mz
+c3NDg0MDYsLTIwMTM1NTQ0MzksNTA1MDAzOTM2LDEwNjE1NDk4
+MzEsMTk1MTk3NjI2LDExNTQyNzEzMzAsLTE1MzMxMTU5NjQsNT
+E1MTIyNzUxLC0xMzE2MTk0OTUsMTM2NTc3OTcxMSwtMTE4ODUz
+NjI2LDEwNDU4NTYyNDcsMTU0MzQzNTI4MSwzMjEwMDMwNDRdfQ
+==
 -->
