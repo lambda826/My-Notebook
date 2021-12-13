@@ -104,6 +104,7 @@ Review at 100/200/500
 
 <a id="Leetcode 0445" href="https://leetcode.com/problems/add-two-numbers-ii/">[Leetcode 0445.  Add Two Numbers II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0445_Add_Two_Numbers_II.java">**Solution**</a>
 
+<a id="Leetcode 1836" href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">[Leetcode 1836.  Remove Duplicates From an Unsorted Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java">**Solution**</a> *##
 <a id="Leetcode 0082" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii//">[Leetcode 0082.  Remove Duplicates from Sorted List II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0082_Remove_Duplicates_from_Sorted_List_II.java">**Solution**</a> *##
 <a id="Leetcode 0083" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">[Leetcode 0083.  Remove Duplicates from Sorted List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java">**Solution**</a> *#
 
@@ -308,7 +309,8 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDI3MTMzMCwtMTUzMzExNTk2NCw1MT
-UxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC0xMTg4NTM2
-MjYsMTA0NTg1NjI0NywxNTQzNDM1MjgxLDMyMTAwMzA0NF19
+eyJoaXN0b3J5IjpbMTk1MTk3NjI2LDExNTQyNzEzMzAsLTE1Mz
+MxMTU5NjQsNTE1MTIyNzUxLC0xMzE2MTk0OTUsMTM2NTc3OTcx
+MSwtMTE4ODUzNjI2LDEwNDU4NTYyNDcsMTU0MzQzNTI4MSwzMj
+EwMDMwNDRdfQ==
 -->
