@@ -109,7 +109,7 @@ Review at 100/200/500
 <a id="Leetcode 0083" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">[Leetcode 0083.  Remove Duplicates from Sorted List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java">**Solution**</a> *#
 
 <a id="Leetcode 0141" href="https://leetcode.com/problems/linked-list-cycle/">[Leetcode 0141.  Linked List Cycle]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0141_Linked_List_Cycle.java">**Solution**</a> *##
-
+<a id="Leetcode 0142" href="https://leetcode.com/problems/linked-list-cycle-ii/">[Leetcode 0142.  Linked List Cycle II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0141_Linked_List_Cycle.java">**Solution**</a> *##
 
 # Binary Search
 
@@ -311,8 +311,8 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTU0OTgzMSwxOTUxOTc2MjYsMTE1ND
-I3MTMzMCwtMTUzMzExNTk2NCw1MTUxMjI3NTEsLTEzMTYxOTQ5
-NSwxMzY1Nzc5NzExLC0xMTg4NTM2MjYsMTA0NTg1NjI0NywxNT
-QzNDM1MjgxLDMyMTAwMzA0NF19
+eyJoaXN0b3J5IjpbMTAyOTg4MDQ5NSwxMDYxNTQ5ODMxLDE5NT
+E5NzYyNiwxMTU0MjcxMzMwLC0xNTMzMTE1OTY0LDUxNTEyMjc1
+MSwtMTMxNjE5NDk1LDEzNjU3Nzk3MTEsLTExODg1MzYyNiwxMD
+Q1ODU2MjQ3LDE1NDM0MzUyODEsMzIxMDAzMDQ0XX0=
 -->
