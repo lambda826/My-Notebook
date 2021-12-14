@@ -108,7 +108,7 @@ Review at 100/200/500
 
 <a id="Leetcode 1836" href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">[Leetcode 1836.  Remove Duplicates From an Unsorted Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java">**Solution**</a> *##
 <a id="Leetcode 0083" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">[Leetcode 0083.  Remove Duplicates from Sorted List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java">**Solution**</a> *#
-<a id="Leetcode 0082" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii//">[Leetcode 0082.  Remove Duplicates from Sorted List II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0082_Remove_Duplicates_from_Sorted_List_II.java">**Solution**</a> *##
+<a id="Leetcode 0082" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">[Leetcode 0082.  Remove Duplicates from Sorted List II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0082_Remove_Duplicates_from_Sorted_List_II.java">**Solution**</a> *##
 
 <a id="Leetcode 0141" href="https://leetcode.com/problems/linked-list-cycle/">[Leetcode 0141.  Linked List Cycle]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0141_Linked_List_Cycle.java">**Solution**</a> *##
 <a id="Leetcode 0142" href="https://leetcode.com/problems/linked-list-cycle-ii/">[Leetcode 0142.  Linked List Cycle II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0142_Linked_List_Cycle_II.java">**Solution**</a> **##
@@ -315,10 +315,10 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMyNzQzMzYsLTI2MjU2NjcwMiw2Mj
-kwMzIwNjQsMTQzNzc0ODQwNiwtMjAxMzU1NDQzOSw1MDUwMDM5
-MzYsMTA2MTU0OTgzMSwxOTUxOTc2MjYsMTE1NDI3MTMzMCwtMT
-UzMzExNTk2NCw1MTUxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5
-NzExLC0xMTg4NTM2MjYsMTA0NTg1NjI0NywxNTQzNDM1MjgxLD
-MyMTAwMzA0NF19
+eyJoaXN0b3J5IjpbOTIyODU4NDExLC0xMDEzMjc0MzM2LC0yNj
+I1NjY3MDIsNjI5MDMyMDY0LDE0Mzc3NDg0MDYsLTIwMTM1NTQ0
+MzksNTA1MDAzOTM2LDEwNjE1NDk4MzEsMTk1MTk3NjI2LDExNT
+QyNzEzMzAsLTE1MzMxMTU5NjQsNTE1MTIyNzUxLC0xMzE2MTk0
+OTUsMTM2NTc3OTcxMSwtMTE4ODUzNjI2LDEwNDU4NTYyNDcsMT
+U0MzQzNTI4MSwzMjEwMDMwNDRdfQ==
 -->
