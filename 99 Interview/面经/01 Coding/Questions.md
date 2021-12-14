@@ -104,7 +104,7 @@ Review at 100/200/500
 
 
 <a id="Leetcode 0237" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *##
-<a id="Leetcode 0203" href="https://leetcode.com/problems/delete-node-in-a-linked-list/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
+<a id="Leetcode 0203" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
 
 <a id="Leetcode 1836" href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">[Leetcode 1836.  Remove Duplicates From an Unsorted Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java">**Solution**</a> *##
 <a id="Leetcode 0083" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">[Leetcode 0083.  Remove Duplicates from Sorted List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java">**Solution**</a> *#
@@ -315,10 +315,10 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyODU4NDExLC0xMDEzMjc0MzM2LC0yNj
-I1NjY3MDIsNjI5MDMyMDY0LDE0Mzc3NDg0MDYsLTIwMTM1NTQ0
-MzksNTA1MDAzOTM2LDEwNjE1NDk4MzEsMTk1MTk3NjI2LDExNT
-QyNzEzMzAsLTE1MzMxMTU5NjQsNTE1MTIyNzUxLC0xMzE2MTk0
-OTUsMTM2NTc3OTcxMSwtMTE4ODUzNjI2LDEwNDU4NTYyNDcsMT
-U0MzQzNTI4MSwzMjEwMDMwNDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDU0OTAwNSw5MjI4NTg0MTEsLTEwMT
+MyNzQzMzYsLTI2MjU2NjcwMiw2MjkwMzIwNjQsMTQzNzc0ODQw
+NiwtMjAxMzU1NDQzOSw1MDUwMDM5MzYsMTA2MTU0OTgzMSwxOT
+UxOTc2MjYsMTE1NDI3MTMzMCwtMTUzMzExNTk2NCw1MTUxMjI3
+NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC0xMTg4NTM2MjYsMT
+A0NTg1NjI0NywxNTQzNDM1MjgxLDMyMTAwMzA0NF19
 -->
