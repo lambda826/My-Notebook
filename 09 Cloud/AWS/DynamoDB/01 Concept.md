@@ -26,7 +26,7 @@ An _attribute_ is a fundamental data element, something that does not need to be
 
 
 ## Primary Key
-You must spe
+You must specify primary key when create a table.
 -  Uniquely identifies each item in the table, so that no two items can have the same key.
 -  DynamoDB supports two different kinds of primary keys:
 	- **Partition key**
@@ -50,6 +50,6 @@ Each event is represented by a  _stream record_. If you enable a stream on a tab
 
 Each stream record also contains the name of the table, the event timestamp, and other metadata. Stream records have a lifetime of 24 hours; after that, they are automatically removed from the stream.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzA2NzQ0NSwtMTE3NDM1Mjg3MSwtOD
-c0ODY3NTU5LDExNzUwMjQ4NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA2OTE0NDgsLTExNzQzNTI4NzEsLT
+g3NDg2NzU1OSwxMTc1MDI0ODYxXX0=
 -->
