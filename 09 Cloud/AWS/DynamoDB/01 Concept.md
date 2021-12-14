@@ -31,6 +31,9 @@ You must specify primary key when create a table.
 -  DynamoDB supports two different kinds of primary keys:
 	- **Partition key**
 	- **Partition key and sort key**
+		- DynamoDB uses the partition key value as input to an internal hash function. The output from the hash function determines the partition (physical storage internal to DynamoDB) in which the item will be stored.
+		- All items with the same partition key value are stored together, in sorted order by sort key value.
+		- In a table that has a partition key and a sort key, it's possible for multiple items to have the same partition key value. However, those items must have different sort key values.
 
 
 ## Secondary Indexes
@@ -50,6 +53,6 @@ Each event is represented by a  _stream record_. If you enable a stream on a tab
 
 Each stream record also contains the name of the table, the event timestamp, and other metadata. Stream records have a lifetime of 24 hours; after that, they are automatically removed from the stream.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA2OTE0NDgsLTExNzQzNTI4NzEsLT
-g3NDg2NzU1OSwxMTc1MDI0ODYxXX0=
+eyJoaXN0b3J5IjpbMTkxNzA4NzI0NSwtMTE3NDM1Mjg3MSwtOD
+c0ODY3NTU5LDExNzUwMjQ4NjFdfQ==
 -->
