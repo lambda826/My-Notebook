@@ -115,6 +115,9 @@ Review at 100/200/500
 
 <a id="Leetcode 0160" href="https://leetcode.com/problems/intersection-of-two-linked-lists/">[Leetcode 0160.  Intersection of Two Linked Lists]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0160_Intersection_of_Two_Linked_Lists.java">**Solution**</a> **##
 
+<a id="Leetcode 0206" href="https://leetcode.com/problems/reverse-linked-list/">[Leetcode 0206.  Reverse Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0206_Reverse_Linked_List.java">**Solution**</a> **##
+
+
 # Binary Search
 
 # Sorting
@@ -315,11 +318,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA1Nzg1NjMsLTEyMDU0OTAwNSw5Mj
-I4NTg0MTEsLTEwMTMyNzQzMzYsLTI2MjU2NjcwMiw2MjkwMzIw
-NjQsMTQzNzc0ODQwNiwtMjAxMzU1NDQzOSw1MDUwMDM5MzYsMT
-A2MTU0OTgzMSwxOTUxOTc2MjYsMTE1NDI3MTMzMCwtMTUzMzEx
-NTk2NCw1MTUxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC
-0xMTg4NTM2MjYsMTA0NTg1NjI0NywxNTQzNDM1MjgxLDMyMTAw
-MzA0NF19
+eyJoaXN0b3J5IjpbMjAxNzA0MzU5MCwtMTM5MDU3ODU2MywtMT
+IwNTQ5MDA1LDkyMjg1ODQxMSwtMTAxMzI3NDMzNiwtMjYyNTY2
+NzAyLDYyOTAzMjA2NCwxNDM3NzQ4NDA2LC0yMDEzNTU0NDM5LD
+UwNTAwMzkzNiwxMDYxNTQ5ODMxLDE5NTE5NzYyNiwxMTU0Mjcx
+MzMwLC0xNTMzMTE1OTY0LDUxNTEyMjc1MSwtMTMxNjE5NDk1LD
+EzNjU3Nzk3MTEsLTExODg1MzYyNiwxMDQ1ODU2MjQ3LDE1NDM0
+MzUyODFdfQ==
 -->
