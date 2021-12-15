@@ -12,8 +12,11 @@
 ## [Data Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.DataPlane)
 ### PartiQL - A SQL-Compatible Query Language
 -  `ExecuteStatement`
-	-  Reads multiple items from a table. You can also write or update a single item from a table.
+	- Reads multiple items from a table. 
+	- Write or update a single item from a table.
 -  `BatchExecuteStatement`
+	- Writes, updates or reads multiple items from a table.
+	- This is more efficient than `ExecuteStatement` because your application only needs a single network round trip to write or read the items.
 
 ### Classic APIs
 -  Creating Data
@@ -56,5 +59,5 @@
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM3MDQzMCwtMTgxNzAyMDQ3NV19
+eyJoaXN0b3J5IjpbMzk0ODM1MjM5LC0xODE3MDIwNDc1XX0=
 -->
