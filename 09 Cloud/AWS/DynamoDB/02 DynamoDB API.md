@@ -27,11 +27,11 @@
 		- You can also use `BatchWriteItem` for deleting multiple items from one or more tables.
 -  Reading Data
 	-  `GetItem`
-		- Retrieves a single item from a table. You must specify the primary key for the item that you want.
+		- Retrieves a single item from a table.
 	-  `BatchGetItem`
 		- Retrieves up to 100 items from one or more tables.
 	-  `Query`
-		- Retrieves all items that have a specific partition key. You must specify the partition key value.
+		- Retrieves all items that have a specific partition key.
 		- Optionally, you can apply a condition to the sort key values so that you only retrieve a subset of the data that has the same partition key.
 	-  `Scan`
 		- Retrieves all items in the specified table or index.
@@ -59,5 +59,6 @@
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0ODM1MjM5LC0xODE3MDIwNDc1XX0=
+eyJoaXN0b3J5IjpbLTE1OTQwNTE2NzcsMzk0ODM1MjM5LC0xOD
+E3MDIwNDc1XX0=
 -->
