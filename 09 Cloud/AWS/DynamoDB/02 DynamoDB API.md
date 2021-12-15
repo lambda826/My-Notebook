@@ -2,6 +2,7 @@
 ## [Control Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.ControlPlane)
 `CreateTable`
 `DescribeTable`
+=
 `ListTables`
 `UpdateTable`
 `DeleteTable`
@@ -54,5 +55,5 @@
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcwMjA0NzVdfQ==
+eyJoaXN0b3J5IjpbNDkwODg2NjMyLC0xODE3MDIwNDc1XX0=
 -->
