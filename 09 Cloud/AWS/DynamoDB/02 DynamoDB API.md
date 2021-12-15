@@ -2,9 +2,10 @@
 ## [Control Plane](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.API.html#HowItWorks.API.ControlPlane)
 `CreateTable`
 `DescribeTable`
-=
+- Returns information about a table, such as its primary key schema, throughput settings, and index information.
 `ListTables`
 `UpdateTable`
+- Modifies the settings of a table or its indexes, creates or removes new indexes on a table, or modifies DynamoDB Streams settings for a table.
 `DeleteTable`
 
 
@@ -55,5 +56,5 @@
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwODg2NjMyLC0xODE3MDIwNDc1XX0=
+eyJoaXN0b3J5IjpbMTg3MDM3MDQzMCwtMTgxNzAyMDQ3NV19
 -->
