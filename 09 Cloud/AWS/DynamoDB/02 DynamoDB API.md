@@ -56,9 +56,10 @@
 
 ### Classic APIs
 -  `TransactWriteItems`
+	- A batch operation that allows  `Put`,  `Update`, and  `Delete`  operations to multiple items both within and across tables with a guaranteed all-or-nothing result.
 -  `TransactGetItems`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQwNTE2NzcsMzk0ODM1MjM5LC0xOD
-E3MDIwNDc1XX0=
+eyJoaXN0b3J5IjpbOTk2OTk0NjI4LC0xNTk0MDUxNjc3LDM5ND
+gzNTIzOSwtMTgxNzAyMDQ3NV19
 -->
