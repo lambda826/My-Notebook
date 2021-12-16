@@ -119,6 +119,8 @@ Review at 100/200/500
 <a id="Leetcode 0876" href="https://leetcode.com/problems/middle-of-the-linked-list/">[Leetcode 0876.  Middle of the Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0876_Middle_of_the_Linked_List.java">**Solution**</a> **#
 <a id="Leetcode 0234" href="https://leetcode.com/problems/palindrome-linked-list/">[Leetcode 0234.  Palindrome Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0234_Palindrome_Linked_List.java">**Solution**</a> **###
 
+<a id="Leetcode 0716" href="https://leetcode.com/problems/max-stack/">[Leetcode 0716.  Max Stack]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0716_Max_Stack.java">**Solution**</a> **###
+
 
 # Binary Search
 
@@ -320,11 +322,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjE0MDAxNywtMjk1MjA0NzUsLTIwOT
-g5MzQ0MzEsLTEzOTA1Nzg1NjMsLTEyMDU0OTAwNSw5MjI4NTg0
-MTEsLTEwMTMyNzQzMzYsLTI2MjU2NjcwMiw2MjkwMzIwNjQsMT
-QzNzc0ODQwNiwtMjAxMzU1NDQzOSw1MDUwMDM5MzYsMTA2MTU0
-OTgzMSwxOTUxOTc2MjYsMTE1NDI3MTMzMCwtMTUzMzExNTk2NC
-w1MTUxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1Nzc5NzExLC0xMTg4
-NTM2MjZdfQ==
+eyJoaXN0b3J5IjpbLTExNDgyMzAyMTAsLTI5NjE0MDAxNywtMj
+k1MjA0NzUsLTIwOTg5MzQ0MzEsLTEzOTA1Nzg1NjMsLTEyMDU0
+OTAwNSw5MjI4NTg0MTEsLTEwMTMyNzQzMzYsLTI2MjU2NjcwMi
+w2MjkwMzIwNjQsMTQzNzc0ODQwNiwtMjAxMzU1NDQzOSw1MDUw
+MDM5MzYsMTA2MTU0OTgzMSwxOTUxOTc2MjYsMTE1NDI3MTMzMC
+wtMTUzMzExNTk2NCw1MTUxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1
+Nzc5NzExXX0=
 -->
