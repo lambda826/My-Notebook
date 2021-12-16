@@ -119,7 +119,7 @@ Review at 100/200/500
 <a id="Leetcode 0876" href="https://leetcode.com/problems/middle-of-the-linked-list/">[Leetcode 0876.  Middle of the Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0876_Middle_of_the_Linked_List.java">**Solution**</a> **#
 <a id="Leetcode 0234" href="https://leetcode.com/problems/palindrome-linked-list/">[Leetcode 0234.  Palindrome Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0234_Palindrome_Linked_List.java">**Solution**</a> **###
 
-<a id="Leetcode 0716" href="https://leetcode.com/problems/max-stack/">[Leetcode 0716.  Max Stack]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0716_Max_Stack.java">**Solution**</a> **###
+<a id="Leetcode 0716" href="https://leetcode.com/problems/max-stack/">[Leetcode 0716.  Max Stack]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0716_Max_Stack.java">**Solution**</a> ***###
 
 
 # Binary Search
@@ -322,11 +322,11 @@ Review at 100/200/500
 <a id="Leetcode 0843" href="https://leetcode.com/problems/guess-the-word/">[Leetcode 0843.  Guess the Word]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_99_others/_0843_Guess_the_Word.java">**Solution**</a> - Google, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyMzAyMTAsLTI5NjE0MDAxNywtMj
-k1MjA0NzUsLTIwOTg5MzQ0MzEsLTEzOTA1Nzg1NjMsLTEyMDU0
-OTAwNSw5MjI4NTg0MTEsLTEwMTMyNzQzMzYsLTI2MjU2NjcwMi
-w2MjkwMzIwNjQsMTQzNzc0ODQwNiwtMjAxMzU1NDQzOSw1MDUw
-MDM5MzYsMTA2MTU0OTgzMSwxOTUxOTc2MjYsMTE1NDI3MTMzMC
-wtMTUzMzExNTk2NCw1MTUxMjI3NTEsLTEzMTYxOTQ5NSwxMzY1
-Nzc5NzExXX0=
+eyJoaXN0b3J5IjpbMTI2NzkzNzA3MiwtMjk2MTQwMDE3LC0yOT
+UyMDQ3NSwtMjA5ODkzNDQzMSwtMTM5MDU3ODU2MywtMTIwNTQ5
+MDA1LDkyMjg1ODQxMSwtMTAxMzI3NDMzNiwtMjYyNTY2NzAyLD
+YyOTAzMjA2NCwxNDM3NzQ4NDA2LC0yMDEzNTU0NDM5LDUwNTAw
+MzkzNiwxMDYxNTQ5ODMxLDE5NTE5NzYyNiwxMTU0MjcxMzMwLC
+0xNTMzMTE1OTY0LDUxNTEyMjc1MSwtMTMxNjE5NDk1LDEzNjU3
+Nzk3MTFdfQ==
 -->
