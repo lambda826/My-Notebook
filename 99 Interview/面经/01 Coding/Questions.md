@@ -1,6 +1,7 @@
 **Remark**:
-*: Importance
-#: Difficulty
+\*: Importance
+
+\#: Difficulty
 
 **Steps**:
 1. Understand the question.
@@ -95,13 +96,15 @@ Review at 100/200/500
 * <a id="Leetcode 0301" href="https://leetcode.com/problems/remove-invalid-parentheses/">[Leetcode 0301. Remove Invalid Parentheses]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_02_string/parentheses/_0301_Remove_Invalid_Parentheses.java">**Solution**</a>
 
 # Two Pointer
+
+
 # LinkedList
+[Leetcode 0146. LRU Cache](https://leetcode.com/problems/lru-cache/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0146_LRU_Cache.java)
 
-<a id="Leetcode 0146" href="https://leetcode.com/problems/lru-cache/">[Leetcode 0146. LRU Cache]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0146_LRU_Cache.java">**Solution**</a>
+[Leetcode 0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0002_Add_Two_Numbers.java)
+[Leetcode 0445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0445_Add_Two_Numbers_II.java)
 
-<a id="Leetcode 0146" href="https://leetcode.com/problems/add-two-numbers/">[Leetcode 0002.  Add Two Numbers]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0002_Add_Two_Numbers.java">**Solution**</a> - Google, 
-<a id="Leetcode 0445" href="https://leetcode.com/problems/add-two-numbers-ii/">[Leetcode 0445.  Add Two Numbers II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0445_Add_Two_Numbers_II.java">**Solution**</a>
-
+[Leetcode 1474. Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1474_Delete_N_Nodes_After_M_Nodes_of_a_Linked_List.java)(*#)
 
 <a id="Leetcode 0237" href="https://leetcode.com/problems/delete-node-in-a-linked-list/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *##
 <a id="Leetcode 0203" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
@@ -120,6 +123,8 @@ Review at 100/200/500
 <a id="Leetcode 0234" href="https://leetcode.com/problems/palindrome-linked-list/">[Leetcode 0234.  Palindrome Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0234_Palindrome_Linked_List.java">**Solution**</a> **###
 
 <a id="Leetcode 0716" href="https://leetcode.com/problems/max-stack/">[Leetcode 0716.  Max Stack]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0716_Max_Stack.java">**Solution**</a> ***###
+
+
 
 
 # Binary Search
@@ -314,7 +319,8 @@ Review at 100/200/500
 <a id="Leetcode 0437" href="https://leetcode.com/problems/path-sum-iii/">[Leetcode 0437.  Path Sum III]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_22_prefixSum/_0437_Path_Sum_III.java">**Solution**</a> ****### - Google, 
 
 
-
+# Bit Manipulation
+[Leetcode 1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_23_bitManipulation/_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java)(*#) - 
 
 
 # Others
