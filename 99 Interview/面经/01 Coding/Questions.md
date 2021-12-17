@@ -11,7 +11,7 @@
 4. Double check code.
 	4.1. Try to find any bugs.
 	4.2. Corner cases.
-5. Analysis complesity.
+5. Analysis complexity.
 6. Run test cases.
 
 Target companies:
