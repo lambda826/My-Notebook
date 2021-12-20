@@ -1,8 +1,3 @@
-**Remark**:
-\*: Importance
-
-\#: Difficulty
-
 **Steps**:
 1. Understand the question.
 2. Analysis the question to find solution.
@@ -101,7 +96,7 @@ Review at 100/200/500
 # LinkedList
 [Leetcode 0146. LRU Cache](https://leetcode.com/problems/lru-cache/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0146_LRU_Cache.java)
 
-[Leetcode 0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0002_Add_Two_Numbers.java)
+[Leetcode 0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0002_Add_Two_Numbers.java)(***#)
 [Leetcode 0445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0445_Add_Two_Numbers_II.java)
 
 [Leetcode 1474. Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1474_Delete_N_Nodes_After_M_Nodes_of_a_Linked_List.java)(*#)
@@ -109,9 +104,13 @@ Review at 100/200/500
 <a id="Leetcode 0237" href="https://leetcode.com/problems/delete-node-in-a-linked-list/">[Leetcode 0237.  Delete Node in a Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0237_Delete_Node_in_a_Linked_List.java">**Solution**</a> *##
 <a id="Leetcode 0203" href="https://leetcode.com/problems/remove-linked-list-elements/">[Leetcode 0203.  Remove Linked List Elements]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0203_Remove_Linked_List_Elements.java">**Solution**</a> *#
 
-<a id="Leetcode 1836" href="https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/">[Leetcode 1836.  Remove Duplicates From an Unsorted Linked List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java">**Solution**</a> *##
-<a id="Leetcode 0083" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">[Leetcode 0083.  Remove Duplicates from Sorted List]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java">**Solution**</a> *#
-<a id="Leetcode 0082" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">[Leetcode 0082.  Remove Duplicates from Sorted List II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0082_Remove_Duplicates_from_Sorted_List_II.java">**Solution**</a> *##
+
+[Leetcode 1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_1836_Remove_Duplicates_From_an_Unsorted_Linked_List.java)(IDD)
+[Leetcode 0083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0083_Remove_Duplicates_from_Sorted_List.java)(ID)
+[Leetcode 0082. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0082_Remove_Duplicates_from_Sorted_List_II.java)(IDD)
+[Leetcode 0019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0019_Remove_Nth_Node_From_End_of_List.java)(ID)
+
+
 
 <a id="Leetcode 0141" href="https://leetcode.com/problems/linked-list-cycle/">[Leetcode 0141.  Linked List Cycle]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0141_Linked_List_Cycle.java">**Solution**</a> *##
 <a id="Leetcode 0142" href="https://leetcode.com/problems/linked-list-cycle-ii/">[Leetcode 0142.  Linked List Cycle II]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0142_Linked_List_Cycle_II.java">**Solution**</a> **##
@@ -124,6 +123,9 @@ Review at 100/200/500
 
 <a id="Leetcode 0716" href="https://leetcode.com/problems/max-stack/">[Leetcode 0716.  Max Stack]</a> : <a href="https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0716_Max_Stack.java">**Solution**</a> ***###
 
+[Leetcode 0024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0024_Swap_Nodes_in_Pairs.java)(ID)
+
+[Leetcode 0061. Rotate List](https://leetcode.com/problems/rotate-list/) - [**Solution**](https://github.com/lambda826/Algorithms/blob/master/src/questions/_04_linkedList/_0061_Rotate_List.java)(IIDDD)
 
 
 
